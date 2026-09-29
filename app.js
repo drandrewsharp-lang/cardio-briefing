@@ -17,14 +17,23 @@ let lastSave = 0;
 let pendingSeek = null;
 
 /* ---------- helpers ---------- */
+/* Security: every element is built with createElement/textContent (never innerHTML), so strings from the
+ * edition data can only ever become text. Event handlers must be functions (no string handlers), inline style
+ * attributes are refused (the CSP forbids them), and href is only accepted as an in-page '#...' fragment or an
+ * absolute https:// URL that has passed safeUrl(). */
 function h(tag, attrs, ...kids) {
   const e = document.createElement(tag);
   for (const [k, v] of Object.entries(attrs || {})) {
     if (v == null || v === false) continue;
     if (k === 'class') e.className = v;
     else if (k === 'text') e.textContent = v;
-    else if (k.startsWith('on')) e.addEventListener(k.slice(2), v);
-    else e.setAttribute(k, v === true ? '' : v);
+    else if (k.startsWith('on')) { if (typeof v === 'function') e.addEventListener(k.slice(2), v); }
+    else if (k === 'style' || k === 'srcdoc') continue;
+    else if (k === 'href') {
+      const href = String(v);
+      const ok = /^#[\w-]*$/.test(href) || safeUrl(href) === href;
+      if (ok) e.setAttribute('href', href);
+    } else e.setAttribute(k, v === true ? '' : v);
   }
   for (const k of kids.flat()) {
     if (k == null || k === false) continue;
@@ -32,9 +41,32 @@ function h(tag, attrs, ...kids) {
   }
   return e;
 }
+/* Only absolute https:// links are allowed (script and data URLs, http:, relative paths etc. return null). */
 function safeUrl(u) {
-  try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? x.href : null; } catch { return null; }
+  if (typeof u !== 'string' || !/^https:\/\//i.test(u)) return null;
+  try {
+    const x = new URL(u);
+    return x.protocol === 'https:' && x.hostname && !x.username && !x.password ? x.href : null;
+  } catch { return null; }
 }
+/* External paper link: new tab, no opener, no referrer. Falls back to plain text if the URL is not safe. */
+function extLink(url, text, cls) {
+  const u = safeUrl(url);
+  if (!u) return null;
+  return h('a', { class: cls, href: u, target: '_blank', rel: 'noopener noreferrer', referrerpolicy: 'no-referrer' }, text);
+}
+/* Audio must be a same-origin .mp3 under the app's own folder; anything else falls back to the default path. */
+function safeAudioUrl(u, date) {
+  const fallback = `data/${date}/briefing.mp3`;
+  if (typeof u !== 'string' || !u) return fallback;
+  try {
+    const x = new URL(u, location.href);
+    const base = new URL('./', location.href);
+    if (x.origin === location.origin && x.pathname.startsWith(base.pathname) && /\.mp3$/i.test(x.pathname)) return x.href;
+  } catch { /* fall through */ }
+  return fallback;
+}
+const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 function fmtDate(s) {
   const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(s || '');
   return m ? `${+m[3]} ${MONTHS[+m[2] - 1]} ${m[1]}` : (s || '');
@@ -258,15 +290,11 @@ function renderHeader(meta, ed) {
 }
 
 function paperLinks(p) {
-  const links = [];
-  const main = safeUrl(p.link);
-  if (main) links.push(h('a', { href: main, target: '_blank', rel: 'noopener' }, 'Open paper ↗'));
-  const pm = safeUrl(p.pubmed_link);
-  if (pm) links.push(h('a', { href: pm, target: '_blank', rel: 'noopener' }, 'PubMed'));
-  for (const a of p.also_in || []) {
-    const u = safeUrl(a.link);
-    if (u) links.push(h('a', { href: u, target: '_blank', rel: 'noopener' }, `Also in ${a.journal}`));
-  }
+  const links = [
+    extLink(p.link, 'Open paper ↗'),
+    extLink(p.pubmed_link, 'PubMed'),
+    ...(Array.isArray(p.also_in) ? p.also_in : []).map((a) => extLink(a && a.link, `Also in ${a && a.journal}`)),
+  ].filter(Boolean);
   return links.length ? h('div', { class: 'links' }, links) : null;
 }
 
@@ -279,10 +307,8 @@ function renderDigest(ed) {
   out.push(h('h2', {}, `Interventional cardiology (${interv.length})`));
   if (!interv.length) out.push(h('p', { class: 'card gsum' }, 'No new interventional papers in this edition.'));
   interv.forEach((p, i) => {
-    const url = safeUrl(p.link);
     out.push(h('article', { class: 'card paper' },
-      h('h3', {}, h('span', { class: 'num' }, `${i + 1}.`),
-        url ? h('a', { href: url, target: '_blank', rel: 'noopener' }, p.title) : p.title),
+      h('h3', {}, h('span', { class: 'num' }, `${i + 1}.`), extLink(p.link, p.title) || p.title),
       h('p', { class: 'src' }, h('b', {}, p.journal), ' · ', fmtDate(p.date),
         p.study_type ? h('span', { class: 'type' }, p.study_type) : null),
       p.summary
@@ -298,12 +324,11 @@ function renderDigest(ed) {
   out.push(h('h2', {}, `General cardiology: papers (${gen.length})`));
   if (gen.length) {
     out.push(h('ul', { class: 'card glist' }, gen.map((p) => {
-      const url = safeUrl(p.link);
       return h('li', {}, h('div', { class: 'g' },
-        url ? h('a', { class: 't', href: url, target: '_blank', rel: 'noopener' }, p.title) : h('span', { class: 't' }, p.title),
+        extLink(p.link, p.title, 't') || h('span', { class: 't' }, p.title),
         h('div', { class: 'src' }, h('b', {}, p.journal), ' · ', fmtDate(p.date),
           p.abstract_available === false ? ' · abstract not available' : '',
-          (p.also_in || []).length ? h('span', { class: 'also' }, ' · also in ' + p.also_in.map((a) => a.journal).join(', ')) : null),
+          Array.isArray(p.also_in) && p.also_in.length ? h('span', { class: 'also' }, ' · also in ' + p.also_in.map((a) => a && a.journal).join(', ')) : null),
         p.summary ? h('details', {}, h('summary', {}, 'Summary'), h('p', {}, p.summary)) : null,
       ));
     })));
@@ -335,6 +360,8 @@ async function openEdition(date, { scroll = false } = {}) {
     $('edition').replaceChildren(h('div', { class: 'error' }, `Could not load the ${fmtDate(date)} edition (${e.message}).`));
     return;
   }
+  if (!ed || typeof ed !== 'object') ed = {};
+  if (!Array.isArray(ed.papers)) ed.papers = [];
   if (current) { savePos(true); audio.pause(); }
   current = { meta, ed };
   renderHeader(meta, ed);
@@ -349,7 +376,7 @@ async function openEdition(date, { scroll = false } = {}) {
     player.hidden = false;
     const saved = parseFloat(localStorage.getItem(posKey(date)));
     pendingSeek = isFinite(saved) ? saved : null;
-    audio.src = meta.audio_url || `data/${date}/briefing.mp3`;
+    audio.src = safeAudioUrl(meta.audio_url, date);
     audio.load();
     applySpeed();
     setPlayingUI(false);
@@ -373,7 +400,9 @@ function route(scroll) {
 
 async function loadIndex() {
   const idx = await getJSON('data/editions.json');
-  idx.editions = (idx.editions || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+  idx.editions = (Array.isArray(idx.editions) ? idx.editions : [])
+    .filter((e) => e && typeof e.date === 'string' && DATE_RE.test(e.date))
+    .sort((a, b) => b.date.localeCompare(a.date));
   return idx;
 }
 

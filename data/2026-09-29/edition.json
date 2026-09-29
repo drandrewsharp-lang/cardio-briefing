@@ -14,7 +14,7 @@
   "end": "2026-09-29",
   "basis": "PubMed entry date 22-29 Sep 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
  },
- "generated_at": "2026-09-29T12:55",
+ "generated_at": "2026-09-29T13:41",
  "counts": {
   "EuroIntervention": {
    "pubmed_in_window": 0,
@@ -57,7 +57,6 @@
  "n_papers": 26,
  "n_interventional": 14,
  "n_general": 12,
- "general_summary": "The biggest general cardiology item is the new multisociety 2026 AHA/ACC guideline on perioperative cardiovascular management for noncardiac surgery, published in Circulation and JACC, which replaces the 2014 guideline. In pulmonary arterial hypertension, a 30-patient haemodynamic study found sotatercept lowered right ventricular contractility in step with afterload while preserving coupling and improving free-wall strain. The Enlighten registry of 787 extravascular ICD recipients reported 89.1% one-year freedom from major complications and a 7.1% one-year rate of inappropriate shock. In ASPREE, frailty and declining intrinsic capacity preceded cardiovascular events by up to a decade. Circulation also carried an aortic aneurysm methylation study and basic science on post-infarct rupture, hypertrophy and cardiac ageing.",
  "papers": [
   {
    "category": "interventional",
@@ -279,7 +278,7 @@
    "doi": "10.1161/CIR.0000000000001472",
    "link": "https://doi.org/10.1161/CIR.0000000000001472",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42804570/",
-   "summary": "Multisociety guideline on perioperative cardiovascular evaluation and management of adults having noncardiac surgery; it supersedes the 2014 ACC/AHA guideline and adds evidence-based strategies on pharmacotherapy, perioperative monitoring and devices.",
+   "summary": "New multisociety American Heart Association and American College of Cardiology guideline, co-published in Circulation and JACC, on perioperative cardiovascular evaluation and management of adults having noncardiac surgery. Built on a literature search from August 2022 to March 2023, it supersedes the 2014 guideline and adds evidence-based strategies on drug therapy, perioperative monitoring and devices.",
    "abstract_available": true,
    "study_type": "Guideline",
    "also_in": [
@@ -288,7 +287,8 @@
      "doi": "10.1016/j.jacc.2026.06.017",
      "link": "https://doi.org/10.1016/j.jacc.2026.06.017"
     }
-   ]
+   ],
+   "short_title": "the 2026 guideline on perioperative cardiovascular management for noncardiac surgery"
   },
   {
    "category": "general",
@@ -300,10 +300,11 @@
    "doi": "10.1161/CIRCULATIONAHA.126.081334",
    "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.081334",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770225/",
-   "summary": null,
+   "summary": "Prospective study of 30 patients with pulmonary arterial hypertension, with invasive haemodynamics and echocardiography at rest and on exercise before and after 24 weeks of sotatercept. Afterload fell and right ventricular contractility fell in proportion, preserving ventricular-arterial coupling. Basal indices declined, but free wall strain rose (mean difference 6.2%) and right atrial function improved.",
    "abstract_available": true,
    "study_type": "Prospective trial (n=30)",
-   "also_in": []
+   "also_in": [],
+   "short_title": "sotatercept and right heart mechanics in pulmonary arterial hypertension"
   },
   {
    "category": "general",
@@ -315,10 +316,11 @@
    "doi": "10.1161/CIRCULATIONAHA.126.080942",
    "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.080942",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770223/",
-   "summary": null,
+   "summary": "Enlighten, a prospective global registry of 787 patients with an attempted extravascular defibrillator implant by 168 implanters. Substernal lead placement succeeded in 99.2%. At 1 year, freedom from major system- or procedure-related complications was 89.1%, first appropriate therapy occurred in 7.3%, shock success was 100%, and inappropriate shocks occurred in 7.1%, mainly from noncardiac oversensing.",
    "abstract_available": true,
    "study_type": "Registry",
-   "also_in": []
+   "also_in": [],
+   "short_title": "one-year results of the Enlighten extravascular defibrillator registry"
   },
   {
    "category": "general",
@@ -330,10 +332,11 @@
    "doi": "10.1001/jamacardio.2026.3597",
    "link": "https://doi.org/10.1001/jamacardio.2026.3597",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42776539/",
-   "summary": null,
+   "summary": "Nested case-control study in ASPREE: 2,403 people with a cardiovascular event and 9,612 matched controls, assessed annually. Future cases had higher frailty, lower intrinsic capacity and poorer physical quality of life up to a decade before the event, widening sharply in the final 5 years and earliest for heart failure and fatal coronary disease.",
    "abstract_available": true,
    "study_type": "Nested case-control (ASPREE)",
-   "also_in": []
+   "also_in": [],
+   "short_title": "ageing trajectories before cardiovascular events in ASPREE"
   },
   {
    "category": "general",
@@ -345,10 +348,11 @@
    "doi": "10.1161/CIRCULATIONAHA.126.079863",
    "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.079863",
    "pubmed_link": null,
-   "summary": null,
+   "summary": "Epigenome-wide study in the Million Veteran Program, with 1,324 incident abdominal aortic aneurysm cases and 42,065 noncases. Of 1,253 associated DNA methylation sites, Mendelian randomisation supported a putative causal role for 143, implicating inflammatory transcription programmes, blood lipids and inflammation-related proteins. A methylation risk score remained associated with aneurysm in two external cohorts.",
    "abstract_available": true,
    "study_type": "EWAS / Mendelian randomisation",
-   "also_in": []
+   "also_in": [],
+   "short_title": "an epigenome-wide study of abdominal aortic aneurysm"
   },
   {
    "category": "general",
@@ -360,10 +364,11 @@
    "doi": "10.1161/CIRCULATIONAHA.126.079324",
    "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.079324",
    "pubmed_link": null,
-   "summary": null,
+   "summary": "Plasma proteomics in patients with acute myocardial infarction identified SMOC-1 as the protein most increased in those with cardiac rupture. Cardiomyocytes release it transiently, peaking one day after infarction, and it drives fibroblast activation and collagen maturation for scar formation. In mice, cardiomyocyte knockout doubled post-infarct rupture, while overexpression reduced rupture rates.",
    "abstract_available": true,
    "study_type": "Translational",
-   "also_in": []
+   "also_in": [],
+   "short_title": "SMOC-1 as a natural protection against cardiac rupture after infarction"
   },
   {
    "category": "general",
@@ -375,10 +380,11 @@
    "doi": "10.1161/CIRCULATIONAHA.126.080371",
    "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.080371",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770220/",
-   "summary": null,
+   "summary": "Basic science study screening lysosomal membrane proteins identified LAPTM4A as a promoter of pathological cardiac hypertrophy, boosting mTORC1-driven protein synthesis through NEDD4L and AKT ubiquitination. Cardiomyocyte-specific deletion reduced hypertrophy and fibrosis after aortic constriction in mice, and a drug-library screen found magnolol, an approved compound that suppresses LAPTM4A, was cardioprotective in vivo.",
    "abstract_available": true,
    "study_type": "Basic science",
-   "also_in": []
+   "also_in": [],
+   "short_title": "the lysosomal protein LAPTM4A as a driver of cardiac hypertrophy"
   },
   {
    "category": "general",
@@ -390,10 +396,11 @@
    "doi": "10.1161/CIRCULATIONAHA.125.079193",
    "link": "https://doi.org/10.1161/CIRCULATIONAHA.125.079193",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770216/",
-   "summary": null,
+   "summary": "Mouse and cell study of cardiac ageing. The RNA demethylase ALKBH5 increased in aged hearts; knocking it down from young adulthood reduced age-related remodelling and dysfunction, but not once ageing was established. ALKBH5 lowers the glutamine transporter SLC38A3, impairing mitochondrial homeostasis; restoring SLC38A3 or supplementing glutamine attenuated ageing-related cardiac changes.",
    "abstract_available": true,
    "study_type": "Basic science",
-   "also_in": []
+   "also_in": [],
+   "short_title": "RNA methylation, glutamine and cardiac ageing"
   },
   {
    "category": "general",
@@ -405,10 +412,11 @@
    "doi": "10.1161/CIRCULATIONAHA.126.080625",
    "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.080625",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770210/",
-   "summary": null,
+   "summary": "The muscle-specific ubiquitin ligase Asb2 was reduced in human cardiomyopathy and hypertrophied mouse hearts. Deleting it in adult mice caused spontaneous hypertrophy and heart failure, as KIF11 accumulated, lysosomes mislocalised, autophagic flux was impaired and dysfunctional mitochondria built up. Restoring Asb2 attenuated pressure-overload and age-related heart failure, and inhibiting KIF11 reversed remodelling after aortic constriction.",
    "abstract_available": true,
    "study_type": "Basic science",
-   "also_in": []
+   "also_in": [],
+   "short_title": "the Asb2 and KIF11 pathway in heart failure"
   },
   {
    "category": "general",
@@ -420,10 +428,11 @@
    "doi": "10.1001/jamacardio.2026.3507",
    "link": "https://doi.org/10.1001/jamacardio.2026.3507",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42776557/",
-   "summary": null,
+   "summary": "No abstract was available, so no results are reported here. According to the journal's one-line summary, this secondary analysis of the FINEARTS-HF randomised trial of finerenone in heart failure examines how common undiagnosed chronic kidney disease is among high-risk patients and how it relates to cardiovascular outcomes. See the full paper for findings.",
    "abstract_available": false,
    "study_type": "RCT secondary analysis (only a one-line key-points summary available)",
-   "also_in": []
+   "also_in": [],
+   "short_title": "undiagnosed kidney disease in the FINEARTS-HF finerenone trial"
   },
   {
    "category": "general",
@@ -435,10 +444,11 @@
    "doi": "10.1001/jamacardio.2026.3964",
    "link": "https://doi.org/10.1001/jamacardio.2026.3964",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42776511/",
-   "summary": null,
+   "summary": "No abstract was available, so no results are reported here. According to the journal's one-line summary, this cohort study evaluates the association between measured lipoprotein(a) levels and incident venous thromboembolism. The full paper is needed for the cohort size, the lipoprotein(a) thresholds used and the size and direction of any association.",
    "abstract_available": false,
    "study_type": "Cohort",
-   "also_in": []
+   "also_in": [],
+   "short_title": "lipoprotein(a) and venous thromboembolism"
   },
   {
    "category": "general",
@@ -450,10 +460,11 @@
    "doi": "10.1161/CIRCINTERVENTIONS.126.016881",
    "link": "https://doi.org/10.1161/CIRCINTERVENTIONS.126.016881",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42775438/",
-   "summary": null,
+   "summary": "No abstract was available for this research letter, so no results are reported here. Based on its title, this multicentre PERT Consortium registry study examines a composite pulmonary embolism shock score and its relation to outcomes in intermediate-risk acute pulmonary embolism. See the full letter for the score components, cohort size and findings.",
    "abstract_available": false,
    "study_type": "Multicentre registry (research letter)",
-   "also_in": []
+   "also_in": [],
+   "short_title": "a composite shock score in intermediate-risk pulmonary embolism"
   }
  ],
  "excluded": [

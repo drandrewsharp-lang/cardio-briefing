@@ -1,0 +1,549 @@
+{
+ "date": "2026-09-29",
+ "label": "Tuesday 29 September 2026: EuroIntervention, JACC: Cardiovascular Interventions, Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology, The Lancet",
+ "journals": [
+  "EuroIntervention",
+  "JACC: Cardiovascular Interventions",
+  "Circulation",
+  "Circulation: Cardiovascular Interventions",
+  "JAMA Cardiology",
+  "The Lancet"
+ ],
+ "window": {
+  "start": "2026-09-22",
+  "end": "2026-09-29",
+  "basis": "PubMed entry date 22-29 Sep 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-09-29T12:55",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "JACC": {
+   "pubmed_in_window": 4,
+   "included": 0,
+   "note": "perioperative guideline co-published; counted under Circulation"
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 17,
+   "included": 5
+  },
+  "Circulation": {
+   "pubmed_in_window": 17,
+   "included": 10
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 8,
+   "included": 4
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 6,
+   "included": 3
+  },
+  "NEJM": {
+   "pubmed_in_window": 21,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 25,
+   "included": 3
+  },
+  "JAMA": {
+   "pubmed_in_window": 36,
+   "included": 0
+  }
+ },
+ "n_papers": 26,
+ "n_interventional": 14,
+ "n_general": 12,
+ "general_summary": "The biggest general cardiology item is the new multisociety 2026 AHA/ACC guideline on perioperative cardiovascular management for noncardiac surgery, published in Circulation and JACC, which replaces the 2014 guideline. In pulmonary arterial hypertension, a 30-patient haemodynamic study found sotatercept lowered right ventricular contractility in step with afterload while preserving coupling and improving free-wall strain. The Enlighten registry of 787 extravascular ICD recipients reported 89.1% one-year freedom from major complications and a 7.1% one-year rate of inappropriate shock. In ASPREE, frailty and declining intrinsic capacity preceded cardiovascular events by up to a decade. Circulation also carried an aortic aneurysm methylation study and basic science on post-infarct rupture, hypertrophy and cardiac ageing.",
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Stenting Technique and Clinical Outcome in True Bifurcation PCI: Insights From the OCTOBER Trial",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-09-28",
+   "pmid": "42805715",
+   "doi": "10.1016/j.jcin.2026.06.027",
+   "link": "https://doi.org/10.1016/j.jcin.2026.06.027",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42805715/",
+   "summary": "Post hoc analysis of 1,201 patients with true coronary bifurcation lesions treated with PCI in the OCTOBER trial of OCT-guided versus angiography-guided bifurcation PCI. Acute presentation (adjusted OR 1.73), left main bifurcation (adjusted OR 2.04) and side-branch lesion length and severity predicted use of a 2-stent technique. As treated, a 1-stent technique had lower 2-year MACE than a 2-stent technique (9.0% vs 13.9%; adjusted HR 1.53, 95% CI 1.04-2.27), with no interaction with OCT, while planned-strategy analyses showed no significant difference. Angiography-guided DK-crush had higher MACE than OCT-guided DK-crush (HR 2.42, 95% CI 1.12-5.24), and OCT-guided 1-stent PCI had the lowest event rates.",
+   "abstract_available": true,
+   "study_type": "RCT post hoc analysis",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Percutaneous coronary intervention using sirolimus-eluting balloons in patients at high bleeding risk: the SELUTION DeNovo HBR substudy",
+   "journal": "EuroIntervention",
+   "date": "2026-09-28",
+   "pmid": null,
+   "doi": "10.4244/EIJ-D-26-00889",
+   "link": "https://doi.org/10.4244/EIJ-D-26-00889",
+   "pubmed_link": null,
+   "summary": "Prespecified subgroup of the SELUTION DeNovo trial (3,323 patients randomised to sirolimus-eluting balloon with provisional stenting vs systematic DES): 522 patients met ARC-HBR criteria. Bailout stenting was needed in 17.1% of the balloon arm and 67% of patients were discharged on oral anticoagulation. At 1 year, target vessel failure was 4.9% vs 7.9% (risk difference -3.05%, 95% CI -7.27 to 1.17), BARC 3-5 bleeding 2.3% vs 3.2% and NACE 6.8% vs 10.7% (balloon vs DES). All antiplatelet therapy had been stopped in 7.7% vs 2.5% at 30 days (p=0.005) and 27.8% vs 14.9% at 6 months (p<0.001); the authors note the subgroup was not powered for definitive conclusions.",
+   "abstract_available": true,
+   "study_type": "RCT prespecified subgroup (abstract from publisher page; not yet in PubMed)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Paclitaxel-Coated Devices in Patients With Chronic Limb-Threatening Ischemia and Tissue Loss Undergoing Infrainguinal Endovascular Revascularization: Insights From the SWEDEPAD-1 Trial",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-09-24",
+   "pmid": "42779544",
+   "doi": "10.1161/CIRCINTERVENTIONS.126.016977",
+   "link": "https://doi.org/10.1161/CIRCINTERVENTIONS.126.016977",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42779544/",
+   "summary": "Post hoc subgroup of the registry-based randomised SWEDEPAD-1 trial: 1,761 patients with chronic limb-threatening ischaemia and tissue loss (Rutherford 5-6) randomised to paclitaxel-coated or uncoated infrainguinal endovascular devices. Major amputation within 3 months was more frequent with paclitaxel (10.4% vs 7.5%; adjusted HR 1.43, 95% CI 1.04-1.96); amputation rates were similar at 1 year (16.3% vs 14.6%) and through 5 years. Target vessel reintervention at 1 year was lower with paclitaxel (13.6% vs 18.0%; adjusted HR 0.77), but this was attenuated when early limb loss was included in a composite, and there were no significant differences at 5 years.",
+   "abstract_available": true,
+   "study_type": "RCT post hoc subgroup",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Prognostic Value of Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve From a Large Nationwide Cohort",
+   "journal": "Circulation",
+   "date": "2026-09-22",
+   "pmid": "42770221",
+   "doi": "10.1161/CIRCULATIONAHA.126.081264",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.081264",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770221/",
+   "summary": "Nationwide English cohort of 7,836 patients with stable coronary disease who had clinically indicated FFR-CT at 27 sites (2017-2020), followed for 3 years. After adjustment for risk factors and CAD-RADS stenosis severity, stenosis-specific FFR-CT of 0.7 or less was associated with myocardial infarction (adjusted HR 2.94-3.39) and 0.5 or less with cardiovascular death (adjusted HR 2.92) and all-cause death (adjusted HR 1.49). FFR-CT improved discrimination for MI or cardiovascular death (C index 0.783), 0.67 was the optimal risk cut-off, and event rates were low (1.5% at 3 years) when stenosis-specific FFR-CT was normal.",
+   "abstract_available": true,
+   "study_type": "Nationwide cohort",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Contrasting Prognostic Value of Discordance Between Resting Distal-to-Aortic Coronary Pressure Ratio and Fractional Flow Reserve in Coronary Artery Disease",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-09-24",
+   "pmid": "42779535",
+   "doi": "10.1161/CIRCINTERVENTIONS.126.016865",
+   "link": "https://doi.org/10.1161/CIRCINTERVENTIONS.126.016865",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42779535/",
+   "summary": "From the prospective IRIS-FFR registry, 9,737 medically treated lesions in 7,376 patients were grouped by resting Pd/Pa (0.93 or less) and FFR (0.80 or less); discordance occurred in 15.91% of lesions. Lesions with normal resting Pd/Pa but abnormal FFR had higher 5-year target-vessel failure than those with abnormal Pd/Pa but normal FFR (adjusted HR 1.67, 95% CI 1.09-2.55; P=0.020) but lower all-cause death (adjusted HR 0.23, 95% CI 0.11-0.52). The authors conclude FFR predicts vessel-specific events while resting Pd/Pa tracks overall survival, supporting complementary use of both indices.",
+   "abstract_available": true,
+   "study_type": "Prospective registry",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Residual Mitral Regurgitation as a Long-Term Predictor of Mortality After Mitral TEER",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-09-28",
+   "pmid": "42805718",
+   "doi": "10.1016/j.jcin.2026.06.034",
+   "link": "https://doi.org/10.1016/j.jcin.2026.06.034",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42805718/",
+   "summary": "Five-year follow-up of the multicentre MITRA-PRO registry (n = 1,491) after mitral transcatheter edge-to-edge repair, classifying residual MR by intraprocedural MitraScore. Five-year mortality was 55.1% with mild or less residual MR (MitraScore 3 or less) vs 67.7% with more (4 or more); 53.1% vs 73.2% in degenerative MR and 55.0% vs 64.6% in functional MR, with an almost linear relationship. Early risk was driven by advanced disease and procedural factors, whereas residual MR became prognostic after 30 days.",
+   "abstract_available": true,
+   "study_type": "Multicentre registry",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "The Association Between Hospital Comprehensive Stroke Center Designation Status and Stroke Rate Reporting in the Society of Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy Registry After Transcatheter Aortic Valve Replacement: Implications for Hospital Performance Assessment",
+   "journal": "Circulation",
+   "date": "2026-09-29",
+   "pmid": null,
+   "doi": "10.1161/CIRCULATIONAHA.125.078584",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.125.078584",
+   "pubmed_link": null,
+   "summary": "Analysis of 525,919 TAVRs at 800 US sites in the TVT Registry (2016-mid 2023); 30-day stroke was reported in 2.1% (1.6% in hospital). Comprehensive Stroke Center designation and participation in TAVR trials independently predicted reported in-hospital stroke (P=0.033 and P=0.012) and disabling stroke, but not falsification end points such as bleeding or death. Correcting for stroke-centre status improved the 30-day composite performance rating for 8 of 153 stroke-centre hospitals, suggesting ascertainment bias in public reporting.",
+   "abstract_available": true,
+   "study_type": "National registry (abstract via Crossref; not yet in PubMed)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 8,
+   "title": "Clinical Performance and Reproducibility of the LIRA Method for TAVR in Bicuspid Anatomy: The SUBLIME Study",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-09-28",
+   "pmid": "42805721",
+   "doi": "10.1016/j.jcin.2026.06.018",
+   "link": "https://doi.org/10.1016/j.jcin.2026.06.018",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42805721/",
+   "summary": "Retrospective 6-centre study of 215 bicuspid aortic valve patients undergoing TAVR sized with the LIRA (level of implantation at the raphe) method, which led to prosthesis downsizing in 74.4%. At 30 days device success was 93%, moderate or greater paravalvular leak 4.6%, new pacemaker 10.7% and stroke 1.9%; 1-year mortality was 5.7%. Core-lab sizing agreement across centres was excellent (kappa 0.85).",
+   "abstract_available": true,
+   "study_type": "Multicentre retrospective cohort",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 9,
+   "title": "Transcatheter Patent Ductus Arteriosus Closure in Extremely Premature Infants: Transition to the Bedside",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-09-28",
+   "pmid": "42805720",
+   "doi": "10.1016/j.jcin.2026.05.040",
+   "link": "https://doi.org/10.1016/j.jcin.2026.05.040",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42805720/",
+   "summary": "Single-programme retrospective review of 500 infants born before 28 weeks and under 2 kg who had transcatheter PDA closure (2012-2024), 176 of them at the NICU bedside under echocardiographic guidance. Bedside procedures were shorter (18 vs 32 minutes) with less radiation; procedural success was 100% in all settings and major complications 1.7%. At a median 6.8 years, survival was 89% with no residual ducts.",
+   "abstract_available": true,
+   "study_type": "Retrospective cohort",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 10,
+   "title": "Understanding peripheral arterial disease in the current era (Lancet PAD Series, paper 1)",
+   "journal": "The Lancet",
+   "date": "2026-09-22",
+   "pmid": "42772316",
+   "doi": "10.1016/S0140-6736(26)00846-9",
+   "link": "https://doi.org/10.1016/S0140-6736(26)00846-9",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42772316/",
+   "summary": "First of a three-paper Lancet clinical Series on lower-extremity PAD, focusing on its global importance and drivers and on its under-recognition, underdiagnosis and undertreatment. It notes that, once PAD is diagnosed at an advanced stage, 5-year mortality is between 30% and 50%.",
+   "abstract_available": true,
+   "study_type": "Review (Series)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 11,
+   "title": "Current advancements in the care of peripheral arterial disease: modern approaches to medical, endovascular, and surgical treatment (Lancet PAD Series, paper 2)",
+   "journal": "The Lancet",
+   "date": "2026-09-22",
+   "pmid": "42772315",
+   "doi": "10.1016/S0140-6736(26)00845-7",
+   "link": "https://doi.org/10.1016/S0140-6736(26)00845-7",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42772315/",
+   "summary": "Second Series paper: medical therapy and risk-factor modification are the cornerstone of PAD care and supervised exercise is effective for claudication. The authors state revascularisation is overused in intermittent claudication and should generally be reserved for chronic limb-threatening ischaemia, given peri-procedural risk and limited durability.",
+   "abstract_available": true,
+   "study_type": "Review (Series)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 12,
+   "title": "Peripheral arterial disease: adverse impacts, disparities in outcomes, and the path ahead (Lancet PAD Series, paper 3)",
+   "journal": "The Lancet",
+   "date": "2026-09-22",
+   "pmid": "42772314",
+   "doi": "10.1016/S0140-6736(26)00847-0",
+   "link": "https://doi.org/10.1016/S0140-6736(26)00847-0",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42772314/",
+   "summary": "Third Series paper on the individual and societal burden of PAD (over 300 million people affected worldwide), marked disparities in underserved groups, and recommendations including multidisciplinary care models and testing whether screening with early medical management reduces the burden.",
+   "abstract_available": true,
+   "study_type": "Review (Series)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 13,
+   "title": "Intraprocedural Left Atrial Pressure Monitoring and Clinical Outcomes in Patients Undergoing Mitral Transcatheter Edge-to-Edge Repair",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-09-28",
+   "pmid": "42805723",
+   "doi": "10.1016/j.jcin.2026.07.028",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.028",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42805723/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Research letter",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 14,
+   "title": "Artificial Intelligence-Derived Volumetric High-Risk Plaque Features Are Predominantly Located Proximal to Maximal Luminal Stenosis",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-09-23",
+   "pmid": "42775439",
+   "doi": "10.1161/CIRCINTERVENTIONS.126.017300",
+   "link": "https://doi.org/10.1161/CIRCINTERVENTIONS.126.017300",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42775439/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Research letter (OCT)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "2026 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+   "journal": "Circulation",
+   "date": "2026-09-28",
+   "pmid": "42804570",
+   "doi": "10.1161/CIR.0000000000001472",
+   "link": "https://doi.org/10.1161/CIR.0000000000001472",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42804570/",
+   "summary": "Multisociety guideline on perioperative cardiovascular evaluation and management of adults having noncardiac surgery; it supersedes the 2014 ACC/AHA guideline and adds evidence-based strategies on pharmacotherapy, perioperative monitoring and devices.",
+   "abstract_available": true,
+   "study_type": "Guideline",
+   "also_in": [
+    {
+     "journal": "JACC",
+     "doi": "10.1016/j.jacc.2026.06.017",
+     "link": "https://doi.org/10.1016/j.jacc.2026.06.017"
+    }
+   ]
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Sotatercept Improves Right Heart Mechanics Despite Reduced Myocardial Contractility in Pulmonary Arterial Hypertension: A Prospective Exercise Hemodynamic Study",
+   "journal": "Circulation",
+   "date": "2026-09-22",
+   "pmid": "42770225",
+   "doi": "10.1161/CIRCULATIONAHA.126.081334",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.081334",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770225/",
+   "summary": null,
+   "abstract_available": true,
+   "study_type": "Prospective trial (n=30)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Real-World Experience With the Extravascular Implantable Cardioverter Defibrillator Through 1 Year: The Enlighten Post Approval Registry Study",
+   "journal": "Circulation",
+   "date": "2026-09-22",
+   "pmid": "42770223",
+   "doi": "10.1161/CIRCULATIONAHA.126.080942",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.080942",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770223/",
+   "summary": null,
+   "abstract_available": true,
+   "study_type": "Registry",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Multidimensional Aging Trajectories Preceding Cardiovascular Events",
+   "journal": "JAMA Cardiology",
+   "date": "2026-09-23",
+   "pmid": "42776539",
+   "doi": "10.1001/jamacardio.2026.3597",
+   "link": "https://doi.org/10.1001/jamacardio.2026.3597",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42776539/",
+   "summary": null,
+   "abstract_available": true,
+   "study_type": "Nested case-control (ASPREE)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 5,
+   "title": "Epigenome-Wide Association Study of Abdominal Aortic Aneurysm Identifies Central Role for Inflammatory Pathways",
+   "journal": "Circulation",
+   "date": "2026-09-29",
+   "pmid": null,
+   "doi": "10.1161/CIRCULATIONAHA.126.079863",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.079863",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": true,
+   "study_type": "EWAS / Mendelian randomisation",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 6,
+   "title": "Identification of Secreted Modular Calcium-Binding Protein 1 as a Novel Endogenous Protective Molecule Against Acute Myocardial Infarction-Induced Cardiac Rupture",
+   "journal": "Circulation",
+   "date": "2026-09-29",
+   "pmid": null,
+   "doi": "10.1161/CIRCULATIONAHA.126.079324",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.079324",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": true,
+   "study_type": "Translational",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 7,
+   "title": "Novel mTORC1 Booster LAPTM4A Potentiates Pathological Cardiac Hypertrophy",
+   "journal": "Circulation",
+   "date": "2026-09-22",
+   "pmid": "42770220",
+   "doi": "10.1161/CIRCULATIONAHA.126.080371",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.080371",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770220/",
+   "summary": null,
+   "abstract_available": true,
+   "study_type": "Basic science",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 8,
+   "title": "ALKBH5-Dependent m6A Demethylation Promotes Cardiac Aging Through SLC38A3 Reduction and Glutamine Metabolic Alteration",
+   "journal": "Circulation",
+   "date": "2026-09-22",
+   "pmid": "42770216",
+   "doi": "10.1161/CIRCULATIONAHA.125.079193",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.125.079193",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770216/",
+   "summary": null,
+   "abstract_available": true,
+   "study_type": "Basic science",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 9,
+   "title": "Asb2-KIF11 Axis Protects Against Heart Failure by Restoring Lysosomal Distribution and Mitochondrial Homeostasis",
+   "journal": "Circulation",
+   "date": "2026-09-22",
+   "pmid": "42770210",
+   "doi": "10.1161/CIRCULATIONAHA.126.080625",
+   "link": "https://doi.org/10.1161/CIRCULATIONAHA.126.080625",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42770210/",
+   "summary": null,
+   "abstract_available": true,
+   "study_type": "Basic science",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 10,
+   "title": "Undiagnosed Chronic Kidney Disease, Outcomes, and Finerenone in Heart Failure: The FINEARTS-HF Randomized Clinical Trial",
+   "journal": "JAMA Cardiology",
+   "date": "2026-09-23",
+   "pmid": "42776557",
+   "doi": "10.1001/jamacardio.2026.3507",
+   "link": "https://doi.org/10.1001/jamacardio.2026.3507",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42776557/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "RCT secondary analysis (only a one-line key-points summary available)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 11,
+   "title": "Lipoprotein(a) and Incident Venous Thromboembolism",
+   "journal": "JAMA Cardiology",
+   "date": "2026-09-23",
+   "pmid": "42776511",
+   "doi": "10.1001/jamacardio.2026.3964",
+   "link": "https://doi.org/10.1001/jamacardio.2026.3964",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42776511/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Cohort",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 12,
+   "title": "Composite Pulmonary Embolism Shock Score and Outcomes in Intermediate-Risk Acute Pulmonary Embolism: A Multicenter PERT Consortium Registry Study",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-09-23",
+   "pmid": "42775438",
+   "doi": "10.1161/CIRCINTERVENTIONS.126.016881",
+   "link": "https://doi.org/10.1161/CIRCINTERVENTIONS.126.016881",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42775438/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Multicentre registry (research letter)",
+   "also_in": []
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE RCT",
+   "journal": "JAMA",
+   "pmid": "42776543",
+   "doi": "10.1001/jama.2026.15496",
+   "reason": "neurology/stroke thrombectomy - not cardiology"
+  },
+  {
+   "title": "Intra-Arterial Tenecteplase After Endovascular Thrombectomy for Acute Stroke: One-Year Outcomes of ANGEL-TNK",
+   "journal": "JAMA",
+   "pmid": "42804200",
+   "doi": null,
+   "reason": "neurology - not cardiology"
+  },
+  {
+   "title": "Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE RCT",
+   "journal": "JAMA",
+   "pmid": "42806496",
+   "doi": "10.1001/jama.2026.19747",
+   "reason": "paediatric critical care - not cardiology"
+  },
+  {
+   "title": "Hemodynamic Flow Signatures: A Novel Paradigm for the Evaluation of Transcatheter Aortic Valve Performance",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "pmid": "42770219",
+   "doi": "10.1161/circinterventions.126.017313",
+   "reason": "narrative review/perspective"
+  },
+  {
+   "title": "Acute Management of Periprocedural Stroke Following TAVR",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42805724",
+   "doi": null,
+   "reason": "no abstract; article type unclear (likely case-based/how-to)"
+  },
+  {
+   "title": "JCIN case/image items (Hybrid TAV-in-TAV snorkel; Cabrol graft STEMI; 35-mm Myval; THV skirt endothelialization)",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42805728,42805727,42805726,42805725",
+   "doi": null,
+   "reason": "case reports/images"
+  },
+  {
+   "title": "Managing POTS: A Cardiovascular Call to Action",
+   "journal": "JACC",
+   "pmid": "42776093",
+   "doi": "10.1016/j.jacc.2026.07.051",
+   "reason": "no abstract; perspective"
+  },
+  {
+   "title": "Circulation no-abstract pieces (hATTR imaging; Congress Paradox; plaque haemorrhage; Under Pressure)",
+   "journal": "Circulation",
+   "pmid": "42804571,42804566,42804565,42804564",
+   "doi": null,
+   "reason": "images/perspectives/editorial-type"
+  },
+  {
+   "title": "JAMA news items (Lp(a)-lowering agent fails; testosterone and AF; GLP-1 and OSA)",
+   "journal": "JAMA",
+   "pmid": "42789273,42789259,42789277",
+   "doi": null,
+   "reason": "news"
+  },
+  {
+   "title": "Drug-coated balloons in high bleeding risk PCI: can we safely drop the scaffold?",
+   "journal": "EuroIntervention",
+   "pmid": null,
+   "doi": "10.4244/eij-d-26-01027",
+   "reason": "editorial (no abstract)"
+  },
+  {
+   "title": "Blood Pressure Targets in Critically Ill Children",
+   "journal": "JAMA",
+   "pmid": "42806497",
+   "doi": null,
+   "reason": "editorial; paediatric critical care - not cardiology"
+  },
+  {
+   "title": "EuroIntervention DOIs registered 28 Sep but pages not live (e.g. device success after PCI; cardiogenic shock multivessel complexity substudy; CTO distal remodelling; calcium density on serial CT)",
+   "journal": "EuroIntervention",
+   "pmid": null,
+   "doi": "10.4244/eij-d-26-00413 etc.",
+   "reason": "not yet published online (DOI landing 404); left for a future run"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

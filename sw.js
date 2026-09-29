@@ -6,7 +6,7 @@
  *   (other origins, other repos on the same github.io origin, non-GET) passes straight through untouched,
  *   and only successful, non-redirected same-origin ('basic') responses are ever written to the cache.
  */
-const VERSION = 'cb-v2';
+const VERSION = 'cb-v3';
 const SHELL = VERSION + '-shell';
 const DATA = VERSION + '-data';
 const SHELL_FILES = [

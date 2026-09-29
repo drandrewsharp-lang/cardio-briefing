@@ -5,6 +5,8 @@ No build step: `index.html`, `app.js`, `style.css`, `sw.js`, `manifest.json`, `i
 
 Data: `data/editions.json` (index) and `data/YYYY-MM-DD/{edition.json,briefing.mp3}`, published by `publish.py`
 in the (private, local) tooling folder. Content is summaries of published abstracts; not indexed (`noindex`).
+The digest shows interventional papers in detail and general cardiology papers with one ~50-word summary each
+(older editions may instead carry a single combined `general_summary`, which the app still displays).
 
 Security: strict Content-Security-Policy (meta tag in `index.html`: only same-origin scripts, styles, images, audio, data and
 worker; no inline code, no external origins), `no-referrer`, DOM built with `textContent` only, and paper links limited to

@@ -318,18 +318,25 @@ function renderDigest(ed) {
     ));
   });
 
-  out.push(h('h2', {}, 'General cardiology: summary'));
-  out.push(h('div', { class: 'card gsum' }, h('p', {}, ed.general_summary || 'No general cardiology summary.')));
-
-  out.push(h('h2', {}, `General cardiology: papers (${gen.length})`));
-  if (gen.length) {
-    out.push(h('ul', { class: 'card glist' }, gen.map((p) => {
+  /* General cardiology: one ~50-word summary per paper (new editions). Older editions carried a single combined
+   * `general_summary` instead; it is still shown (above the list) when present. All text goes through h(). */
+  out.push(h('h2', {}, `General cardiology (${gen.length})`));
+  if (ed.general_summary) out.push(h('div', { class: 'card gsum' }, h('p', {}, String(ed.general_summary))));
+  if (!gen.length) {
+    if (!ed.general_summary) out.push(h('p', { class: 'card gsum' }, 'No new general cardiology papers in this edition.'));
+  } else {
+    out.push(h('ul', { class: 'card glist' }, gen.map((p, i) => {
+      const noAbs = p.abstract_available === false;
       return h('li', {}, h('div', { class: 'g' },
-        extLink(p.link, p.title, 't') || h('span', { class: 't' }, p.title),
+        h('div', { class: 'gt' }, h('span', { class: 'num' }, `${i + 1}.`),
+          extLink(p.link, p.title, 't') || h('span', { class: 't' }, p.title)),
         h('div', { class: 'src' }, h('b', {}, p.journal), ' · ', fmtDate(p.date),
-          p.abstract_available === false ? ' · abstract not available' : '',
+          noAbs ? ' · abstract not available' : '',
           Array.isArray(p.also_in) && p.also_in.length ? h('span', { class: 'also' }, ' · also in ' + p.also_in.map((a) => a && a.journal).join(', ')) : null),
-        p.summary ? h('details', {}, h('summary', {}, 'Summary'), h('p', {}, p.summary)) : null,
+        p.summary
+          ? h('p', { class: 'gs' }, String(p.summary))
+          : (ed.general_summary ? null : h('p', { class: 'gs na' }, noAbs ? 'Abstract not available; title only.' : 'No summary.')),
+        paperLinks(p),
       ));
     })));
   }

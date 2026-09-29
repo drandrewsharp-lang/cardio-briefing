@@ -133,6 +133,11 @@ h2 { font-size: 20px; margin: 26px 4px 12px; letter-spacing: -.005em; }
 .glist details { margin-top: 6px; font-size: 15px; }
 .glist summary { color: var(--link); cursor: pointer; font-weight: 600; min-height: 32px; display: flex; align-items: center; }
 .glist details p { margin: 4px 0 0; line-height: 1.55; }
+.glist .g .gt { display: flex; gap: 6px; align-items: baseline; }
+.glist .g .gt .num { flex: none; }
+.glist .g .gs { margin: 8px 0 0; font-size: 15px; line-height: 1.55; }
+.glist .g .gs.na { color: var(--muted); font-style: italic; }
+.glist .g .links { margin-top: 8px; }
 .also { font-size: 13px; color: var(--muted); }
 
 /* Past editions */

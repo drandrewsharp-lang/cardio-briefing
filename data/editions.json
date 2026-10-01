@@ -1,7 +1,17 @@
 {
  "app": "Cardio Briefing",
- "latest": "2026-09-29",
+ "latest": "2026-10-01",
  "editions": [
+  {
+   "date": "2026-10-01",
+   "label": "Thursday 1 October 2026: JACC, JAMA Cardiology, The Lancet",
+   "n_papers": 7,
+   "n_interventional": 0,
+   "n_general": 7,
+   "audio": true,
+   "duration_s": 247.9,
+   "audio_bytes": 2479689
+  },
   {
    "date": "2026-09-29",
    "label": "Tuesday 29 September 2026: EuroIntervention, JACC: Cardiovascular Interventions, Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology, The Lancet",

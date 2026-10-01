@@ -1,0 +1,211 @@
+{
+ "date": "2026-10-01",
+ "label": "Thursday 1 October 2026: JACC, JAMA Cardiology, The Lancet",
+ "journals": [
+  "JACC",
+  "JAMA Cardiology",
+  "The Lancet"
+ ],
+ "window": {
+  "start": "2026-09-30",
+  "end": "2026-10-01",
+  "basis": "PubMed entry date 30 Sep–1 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-01T08:59",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 9,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 10,
+   "included": 5
+  },
+  "NEJM": {
+   "pubmed_in_window": 20,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "JAMA": {
+   "pubmed_in_window": 9,
+   "included": 0
+  }
+ },
+ "n_papers": 7,
+ "n_interventional": 0,
+ "n_general": 7,
+ "papers": [
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "No-Touch vs Conventional Vein Grafts in Coronary Surgery: Seven-Year Clinical Outcomes of the SWEDEGRAFT Randomized Clinical Trial.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-09-30",
+   "pmid": "42814420",
+   "doi": "10.1001/jamacardio.2026.4222",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4222",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42814420/",
+   "summary": "Prespecified seven-year follow-up of SWEDEGRAFT, randomising 900 patients after coronary bypass to no-touch or conventional saphenous vein harvesting. Death, myocardial infarction or repeat revascularisation occurred in 19.8% versus 20.4% (hazard ratio 0.98). With previously reported excess leg-wound complications, routine no-touch harvesting lacked a net clinical benefit.",
+   "abstract_available": true,
+   "study_type": "RCT extended follow-up",
+   "also_in": [],
+   "short_title": "seven-year SWEDEGRAFT outcomes of no-touch vein grafts in coronary surgery"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes and increased cardiovascular risk.",
+   "journal": "The Lancet",
+   "date": "2026-09-30",
+   "pmid": "42815506",
+   "doi": "10.1016/s0140-6736(26)01865-9",
+   "link": "https://doi.org/10.1016/s0140-6736(26)01865-9",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42815506/",
+   "summary": "Phase 3 randomised trial of oral orforglipron versus insulin glargine in 2,749 adults with type 2 diabetes at high cardiovascular risk. Over a median two years, four-component major adverse cardiovascular events occurred in 4.2% versus 5.0% (hazard ratio 0.84), meeting non-inferiority. Gastrointestinal events were more common and hypoglycaemia less common with orforglipron.",
+   "abstract_available": true,
+   "study_type": "Phase 3 RCT",
+   "also_in": [],
+   "short_title": "cardiovascular safety of oral orforglipron versus insulin glargine"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Cardiovascular-Kidney-Metabolic Overlap in Patients Hospitalized for Heart Failure.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-09-30",
+   "pmid": "42814450",
+   "doi": "10.1001/jamacardio.2026.4215",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4215",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42814450/",
+   "summary": "In Get With The Guidelines–Heart Failure, among 725,205 US patients hospitalised for heart failure, 71.9% had two or more overlapping cardiovascular-kidney-metabolic conditions. More conditions meant stepwise higher in-hospital death and, in Medicare beneficiaries, higher one-year mortality and heart-failure readmission, with the strongest associations in reduced ejection fraction.",
+   "abstract_available": true,
+   "study_type": "Registry cohort (GWTG-HF)",
+   "also_in": [],
+   "short_title": "cardiovascular-kidney-metabolic overlap in hospitalised heart failure"
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Global, Regional, and National Burden of Heart Failure, 1990-2023: A Systematic Analysis for the Global Burden of Disease Study 2023.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-09-30",
+   "pmid": "42814432",
+   "doi": "10.1001/jamacardio.2026.4068",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4068",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42814432/",
+   "summary": "Global Burden of Disease estimates put heart failure at 56.0 million cases worldwide in 2023. Ischaemic and hypertensive heart disease dominated in older adults, while congenital disease, rheumatic heart disease, alcohol and Chagas varied by age and region. Most aetiologies are preventable through blood pressure, alcohol and tobacco control.",
+   "abstract_available": true,
+   "study_type": "GBD systematic analysis",
+   "also_in": [],
+   "short_title": "the global burden of heart failure from 1990 to 2023"
+  },
+  {
+   "category": "general",
+   "rank": 5,
+   "title": "Food and Health: Nutrition for Prevention and Management of Cardiovascular Disease: 2026 ACC Scientific Statement: A Report of the American College of Cardiology.",
+   "journal": "JACC",
+   "date": "2026-09-30",
+   "pmid": "42814074",
+   "doi": "10.1016/j.jacc.2026.08.025",
+   "link": "https://doi.org/10.1016/j.jacc.2026.08.025",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42814074/",
+   "summary": "This American College of Cardiology scientific statement reviews nutrition for cardiovascular disease prevention and management. Evidence supports replacing saturated with unsaturated fats, more fibre and whole grains, less sodium and ultra-processed foods, and Mediterranean, DASH or plant-rich patterns. It urges dietary counselling, Food Is Medicine programmes and clinician education in practice.",
+   "abstract_available": true,
+   "study_type": "Scientific statement",
+   "also_in": [],
+   "short_title": "the 2026 ACC scientific statement on nutrition and cardiovascular disease"
+  },
+  {
+   "category": "general",
+   "rank": 6,
+   "title": "Heart Failure With Reduced Ejection Fraction Polypill Implementation Strategy in Sri Lanka: A Randomized Clinical Trial.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-09-30",
+   "pmid": "42814433",
+   "doi": "10.1001/jamacardio.2026.3719",
+   "link": "https://doi.org/10.1001/jamacardio.2026.3719",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42814433/",
+   "summary": "No abstract was available, so no results are reported here. According to the journal's one-line summary, this randomised trial in Sri Lanka assessed the feasibility, effect on medication adherence, and safety of a heart failure with reduced ejection fraction polypill implementation strategy. See the full paper for findings.",
+   "abstract_available": false,
+   "study_type": "RCT (only a one-line key-points summary available)",
+   "also_in": [],
+   "short_title": "a heart failure polypill implementation trial in Sri Lanka"
+  },
+  {
+   "category": "general",
+   "rank": 7,
+   "title": "Loss of Chromosome Y and Risk of Abdominal Aortic Aneurysm.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-09-30",
+   "pmid": "42814449",
+   "doi": "10.1001/jamacardio.2026.3981",
+   "link": "https://doi.org/10.1001/jamacardio.2026.3981",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42814449/",
+   "summary": "No abstract was available, so no results are reported here. According to the journal's one-line summary, this cohort study evaluates the association between loss of chromosome Y and the risk of abdominal aortic aneurysm. The full paper is needed for cohort size, methods and findings.",
+   "abstract_available": false,
+   "study_type": "Cohort (only a one-line key-points summary available)",
+   "also_in": [],
+   "short_title": "loss of chromosome Y and abdominal aortic aneurysm risk"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "The End of \"Cardiac Clearance\": Patient-Centered Care in Preoperative Cardiovascular Risk Assessment.",
+   "journal": "JACC",
+   "pmid": "42813719",
+   "doi": "10.1016/j.jacc.2026.08.024",
+   "reason": "no abstract; perspective/editorial-type"
+  },
+  {
+   "title": "A Polypill Strategy to Close the Heart Failure Treatment Gap.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42814442",
+   "doi": "10.1001/jamacardio.2026.3727",
+   "reason": "editorial/viewpoint (Fonarow/McMurray; companion to polypill RCT)"
+  },
+  {
+   "title": "Right Atrial Ectopic Hepatic Tissue at the Caval Inflow.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42814436",
+   "doi": "10.1001/jamacardio.2026.3607",
+   "reason": "case report/image"
+  },
+  {
+   "title": "A Recipe for Estimating the Global Burden of Heart Failure.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42814426",
+   "doi": "10.1001/jamacardio.2026.4084",
+   "reason": "editorial companion to GBD heart failure paper"
+  },
+  {
+   "title": "Rheumatic Heart Disease-Forgotten but Not Gone.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42814423",
+   "doi": "10.1001/jamacardio.2026.3780",
+   "reason": "viewpoint"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "date": "2026-10-02",
+ "label": "Friday 2 October 2026: Circulation",
+ "journals": [
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-10-01",
+  "end": "2026-10-02",
+  "basis": "PubMed entry date 1–2 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-02T08:59",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 11,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 9,
+   "included": 0
+  }
+ },
+ "n_papers": 1,
+ "n_interventional": 0,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Impact of Undertreated Antithrombotic Therapy on Adverse Patient Outcomes: A Scientific Statement From the American Heart Association.",
+   "journal": "Circulation",
+   "date": "2026-10-01",
+   "pmid": "42817881",
+   "doi": "10.1161/cir.0000000000001474",
+   "link": "https://doi.org/10.1161/cir.0000000000001474",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42817881/",
+   "summary": "American Heart Association scientific statement on antithrombotic undertreatment—omission, nonadherence, underdosing and subtherapeutic levels. Many patients with atrial fibrillation, venous thromboembolism or peripheral artery disease remain untreated or underdosed, raising ischaemic stroke, embolism, recurrent thrombosis and death. Antithrombotic stewardship and interprofessional care are urged to close these gaps.",
+   "abstract_available": true,
+   "study_type": "AHA Scientific Statement",
+   "also_in": [],
+   "short_title": "AHA scientific statement on undertreated antithrombotic therapy"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Building Effective Multimodal Care for Obesity and Comorbidities in the GLP-1 Therapy Era.",
+   "journal": "JAMA",
+   "pmid": "42821295",
+   "doi": "10.1001/jama.2026.16540",
+   "reason": "perspective on multimodal obesity care; not primarily cardiology"
+  },
+  {
+   "title": "Postpartum Initiation of GLP-1 Receptor Agonists Among Commercially Insured Women in the US.",
+   "journal": "JAMA",
+   "pmid": "42821286",
+   "doi": "10.1001/jama.2026.16841",
+   "reason": "postpartum prescribing patterns study; not cardiology"
+  },
+  {
+   "title": "Equitable Access to GLP-1 Receptor Agonists-Essential but Not Accessible.",
+   "journal": "JAMA",
+   "pmid": "42821279",
+   "doi": "10.1001/jama.2026.15762",
+   "reason": "perspective/policy on GLP-1 access in LMICs; not cardiology research"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

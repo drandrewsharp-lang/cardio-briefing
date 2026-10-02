@@ -1,7 +1,17 @@
 {
  "app": "Cardio Briefing",
- "latest": "2026-10-01",
+ "latest": "2026-10-02",
  "editions": [
+  {
+   "date": "2026-10-02",
+   "label": "Friday 2 October 2026: Circulation",
+   "n_papers": 1,
+   "n_interventional": 0,
+   "n_general": 1,
+   "audio": true,
+   "duration_s": 63.0,
+   "audio_bytes": 630196
+  },
   {
    "date": "2026-10-01",
    "label": "Thursday 1 October 2026: JACC, JAMA Cardiology, The Lancet",

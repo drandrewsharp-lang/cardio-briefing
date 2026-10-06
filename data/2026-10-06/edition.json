@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-06",
+ "label": "Tuesday 6 October 2026: JACC, Circulation",
+ "journals": [
+  "JACC",
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-10-05",
+  "end": "2026-10-06",
+  "basis": "PubMed entry date 5–6 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-06T09:05",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 1,
+   "included": 2
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 9,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 5,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 9,
+   "included": 0
+  }
+ },
+ "n_papers": 3,
+ "n_interventional": 1,
+ "n_general": 2,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Sirolimus-coated Balloon Angioplasty for Femoropopliteal Artery Disease Without Tissue Loss: A Secondary Analysis of the SirPAD Trial",
+   "journal": "JACC",
+   "date": "2026-10-05",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.037",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.037",
+   "pubmed_link": null,
+   "summary": "Secondary analysis of the multicentre, randomised, blinded-endpoint SirPAD trial in 597 patients with femoropopliteal disease and no tissue loss (Rutherford category 4 or lower; median age 71, 34.7% women, median lesion length 150 mm, 53.8% total occlusions). At one year, target-lesion revascularisation occurred in 17.0% with a sirolimus-coated balloon versus 27.1% with uncoated balloon angioplasty (absolute risk difference -10.1%), TLR or any amputation in 17.7% vs 27.1% (ARD -9.4%; 95% CI -16.0 to -2.7), and major adverse limb events in 4.1% vs 8.9% (ARD -4.8%; 95% CI -9.0 to -0.8). All-cause death was similar (3.7% vs 5.3%), and the authors describe the findings as descriptive rather than confirmatory.",
+   "abstract_available": true,
+   "study_type": "RCT secondary analysis (abstract from publisher page)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Optimizing Blood Pressure Care in Patients With Resistant Hypertension: 2026 ACC Expert Consensus Decision Pathway: A Report of the American College of Cardiology Solution Set Oversight Committee.",
+   "journal": "JACC",
+   "date": "2026-10-05",
+   "pmid": "42831847",
+   "doi": "10.1016/j.jacc.2026.08.028",
+   "link": "https://doi.org/10.1016/j.jacc.2026.08.028",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42831847/",
+   "summary": "No abstract was available, so no results are reported here. This 2026 American College of Cardiology Expert Consensus Decision Pathway sets out a five-question framework for optimising blood pressure care in adults with resistant hypertension. Its listed keywords include home and ambulatory blood pressure monitoring, social determinants of health and renal denervation.",
+   "abstract_available": false,
+   "study_type": "ACC Expert Consensus Decision Pathway",
+   "also_in": [],
+   "short_title": "ACC decision pathway on resistant hypertension"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Anticancer Drugs and Cancer-Associated Thrombosis.",
+   "journal": "Circulation",
+   "date": "2026-10-05",
+   "pmid": "42832625",
+   "doi": "10.1161/circulationaha.125.079141",
+   "link": "https://doi.org/10.1161/circulationaha.125.079141",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42832625/",
+   "summary": "This Circulation review examines how anticancer drugs raise venous thromboembolism risk, implicating chemotherapies such as anthracyclines and platinum agents, hormonal therapies, myeloma drugs, asparaginase and targeted inhibitors including immune checkpoint, growth-factor pathway and tyrosine kinase inhibitors. It covers mechanisms, guideline-based prevention and treatment, arterial events, and cardio-oncology approaches to an often underestimated vascular toxicity.",
+   "abstract_available": true,
+   "study_type": "Review",
+   "also_in": [],
+   "short_title": "anticancer drugs and cancer-associated thrombosis"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Mechanical Thrombectomy Versus Anticoagulation Alone in Intermediate-High Risk PE",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.07.042",
+   "reason": "not yet live online: DOI registered 5 Oct but the publisher page returns 404 and no abstract is available; left unseen so it returns once published"
+  },
+  {
+   "title": "When VT Storm, PET Positivity, and a Negative Endomyocardial Biopsy Collide.",
+   "journal": "Circulation",
+   "pmid": "42832624",
+   "doi": "10.1161/circulationaha.126.081290",
+   "reason": "case-based clinical report (no abstract); case reports excluded"
+  },
+  {
+   "title": "An Elusive Cardiac Mass in a Patient With Previous Malignancy.",
+   "journal": "Circulation",
+   "pmid": "42832621",
+   "doi": "10.1161/circulationaha.126.079603",
+   "reason": "case-based clinical report (no abstract); case reports excluded"
+  },
+  {
+   "title": "Vagal Nerve Stimulation for Cardiovascular Diseases: From Hype to Hope.",
+   "journal": "Circulation",
+   "pmid": "42832620",
+   "doi": "10.1161/circulationaha.125.078579",
+   "reason": "three-page single-author perspective with no abstract; treated as editorial-type opinion piece"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

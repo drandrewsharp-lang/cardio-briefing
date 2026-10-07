@@ -1,0 +1,208 @@
+{
+ "date": "2026-10-07",
+ "label": "Wednesday 7 October 2026: EuroIntervention, JACC: Cardiovascular Interventions, Circulation",
+ "journals": [
+  "EuroIntervention",
+  "JACC: Cardiovascular Interventions",
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-10-06",
+  "end": "2026-10-07",
+  "basis": "PubMed entry date 6–7 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-07T09:01",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 10,
+   "included": 4
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "Circulation": {
+   "pubmed_in_window": 3,
+   "included": 3
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 0,
+   "included": 0
+  }
+ },
+ "n_papers": 8,
+ "n_interventional": 5,
+ "n_general": 3,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Lipid Burden and Efficacy of Preventive PCI of Vulnerable Atherosclerotic Coronary Plaques: Post Hoc Analysis From the PREVENT Trial.",
+   "journal": "Circulation",
+   "date": "2026-10-06",
+   "pmid": "42836296",
+   "doi": "10.1161/circulationaha.126.080384",
+   "link": "https://doi.org/10.1161/circulationaha.126.080384",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42836296/",
+   "summary": "Post hoc analysis of the randomised PREVENT trial of preventive PCI for non-flow-limiting (FFR >0.80) vulnerable plaques, including 598 patients with 632 lesions with plaque burden >70%; near-infrared spectroscopy identified lipid-rich plaques in 223 patients (37.3%). Over a median 5.6 years, the primary composite (cardiac death, target-vessel MI, ischaemia-driven target-vessel revascularisation or hospitalisation for unstable or progressive angina) was more frequent with lipid-rich than non-lipid-rich plaques (12.5% vs 4.7%; unadjusted HR 2.08, 95% CI 1.03-4.19). Within the lipid-rich group, preventive PCI was associated with fewer events than optimal medical therapy alone (7.3% vs 17.6%; adjusted HR 0.23, 95% CI 0.13-0.41), with no benefit in non-lipid-rich plaques (5.5% vs 4.2%; adjusted HR 1.00; P for interaction <0.001).",
+   "abstract_available": true,
+   "study_type": "RCT post hoc analysis",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Mechanical Thrombectomy Versus Anticoagulation Alone in Intermediate-High Risk PE: Improved Functional 90-Day Outcomes in STORM-PE RCT.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-05",
+   "pmid": "42836810",
+   "doi": "10.1016/j.jcin.2026.07.042",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.042",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42836810/",
+   "summary": "STORM-PE randomised 100 patients with acute intermediate-high-risk pulmonary embolism at 22 international sites to computer-assisted vacuum thrombectomy plus anticoagulation or anticoagulation alone; this paper reports 90-day functional, quality-of-life and safety outcomes (the primary endpoint, RV/LV ratio change at 48 hours, is not reported in this abstract). Six-minute walk distance was longer after thrombectomy (478.7 vs 368.0 m, P=0.003), and more thrombectomy patients were in NYHA class I (97.4% vs 75.6%, P=0.005), although only about two-thirds of each arm completed the walk test. Dyspnoea and quality-of-life scores, all-cause and PE-related mortality, and symptomatic PE recurrence did not differ at 90 days.",
+   "abstract_available": true,
+   "study_type": "RCT (90-day secondary outcomes)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Complexity of coronary artery disease in infarct-related cardiogenic shock and multivessel disease: a substudy of the DanGer Shock trial.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-05",
+   "pmid": "42837204",
+   "doi": "10.4244/eij-d-26-00460",
+   "link": "https://doi.org/10.4244/eij-d-26-00460",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42837204/",
+   "summary": "Secondary analysis of the DanGer Shock trial of microaxial flow pump support in infarct-related cardiogenic shock: of 355 patients, 256 had multivessel disease (211 with a baseline SYNTAX score) and 35 had an isolated left main culprit lesion. A high baseline SYNTAX score (>32) was associated with higher 180-day all-cause mortality than low or intermediate scores (adjusted OR 3.12, 95% CI 1.17-8.69), and the residual SYNTAX score independently predicted mortality. The pump's effect was not modified by baseline SYNTAX group (P for interaction 0.31); in the isolated left main subgroup, pump use was associated with lower 180-day mortality (adjusted OR 0.17, 95% CI 0.03-0.99), which the authors call hypothesis-generating.",
+   "abstract_available": true,
+   "study_type": "RCT secondary analysis",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Standardised versus visual assessment of device success after percutaneous coronary intervention.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-05",
+   "pmid": "42837202",
+   "doi": "10.4244/eij-d-26-00413",
+   "link": "https://doi.org/10.4244/eij-d-26-00413",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42837202/",
+   "summary": "Prespecified lesion-level analysis of the Multivessel TALENT trial (1,548 patients with three-vessel disease and 4,052 lesions, randomised to Supraflex Cruz or SYNERGY stents) testing the EAPCI-endorsed device success definition against core-lab quantitative coronary angiography (QCA) and angiography-derived FFR. Operator-reported device success was 97.4%, versus 93.8% by core-lab delta angio-FFR <0.05, 88.0% by residual diameter stenosis <20% on QCA, and 83.2% for both combined (all P<0.001). Lesions failing QCA-based device success had more 1-year lesion-oriented composite events (12.0% vs 9.1%, log-rank P=0.041); device success and event rates did not differ between the two stents under any definition.",
+   "abstract_available": true,
+   "study_type": "RCT prespecified substudy",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Remodelling of distal coronary vessels in chronic total occlusions.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-05",
+   "pmid": "42837201",
+   "doi": "10.4244/eij-d-26-00326",
+   "link": "https://doi.org/10.4244/eij-d-26-00326",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42837201/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Research correspondence (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Incidence, Process of Care, and Outcomes of In-Hospital Cardiac Arrest in China: A Multicenter Prospective Registry Study.",
+   "journal": "Circulation",
+   "date": "2026-10-06",
+   "pmid": "42836281",
+   "doi": "10.1161/circulationaha.126.080404",
+   "link": "https://doi.org/10.1161/circulationaha.126.080404",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42836281/",
+   "summary": "In the BASIC-IHCA registry of 17,602 adults resuscitated at 37 Chinese hospitals in 2019 to 2020, incidence was 4.1 per 1000 admissions. Although 95.9% received CPR within one minute, only 9.1% survived to 30 days or discharge and 6.1% to 12 months. After return of circulation, temperature control and coronary angiography were rarely used.",
+   "abstract_available": true,
+   "study_type": "Multicentre prospective registry",
+   "also_in": [],
+   "short_title": "in-hospital cardiac arrest in China"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "The Oxidized Phospholipid PGPC Impairs Angiogenesis by Inhibiting Endothelial Autophagosomal-Lysosomal Fusion Through NPC1-Induced Syntaxin 17 Acetylation and Ubiquitination.",
+   "journal": "Circulation",
+   "date": "2026-10-06",
+   "pmid": "42836285",
+   "doi": "10.1161/circulationaha.126.079506",
+   "link": "https://doi.org/10.1161/circulationaha.126.079506",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42836285/",
+   "summary": "This mechanistic study found plasma PGPC, an oxidised phospholipid from atherosclerotic plaque, was raised in coronary artery disease, tracking disease severity and poorer collateral formation. In endothelial cells and mouse ischaemia and infarction models, PGPC impaired angiogenesis by blocking autophagosome-lysosome fusion through NPC1-driven syntaxin 17 degradation; the neutralising antibody E06 reversed this.",
+   "abstract_available": true,
+   "study_type": "Translational / experimental",
+   "also_in": [],
+   "short_title": "an oxidised phospholipid that impairs angiogenesis"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Longitudinal progression of coronary calcium density on serial computed tomography.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-05",
+   "pmid": "42837203",
+   "doi": "10.4244/eij-d-26-00382",
+   "link": "https://doi.org/10.4244/eij-d-26-00382",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42837203/",
+   "summary": "No abstract was available for this research correspondence, so no results are reported here. According to the journal's one-line summary, this study examined how coronary artery calcification progresses over time, in both burden and density, on serial computed tomography scans. See the full letter for the cohort size and findings.",
+   "abstract_available": false,
+   "study_type": "Research correspondence (no abstract)",
+   "also_in": [],
+   "short_title": "coronary calcium density on serial CT"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Cardiogenic shock with multivessel disease: should we leave non-culprit lesions unattended?",
+   "journal": "EuroIntervention",
+   "pmid": "42837210",
+   "doi": "10.4244/eij-d-26-01084",
+   "reason": "editorial (publisher page labels it Editorial; companion to the DanGer Shock SYNTAX substudy)"
+  },
+  {
+   "title": "Beyond the visual estimate: standardising device success after PCI.",
+   "journal": "EuroIntervention",
+   "pmid": "42837209",
+   "doi": "10.4244/eij-d-26-01050",
+   "reason": "editorial (publisher page labels it Editorial; companion to the TALENT device-success substudy)"
+  },
+  {
+   "title": "AI in Medical Writing",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.08.032",
+   "reason": "no abstract or PubMed record; opinion-type piece on AI in medical writing, not cardiology research"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

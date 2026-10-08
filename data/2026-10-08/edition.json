@@ -1,0 +1,139 @@
+{
+ "date": "2026-10-08",
+ "label": "Thursday 8 October 2026: JAMA Cardiology, JAMA",
+ "journals": [
+  "JAMA Cardiology",
+  "JAMA"
+ ],
+ "window": {
+  "start": "2026-10-07",
+  "end": "2026-10-08",
+  "basis": "PubMed entry date 7–8 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-08T09:03",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 10,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 7,
+   "included": 2
+  },
+  "NEJM": {
+   "pubmed_in_window": 20,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 11,
+   "included": 1
+  }
+ },
+ "n_papers": 3,
+ "n_interventional": 0,
+ "n_general": 3,
+ "papers": [
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Intensive vs Standard Blood Pressure Lowering in People With and Without Chronic Kidney Disease: A Systematic Review and Meta-Analysis.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-07",
+   "pmid": "42842238",
+   "doi": "10.1001/jamacardio.2026.4445",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4445",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42842238/",
+   "summary": "This meta-analysis of 27 trials (88,830 participants) found intensive blood pressure lowering reduced cardiovascular events by 15% per 10 mm Hg lower systolic pressure (RR 0.85), regardless of chronic kidney disease. Kidney failure was not increased, though sustained eGFR declines of 30% or more rose 42%. Absolute benefit was at least as large in CKD.",
+   "abstract_available": true,
+   "study_type": "Systematic review and meta-analysis",
+   "also_in": [],
+   "short_title": "intensive blood pressure lowering with and without kidney disease"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Prevalence of Unrecognized and Recognized Myocardial Infarction in the Rotterdam Study.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-07",
+   "pmid": "42842241",
+   "doi": "10.1001/jamacardio.2026.4233",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4233",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42842241/",
+   "summary": "No abstract was available for this cohort study, so no results are reported here. According to the journal's one-line summary, it uses Rotterdam Study data to assess temporal trends in the prevalence of recognised and unrecognised myocardial infarction across three epochs. See the full paper for the cohort size and findings.",
+   "abstract_available": false,
+   "study_type": "Cohort study (no abstract)",
+   "also_in": [],
+   "short_title": "recognised and unrecognised heart attacks in the Rotterdam Study"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Hypertension Management and Control in Cienfuegos, Cuba.",
+   "journal": "JAMA",
+   "date": "2026-10-07",
+   "pmid": "42842282",
+   "doi": "10.1001/jama.2026.19916",
+   "link": "https://doi.org/10.1001/jama.2026.19916",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42842282/",
+   "summary": "No abstract was available for this population-based cross-sectional survey, so no results are reported here. According to the journal's one-line summary, it assesses hypertension prevalence, management and control in Cienfuegos, Cuba, in 2023, and compares the findings with a similar survey from 2011. See the full paper for details.",
+   "abstract_available": false,
+   "study_type": "Cross-sectional survey (no abstract)",
+   "also_in": [],
+   "short_title": "hypertension control in Cienfuegos, Cuba"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Long-Term Perspective on the Landscape of Recognized and Unrecognized Myocardial Infarction.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42842261",
+   "doi": "10.1001/jamacardio.2026.4238",
+   "reason": "commentary/perspective piece (no abstract; editorial-type companion to the Rotterdam MI study)"
+  },
+  {
+   "title": "Cement Embolism After Vertebroplasty.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42842260",
+   "doi": "10.1001/jamacardio.2026.3970",
+   "reason": "case report / clinical image (cement embolism after vertebroplasty)"
+  },
+  {
+   "title": "The Need for Cardiology News Coverage.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42842256",
+   "doi": "10.1001/jamacardio.2026.3978",
+   "reason": "Viewpoint on medical journalism, not research"
+  },
+  {
+   "title": "Achieving Better Hypertension Control in Low- and Middle-Income Settings.",
+   "journal": "JAMA",
+   "pmid": "42842358",
+   "doi": "10.1001/jama.2026.21519",
+   "reason": "editorial on hypertension control in low- and middle-income settings (companion to the Cienfuegos survey)"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

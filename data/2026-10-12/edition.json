@@ -1,0 +1,92 @@
+{
+ "date": "2026-10-12",
+ "label": "Monday 12 October 2026: Circulation",
+ "journals": [
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-10-09",
+  "end": "2026-10-12",
+  "basis": "PubMed entry date 9–12 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-12T09:11",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 7,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 8,
+   "included": 0
+  }
+ },
+ "n_papers": 1,
+ "n_interventional": 0,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Prominent V Waves Augment Right Ventricular Afterload Independent of the Lung Vessels in Heart Failure: Implications for Clinical Assessment of Pulmonary Vascular Disease.",
+   "journal": "Circulation",
+   "date": "2026-10-11",
+   "pmid": "42860037",
+   "doi": "10.1161/circulationaha.126.081799",
+   "link": "https://doi.org/10.1161/circulationaha.126.081799",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42860037/",
+   "summary": "Among 1,069 HFpEF patients tested invasively, 21% had prominent V waves (PAWP V ≥10 mm Hg above mean). They had worse LA myopathy, higher PA systolic pressure (54 vs 38 mm Hg), more RV dysfunction, and adjusted HR 2.09 for HF hospitalization or death. V-wave correction reduced apparent combined PH from 60% to 29%.",
+   "abstract_available": true,
+   "study_type": "Retrospective cohort study",
+   "also_in": [],
+   "short_title": "prominent V waves and right ventricular afterload in HFpEF"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Whole Grain Intake Tied to Lower Cardiovascular Disease Risk Factors.",
+   "journal": "JAMA",
+   "pmid": "42853589",
+   "doi": "10.1001/jama.2026.20014",
+   "reason": "Medical News brief summarizing an external European Heart Journal meta-analysis on whole grains (not original research)"
+  },
+  {
+   "title": "Unapproved GLP-1 Drugs Retatrutide and Zenagamtide Sold Online Are No Bargain.",
+   "journal": "JAMA",
+   "pmid": "42853576",
+   "doi": "10.1001/jama.2026.20514",
+   "reason": "Medical News article on unapproved GLP-1 weight-loss drugs sold online (not cardiology research)"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

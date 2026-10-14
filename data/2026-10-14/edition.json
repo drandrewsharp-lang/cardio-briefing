@@ -1,0 +1,354 @@
+{
+ "date": "2026-10-14",
+ "label": "Wednesday 14 October 2026: EuroIntervention, JACC, JACC: Cardiovascular Interventions, Circulation",
+ "journals": [
+  "EuroIntervention",
+  "JACC",
+  "JACC: Cardiovascular Interventions",
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-10-13",
+  "end": "2026-10-14",
+  "basis": "PubMed entry date 13–14 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-14T09:03",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 23,
+   "included": 8
+  },
+  "Circulation": {
+   "pubmed_in_window": 4,
+   "included": 3
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 5,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 3,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 2,
+   "included": 0
+  }
+ },
+ "n_papers": 13,
+ "n_interventional": 10,
+ "n_general": 3,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Immediate Versus Staged Complete Revascularization in Multivessel Disease and STEMI: A Meta-Analysis of Randomized Trials.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-12",
+   "pmid": "42863871",
+   "doi": "10.1016/j.jcin.2026.07.033",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.033",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42863871/",
+   "summary": "Frequentist meta-analysis of 4 multicentre RCTs (2,651 patients with STEMI and multivessel disease, second-generation DES only, follow-up ≥1 year) comparing immediate with staged complete revascularisation. Immediate complete revascularisation was associated with higher 1-year all-cause mortality (HR 1.50, 95% CI 1.02-2.21; P=0.04; prediction interval 0.80-2.81). It reduced recurrent MI under protocol definitions that included procedural MI (HR 0.58, 95% CI 0.36-0.94) but not spontaneous MI (HR 0.91, 95% CI 0.55-1.48), and cardiac death and unplanned revascularisation were similar. The authors urge caution given the low number of deaths and statistical fragility, but conclude the data do not support an immediate strategy.",
+   "abstract_available": true,
+   "study_type": "Meta-analysis of RCTs",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Occlusion-Focused Triage vs Very-High-Risk NSTEMI Criteria: A DIFOCCULT-3 Substudy.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-12",
+   "pmid": "42863867",
+   "doi": "10.1016/j.jcin.2026.06.040",
+   "link": "https://doi.org/10.1016/j.jcin.2026.06.040",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42863867/",
+   "summary": "Substudy of the multicentre cluster-randomised DIFOCCULT-3 trial in 4,398 patients without diagnostic ST elevation on the admission ECG, managed under either the occlusion/non-occlusion MI (OMI/NOMI) framework or the conventional STEMI/NSTEMI framework. Guideline very-high-risk NSTEMI criteria identified only a small proportion of patients and were inconsistently translated into early intervention. The OMI/NOMI approach selected more patients for immediate (within 2 hours) invasive management (45.4% vs 13.6%; P<0.001) and identified adjudicated acute coronary occlusion within 2 hours more often (35.1% vs 16.7%; P<0.001), without lowering angiographic yield.",
+   "abstract_available": true,
+   "study_type": "Cluster-randomised trial substudy",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Acute Coronary Occlusions in NSTEMI Undergoing Percutaneous Coronary Intervention: Insights From the CathPCI Registry.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-12",
+   "pmid": "42863865",
+   "doi": "10.1016/j.jcin.2026.07.032",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.032",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42863865/",
+   "summary": "Among 1,198,544 patients with STEMI or NSTEMI undergoing PCI in the NCDR CathPCI Registry (April 2018 to June 2023), 26.1% had STEMI, 11.0% had NSTEMI with an acute coronary occlusion (ACO, a 100% stenosis deemed acute; 15% of NSTEMI) and 62.9% had NSTEMI without ACO. Cardiogenic shock (9.0% vs 3.8% vs 1.9%) and in-hospital cardiac arrest (6.1% vs 2.7% vs 1.6%) were intermediate in NSTEMI-ACO. The in-hospital composite of stroke, MI or cardiovascular death was higher than in NSTEMI without ACO (adjusted OR 2.26, 95% CI 2.18-2.34) but lower than in STEMI (adjusted OR 0.54); with a broader definition including culprit TIMI flow 0-1, ACO accounted for 24.4% of NSTEMI.",
+   "abstract_available": true,
+   "study_type": "Registry (observational)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Frequency and Prognosis of Alternative Definitions of Occlusion Myocardial Infarction Across the Whole Spectrum of Acute Coronary Syndromes.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-12",
+   "pmid": "42863869",
+   "doi": "10.1016/j.jcin.2026.08.007",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.007",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42863869/",
+   "summary": "In 6,558 patients with ACS from the MATRIX trial, five occlusion MI (OMI) definitions based on culprit-artery TIMI flow, with or without troponin thresholds, gave OMI frequencies from 37.8% (definition 1, TIMI flow 0) to 76.1% (definition 4). OMI independently predicted higher 1-year mortality under definitions 1 to 4 (adjusted HR from 2.08 down to 1.47) but not definition 5, which required troponin above 100 times the upper reference limit with TIMI 3 flow (HR 1.26, 95% CI 0.90-1.75). Flow-only definitions improved discrimination over the STE/NSTE-ACS classification, and NSTE-ACS patients with OMI by definition 1 or 2 had 1-year mortality similar to STEMI.",
+   "abstract_available": true,
+   "study_type": "RCT cohort analysis",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Impact of Extent of Coronary Artery Disease in Transcatheter Aortic Valve Replacement: A PRO-TAVI Substudy.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-12",
+   "pmid": "42863875",
+   "doi": "10.1016/j.jcin.2026.07.034",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.034",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42863875/",
+   "summary": "Substudy of the randomised PRO-TAVI trial (466 TAVR patients with significant coronary artery disease randomised to deferral of PCI or PCI before TAVR), stratified by SYNTAX score quartiles. The 1-year primary composite of death, MI, stroke and major bleeding did not differ between deferral and PCI across SYNTAX categories, and bleeding was less frequent with deferral in every subgroup. With SYNTAX >17, the ischaemic composite of death, MI and stroke was more frequent with deferral (30.9% vs 14.8%; adjusted HR 2.43, 95% CI 1.04-5.64; P=0.04), driven mainly by death and stroke; the authors say these post hoc findings need confirmation.",
+   "abstract_available": true,
+   "study_type": "RCT substudy (post hoc)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Intraprocedural Cardiac Arrest in Patients Undergoing Percutaneous Coronary Interventions in the United States: An Analysis of the NCDR CathPCI Registry.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-12",
+   "pmid": "42863873",
+   "doi": "10.1016/j.jcin.2026.07.035",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.035",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42863873/",
+   "summary": "In the NCDR CathPCI Registry, 36,755 intraprocedural cardiac arrests occurred during 3,956,840 PCIs from 2018 to 2023 (0.93%), including 0.24% of elective PCIs and 1.28% of ACS interventions; incidence rose from 0.62% in 2018 to 1.07% in 2023 (P<0.0001). In-hospital death occurred in 40.5% of patients with arrest, 45.4% of them in the cath lab, although risk-adjusted mortality declined slightly (45.1% to 43.6%; P=0.027). Predictors included STEMI and NSTE-ACS presentation, age, ventricular arrhythmias, severe aortic stenosis, vasopressor or inotrope use, mechanical circulatory support, perforation, dissection and tamponade.",
+   "abstract_available": true,
+   "study_type": "Registry (observational)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "Conduction System Versus Right Ventricular Pacing in Patients Undergoing TAVR: A Multicenter Propensity-Matched Study.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-12",
+   "pmid": "42863877",
+   "doi": "10.1016/j.jcin.2026.08.008",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.008",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42863877/",
+   "summary": "Retrospective multicentre nationwide registry of patients needing a pacemaker within 30 days of TAVR; propensity matching gave 466 pairs, with a median follow-up of 24 months. Conduction system (physiological) pacing was associated with a lower rate of cardiovascular death or HF hospitalisation than right ventricular pacing (9.7% vs 17.6%; HR 0.57, 95% CI 0.39-0.83; P=0.003), driven by fewer HF hospitalisations (7.9% vs 13.9%; HR 0.57). Cardiovascular and all-cause mortality did not differ, and the authors call for randomised trials.",
+   "abstract_available": true,
+   "study_type": "Propensity-matched registry",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 8,
+   "title": "Combined ischaemia and vulnerable plaque percutaneous coronary intervention to reduce cardiovascular events: design and rationale of the COMBINE-INTERVENE Trial.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-01",
+   "pmid": "42866922",
+   "doi": "10.4244/eij-d-26-00702",
+   "link": "https://doi.org/10.4244/eij-d-26-00702",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42866922/",
+   "summary": "Design paper for COMBINE-INTERVENE, a global, randomised, single-blind, sham-controlled superiority trial in 1,223 all-comer patients with multivessel disease (≥2 lesions with ≥50% diameter stenosis); enrolment is already complete at 50 centres. The experimental arm treats lesions with FFR ≤0.75 or an OCT-defined vulnerable plaque even when FFR is >0.80, versus standard FFR ≤0.80-guided revascularisation. The primary endpoint is cardiac death, any MI or clinically driven revascularisation at 24 months; no results are reported yet.",
+   "abstract_available": true,
+   "study_type": "Trial design and rationale",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 9,
+   "title": "Multidisciplinary Approach to Antiplatelet Management in Coronary Syndromes: A Scientific Statement From the American Heart Association.",
+   "journal": "Circulation",
+   "date": "2026-10-13",
+   "pmid": "42866888",
+   "doi": "10.1161/cir.0000000000001478",
+   "link": "https://doi.org/10.1161/cir.0000000000001478",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42866888/",
+   "summary": "AHA scientific statement reviewing contemporary evidence on antiplatelet therapy in acute coronary syndrome and chronic coronary disease, emphasising agent, intensity and duration tailored to patient, procedure and disease factors rather than a uniform strategy. It highlights the risks of inappropriate prescribing, nonadherence and care transitions, and the role of a multidisciplinary team (interventional and general cardiologists, pharmacists, advanced practice nurses) in antithrombotic stewardship. No quantitative results are reported.",
+   "abstract_available": true,
+   "study_type": "Scientific statement",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 10,
+   "title": "1-Year Outcomes of Early Intra-Aortic Balloon Pump in Heart Failure-Related Cardiogenic Shock.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-12",
+   "pmid": "42863879",
+   "doi": "10.1016/j.jcin.2026.07.023",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.023",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42863879/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Short report (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Definition and Prognosis of Mitral Regurgitation in Transthyretin Amyloid Cardiomyopathy: A Multicenter International Cohort Study.",
+   "journal": "Circulation",
+   "date": "2026-10-13",
+   "pmid": "42866868",
+   "doi": "10.1161/circulationaha.125.079085",
+   "link": "https://doi.org/10.1161/circulationaha.125.079085",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42866868/",
+   "summary": "In 1,101 patients with newly diagnosed transthyretin amyloid cardiomyopathy, followed for a median 24.9 months, all mitral regurgitation metrics predicted death and heart failure hospitalisation. Disease-specific thresholds, such as regurgitant volume above 38 mL and regurgitant fraction above 35%, were much lower than guideline cutoffs, classified 21% as severe, and predicted outcomes better.",
+   "abstract_available": true,
+   "study_type": "Multicentre international cohort",
+   "also_in": [],
+   "short_title": "mitral regurgitation thresholds in transthyretin amyloid cardiomyopathy"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Dual Control of Low-Density Lipoprotein Cholesterol Levels by ANGPTL3 and ANGPTL8.",
+   "journal": "Circulation",
+   "date": "2026-10-13",
+   "pmid": "42866886",
+   "doi": "10.1161/circulationaha.126.080412",
+   "link": "https://doi.org/10.1161/circulationaha.126.080412",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42866886/",
+   "summary": "In mouse liver perfusion and genetic models, ANGPTL3 inactivation did not change hepatic VLDL secretion. ANGPTL8 inactivation alone lowered LDL cholesterol by about 20%, depending on endothelial lipase and ANGPTL3. Maximal lipoprotein lipase inhibition needed ANGPTL8 plus full-length and N-terminal ANGPTL3, supporting dual ANGPTL3- and ANGPTL8-directed lipid-lowering strategies.",
+   "abstract_available": true,
+   "study_type": "Experimental (mouse)",
+   "also_in": [],
+   "short_title": "how ANGPTL3 and ANGPTL8 jointly control LDL cholesterol"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Early Discharge Strategy Including Subcutaneous Furosemide in Hospitalized Heart Failure",
+   "journal": "JACC",
+   "date": "2026-10-13",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.07.047",
+   "link": "https://doi.org/10.1016/j.jacc.2026.07.047",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Based on its title, this study examines an early discharge strategy that includes subcutaneous furosemide for patients hospitalised with heart failure. See the full paper for the study design, patient numbers and findings.",
+   "abstract_available": false,
+   "study_type": "Original article (no abstract)",
+   "also_in": [],
+   "short_title": "early discharge with subcutaneous furosemide in heart failure"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Bleeding With Asundexian Versus Placebo in Patients With Noncardioembolic Ischemic Stroke or High-Risk TIA: OCEANIC-STROKE Randomized Trial.",
+   "journal": "Circulation",
+   "pmid": "42866879",
+   "doi": "10.1161/circulationaha.126.081836",
+   "reason": "neurology/stroke secondary prevention trial (noncardioembolic ischaemic stroke/TIA) - not cardiology"
+  },
+  {
+   "title": "Is the Sarcopenic Obesity Index a Pathophysiological Phenotype or Merely a Ratio?",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.07.048",
+   "reason": "letter to the editor (e-page correspondence, no abstract)"
+  },
+  {
+   "title": "Making Sarcopenic Obesity Actionable for Heart Failure Prevention",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.07.049",
+   "reason": "reply letter (e-page correspondence, no abstract)"
+  },
+  {
+   "title": "Regulatory Considerations for Generative AI",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.08.043",
+   "reason": "single-author viewpoint on generative AI regulation (no abstract), not cardiology research"
+  },
+  {
+   "title": "Myocarditis Around the World",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.08.020",
+   "reason": "short perspective/editorial-type piece (no abstract)"
+  },
+  {
+   "title": "Home Sweet Home",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.08.005",
+   "reason": "editorial comment (no abstract)"
+  },
+  {
+   "title": "Toward Targeted Population-Level Screening for Heart Failure",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.08.042",
+   "reason": "editorial comment (no abstract)"
+  },
+  {
+   "title": "An Unexpected Cause of Left Main Coronary Artery Occlusion: Embolization From a Mitral Papillary Fibroelastoma.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42863885",
+   "doi": "10.1016/j.jcin.2026.07.036",
+   "reason": "case report/image (no abstract); case reports excluded"
+  },
+  {
+   "title": "Novel Iatrogenic Atrial Septal Defect Closure Method for Peri-Cannular Left-Atrial Thrombosis During LAVA-ECMO Explant.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42863884",
+   "doi": "10.1016/j.jcin.2026.07.019",
+   "reason": "case-based technique report (no abstract); case reports excluded"
+  },
+  {
+   "title": "Rescue TAVR After Ozaki Procedure.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42863883",
+   "doi": "10.1016/j.jcin.2026.07.041",
+   "reason": "case report (no abstract); case reports excluded"
+  },
+  {
+   "title": "First Report of Wire-Anchored BA-BASILICA Enabling TAVR in Type-0 Bicuspid Aortic Stenosis Complicated by Cardiogenic Shock.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42863882",
+   "doi": "10.1016/j.jcin.2026.08.012",
+   "reason": "first-in-human case report (no abstract); case reports excluded"
+  },
+  {
+   "title": "Particles of Drug-Coated Balloons Captured by Flow Reversal Method.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42863881",
+   "doi": "10.1016/j.jcin.2026.07.040",
+   "reason": "no abstract; article type unclear (likely images/technique report)"
+  },
+  {
+   "title": "PCI Through the Axillary VA-ECMO Return Cannula Using a Cannula-in-Cannula Technique.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42863880",
+   "doi": "10.1016/j.jcin.2026.07.039",
+   "reason": "case-based technique report (no abstract); case reports excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

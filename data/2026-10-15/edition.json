@@ -1,0 +1,115 @@
+{
+ "date": "2026-10-15",
+ "label": "Thursday 15 October 2026: JACC, JAMA Cardiology",
+ "journals": [
+  "JACC",
+  "JAMA Cardiology"
+ ],
+ "window": {
+  "start": "2026-10-14",
+  "end": "2026-10-15",
+  "basis": "PubMed entry date 14–15 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-15T09:08",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 13,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 2,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 3,
+   "included": 1
+  },
+  "NEJM": {
+   "pubmed_in_window": 22,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 20,
+   "included": 0
+  }
+ },
+ "n_papers": 2,
+ "n_interventional": 1,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Transseptal Transcatheter Mitral Valve Replacement for Mitral Annular Calcification: ENCIRCLE MAC Registry 1-Year Outcomes.",
+   "journal": "JACC",
+   "date": "2026-09-16",
+   "pmid": "42873164",
+   "doi": "10.1016/j.jacc.2026.08.016",
+   "link": "https://doi.org/10.1016/j.jacc.2026.08.016",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42873164/",
+   "summary": "Prospective multicentre single-arm ENCIRCLE MAC Registry of transseptal TMVR with the SAPIEN M3 system in patients with symptomatic MAC-related mitral valve dysfunction unsuitable for surgery or transcatheter repair. Of 364 screened, TMVR was attempted in 100 and the valve implanted in 93 (mean age 76.1 years; 73% NYHA III/IV; mean STS PROM 8.4%). At 1 year, the Kaplan-Meier estimate of all-cause mortality or heart failure hospitalisation was 33.6% (95% CI 25.0-44.1%), with 21.1% all-cause mortality and 19.4% HF hospitalisation; disabling stroke 5.1%, clinically significant LVOT obstruction 4.8%, valve thrombosis 2.3%, haemolysis needing transfusion or reintervention 9.2%, and mitral reintervention 11.4%. Among implanted patients, MR ≤1+ was achieved in 98.5% at 1 year, with sustained gains in NYHA class, KCCQ and 6-minute walk.",
+   "abstract_available": true,
+   "study_type": "Prospective multicentre single-arm registry",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "A Proactive Digital Valve Care Pathway for Management of Severe Aortic Stenosis: The DETECT AS II Study.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-14",
+   "pmid": "42873527",
+   "doi": "10.1001/jamacardio.2026.4394",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4394",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42873527/",
+   "summary": "No abstract was available for this paper, so no results are reported here. Based on its title and publisher note, this nonrandomised clinical trial examines a proactive digital valve care pathway aimed at timely management of severe aortic stenosis. See the full paper for the study design, patient numbers and findings.",
+   "abstract_available": false,
+   "study_type": "Nonrandomised clinical trial (no abstract)",
+   "also_in": [],
+   "short_title": "DETECT AS II digital valve care pathway for severe aortic stenosis"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "When Universal Is Not Uniform: Sex and the Definition of Myocardial Infarction.",
+   "journal": "JACC",
+   "pmid": "42873167",
+   "doi": "10.1016/j.jacc.2026.09.027",
+   "reason": "viewpoint/editorial-style piece on sex and MI definition (no abstract); editorials excluded"
+  },
+  {
+   "title": "Periorbital Purpura and Fatigue in a Man Aged 57 Years.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42873523",
+   "doi": "10.1001/jamacardio.2026.3614",
+   "reason": "case report (Crossref: diagnosis of systemic amyloidosis); case reports excluded"
+  },
+  {
+   "title": "JAMA Cardiology",
+   "journal": "JAMA Cardiology",
+   "pmid": null,
+   "doi": "10.1001/jamacardio.2025.3565",
+   "reason": "journal masthead/TOC item titled only 'JAMA Cardiology', not a research paper"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

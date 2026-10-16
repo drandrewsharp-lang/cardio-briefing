@@ -1,0 +1,116 @@
+{
+ "date": "2026-10-16",
+ "label": "Friday 16 October 2026: JACC, Circulation: Cardiovascular Interventions",
+ "journals": [
+  "JACC",
+  "Circulation: Cardiovascular Interventions"
+ ],
+ "window": {
+  "start": "2026-10-15",
+  "end": "2026-10-16",
+  "basis": "PubMed entry date 15–16 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-16T09:06",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 2,
+   "included": 2
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 18,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 12,
+   "included": 0
+  }
+ },
+ "n_papers": 3,
+ "n_interventional": 2,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Clinical Impact of Physiology-Guided PCI: 1-year Results of the Post-Revascularization Optimization and Physiological Evaluation of Intermediate Lesions using Fractional Flow Reserve (PROPHET-FFR) Study.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-10-15",
+   "pmid": "42878015",
+   "doi": "10.1161/circinterventions.126.017446",
+   "link": "https://doi.org/10.1161/circinterventions.126.017446",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42878015/",
+   "summary": "Ambispective observational PROPHET-FFR study of 1,986 patients undergoing invasive physiological assessment of intermediate coronary stenoses, categorised as deferred revascularisation on non-ischaemic physiology (1,307), conventional PCI without post-PCI physiology (331), or physiology-guided PCI with post-PCI assessment and optimisation when indicated (348). At 12 months, MACE (cardiovascular death, spontaneous MI or target-vessel revascularisation) occurred in 4.1%, 7.6% and 3.4% respectively (P=0.011). Compared with conventional PCI, post-PCI physiology had lower MACE (3.4% vs 7.6%; P=0.019), mainly driven by reduced TVR (2.6% vs 5.4%; P=0.057), with consistent findings after propensity matching (226 patients per group; 2.7% vs 8.0%; P=0.0114). Use of post-PCI physiology rose from 11.8% to 22.8% across registry phases (P<0.001).",
+   "abstract_available": true,
+   "study_type": "Ambispective observational registry",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Classification and Outcomes of Coronary Microvascular Disease in Myocardial Infarction and Angina With Nonobstructive Coronary Arteries.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-10-15",
+   "pmid": "42877957",
+   "doi": "10.1161/circinterventions.126.016552",
+   "link": "https://doi.org/10.1161/circinterventions.126.016552",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42877957/",
+   "summary": "Prospective cohort of 622 patients with nonobstructive coronary arteries undergoing invasive coronary function testing from 2012 to 2022: 73 (12%) classified as MINOCA and 549 (88%) as ANOCA after excluding atherothrombotic MI, myocarditis and Takotsubo. Coronary microvascular disease was common in both groups (71% vs 64%; P=0.271), while endothelium-independent CMD (coronary flow reserve <2.5 with adenosine) was more frequent in MINOCA (41% vs 21%; P<0.001). Over a median 4.5 years, major adverse cardiovascular events occurred more often in MINOCA (40% vs 11%; adjusted HR 2.4; P=0.001). CMD predicted higher MACE in both MINOCA (HR 3.6, 95% CI 1.1-12.0; P=0.038) and ANOCA (HR 7.9, 95% CI 2.9-21.8; P<0.001).",
+   "abstract_available": true,
+   "study_type": "Prospective observational cohort",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Exercise Prescriptions for Cardiovascular Health in Adults: 2026 ACC Scientific Statement: A Report of the American College of Cardiology.",
+   "journal": "JACC",
+   "date": "2026-10-15",
+   "pmid": "42878712",
+   "doi": "10.1016/j.jacc.2026.09.008",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.008",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42878712/",
+   "summary": "ACC scientific statement on exercise prescriptions for cardiovascular health. It reviews evidence that physical activity, training and cardiorespiratory fitness determine outcomes, outlines aerobic, resistance, balance and flexibility training including cardiac rehabilitation models, and addresses individualized prescription across coronary disease, PAD, heart failure, hypertension, obesity, congenital heart disease and older age.",
+   "abstract_available": true,
+   "study_type": "Scientific statement",
+   "also_in": [],
+   "short_title": "ACC exercise prescriptions for cardiovascular health"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Establishing cardiovascular safety of the small-molecule GLP-1 receptor agonist orforglipron in type 2 diabetes.",
+   "journal": "The Lancet",
+   "pmid": "42880294",
+   "doi": "10.1016/s0140-6736(26)02045-3",
+   "reason": "Lancet commentary/editorial (two authors, no abstract) on orforglipron CV safety in type 2 diabetes; editorials excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

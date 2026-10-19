@@ -1,0 +1,101 @@
+{
+ "date": "2026-10-19",
+ "label": "Monday 19 October 2026: EuroIntervention, JACC",
+ "journals": [
+  "EuroIntervention",
+  "JACC"
+ ],
+ "window": {
+  "start": "2026-10-16",
+  "end": "2026-10-19",
+  "basis": "PubMed entry date 16–19 Oct 2026 inclusive (Monday catch-up of weekend); Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-19T09:02",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JACC": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 4,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 8,
+   "included": 0
+  }
+ },
+ "n_papers": 2,
+ "n_interventional": 1,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Impact of prolonged balloon inflation on valve expansion and early clinical outcomes following contemporary balloon-expandable transcatheter aortic valve implantation.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-15",
+   "pmid": "42885346",
+   "doi": "10.4244/eij-d-26-00494",
+   "link": "https://doi.org/10.4244/eij-d-26-00494",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42885346/",
+   "summary": "Single-centre series of 84 consecutive patients with native tricuspid aortic stenosis treated with SAPIEN 3 Ultra RESILIA TAVI using prolonged balloon inflation (8 seconds) rather than routine double-tap post-dilatation. Fluoroscopy showed complete expansion at inflow and outflow, with only mild midframe underexpansion versus manufacturer nominal (98.5±1.3%). Device success was 100%, with no stroke at 30 days, permanent pacemaker implantation in 6%, mean gradient 9.2 mmHg (IQR 7.0–10.3) and no moderate or severe paravalvular leak; expansion matched or exceeded published double-tap values for 23, 26 and 29 mm valves (lower for 20 mm).",
+   "abstract_available": true,
+   "study_type": "Single-centre observational series",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Occupational Disparities in Cardiovascular Risk and Management in Contemporary China.",
+   "journal": "JACC",
+   "date": "2026-10-01",
+   "pmid": "42886083",
+   "doi": "10.1016/j.jacc.2026.09.012",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.012",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42886083/",
+   "summary": "Nationwide cross-sectional study of 1,421,390 Chinese employees aged 20 to 65 across 18 occupations. Age- and sex-standardised CHD prevalence was 1.33%, highest in the secondary sector and northern regions. Treatment and control of hypertension, diabetes and lipids were suboptimal, especially in modern services. Simulated ASCVD risk reductions varied by occupation, highlighting distinct prevention opportunities.",
+   "abstract_available": true,
+   "study_type": "Nationwide cross-sectional study",
+   "also_in": [],
+   "short_title": "Occupational disparities in cardiovascular risk in China"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Beyond Who Is at Risk: Finding Where Prevention Is Needed.",
+   "journal": "JACC",
+   "pmid": "42886084",
+   "doi": "10.1016/j.jacc.2026.09.025",
+   "reason": "JACC editorial/commentary on occupational CV risk; editorials excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

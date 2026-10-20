@@ -1,0 +1,139 @@
+{
+ "date": "2026-10-20",
+ "label": "Tuesday 20 October 2026: Circulation, JAMA",
+ "journals": [
+  "Circulation",
+  "JAMA"
+ ],
+ "window": {
+  "start": "2026-10-19",
+  "end": "2026-10-20",
+  "basis": "PubMed entry date 19–20 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-20T09:06",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 8,
+   "included": 2
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 4,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 9,
+   "included": 1
+  }
+ },
+ "n_papers": 3,
+ "n_interventional": 0,
+ "n_general": 3,
+ "papers": [
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "ICare-FASTER (Improving Care by Faster Risk Stratification Through Use of High-Sensitivity Point-of-Care Troponin in Patients Presenting With Possible Acute Coronary Syndrome in the Emergency Department): A Stepped-Wedge Cluster-Randomized Trial.",
+   "journal": "Circulation",
+   "date": "2026-10-19",
+   "pmid": "42895015",
+   "doi": "10.1161/circulationaha.126.080866",
+   "link": "https://doi.org/10.1161/circulationaha.126.080866",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42895015/",
+   "summary": "Pragmatic stepped-wedge cluster-randomised trial at six emergency departments, covering 59,980 presentations with possible acute coronary syndrome. Using a point-of-care high-sensitivity troponin I assay within an accelerated single-sample rule-out pathway reduced ED length of stay by 13% (47 minutes) versus central laboratory testing, with similar 30-day MI or cardiac death rates (0.39% in both arms).",
+   "abstract_available": true,
+   "study_type": "Stepped-wedge cluster-randomised trial",
+   "also_in": [],
+   "short_title": "Point-of-care high-sensitivity troponin in the emergency department: the ICare-FASTER trial"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "A Common CD36 Variant and the Genetic Landscape of Dilated Cardiomyopathy in Individuals of African Ancestry.",
+   "journal": "JAMA",
+   "date": "2026-10-19",
+   "pmid": "42895716",
+   "doi": "10.1001/jama.2026.18449",
+   "link": "https://doi.org/10.1001/jama.2026.18449",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42895716/",
+   "summary": "Multicohort genetic study of 82,623 individuals of predominantly African ancestry across four US cohorts, including 1,316 with dilated cardiomyopathy. A common CD36 nonsense variant raised DCM risk in homozygotes (OR 4.8) and heterozygotes (OR 1.4); TTN truncating variants conferred OR 8.5. CD36's population attributable fraction (9.0%) exceeded that of TTN truncating variants (3.7%).",
+   "abstract_available": true,
+   "study_type": "Multicohort genetic association study",
+   "also_in": [],
+   "short_title": "A CD36 variant and dilated cardiomyopathy in people of African ancestry"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Radiation Vasculopathy of the Coronary Arteries: State-of-the Art Review.",
+   "journal": "Circulation",
+   "date": "2026-10-19",
+   "pmid": "42895999",
+   "doi": "10.1161/circulationaha.126.079541",
+   "link": "https://doi.org/10.1161/circulationaha.126.079541",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42895999/",
+   "summary": "State-of-the-art review of radiation-associated coronary artery disease in cancer survivors. Radiation drives endothelial dysfunction and accelerated atherosclerosis; risk depends on dose, coronary proximity to the field and patient factors. Disease presents within 1 to 2 years or after 5 to 20 years. Management follows standard guidelines with cancer-specific considerations; precision radiotherapy and shielding aid prevention.",
+   "abstract_available": true,
+   "study_type": "State-of-the-art review",
+   "also_in": [],
+   "short_title": "Radiation vasculopathy of the coronary arteries"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.",
+   "journal": "JAMA",
+   "pmid": "42896534",
+   "doi": "10.1001/jama.2026.18574",
+   "reason": "PELICAN trial of cardiac index-guided haemodynamic therapy during major abdominal surgery; perioperative anaesthesia/critical care, not cardiology (strict filter)"
+  },
+  {
+   "title": "The Future in the Room: TAVR, Surgery, and the Tyranny of the Now.",
+   "journal": "Circulation",
+   "pmid": "42895998",
+   "doi": "10.1161/circulationaha.126.080256",
+   "reason": "Circulation two-author perspective/opinion piece on TAVR vs surgery, no abstract; editorials/commentary excluded"
+  },
+  {
+   "title": "Left Atrial Myxoma.",
+   "journal": "Circulation",
+   "pmid": "42896000",
+   "doi": "10.1161/circulationaha.126.081728",
+   "reason": "Circulation 'Left Atrial Myxoma', no abstract; image/case-type item excluded"
+  },
+  {
+   "title": "The Relationship is the Intervention: Listening to Adults With Congenital Heart Disease.",
+   "journal": "Circulation",
+   "pmid": "42895995",
+   "doi": "10.1161/circulationaha.126.082725",
+   "reason": "Circulation patient-perspective piece on adults with congenital heart disease, no abstract; commentary excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

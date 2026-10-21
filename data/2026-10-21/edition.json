@@ -1,0 +1,123 @@
+{
+ "date": "2026-10-21",
+ "label": "Wednesday 21 October 2026: Circulation, Circulation: Cardiovascular Interventions",
+ "journals": [
+  "Circulation",
+  "Circulation: Cardiovascular Interventions"
+ ],
+ "window": {
+  "start": "2026-10-20",
+  "end": "2026-10-21",
+  "basis": "PubMed entry date 20–21 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-21T09:01",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 2,
+   "included": 0
+  }
+ },
+ "n_papers": 2,
+ "n_interventional": 1,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Comparison of Drug-Coated Versus Conventional Balloons for the Side Branches of Bifurcation Lesions: OCVC-BIF Study.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-05-29",
+   "pmid": "42900708",
+   "doi": "10.1161/circinterventions.125.016424",
+   "link": "https://doi.org/10.1161/circinterventions.125.016424",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42900708/",
+   "summary": "Multicentre, randomised, open-label trial of 299 patients with bifurcation lesions treated with main-vessel DES and kissing balloon inflation, randomised to additional drug-coated balloon dilatation of the side branch (151) or conventional balloons only (148). Side-branch restenosis (50% or more stenosis on 3-dimensional bifurcation quantitative coronary angiography at 9 months, or symptom-driven angiography within 1 year), assessed in 262 patients (87.6%), was lower with DCB: 8.1% versus 18.3% (P=0.012). MACE at 12 months was similar, 10.1% versus 12.4% (P=0.58).",
+   "abstract_available": true,
+   "study_type": "Multicentre randomised controlled trial",
+   "also_in": [],
+   "short_title": "Drug-coated versus conventional balloons for bifurcation side branches: the OCVC-BIF study"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Multimodal KCNQ1 Variant-Effect Maps Define Ion Channel Mechanisms and Disease Risk.",
+   "journal": "Circulation",
+   "date": "2026-10-20",
+   "pmid": "42899351",
+   "doi": "10.1161/circulationaha.126.080900",
+   "link": "https://doi.org/10.1161/circulationaha.126.080900",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42899351/",
+   "summary": "Functional atlas of 13,403 coding variants in KCNQ1, the leading cause of congenital long QT syndrome, from four pooled assays (49,305 measurements). 1,757 variants showed strong pathogenic and 6,660 moderate benign evidence. Loss-of-function variants were associated with QT prolongation and long QT syndrome; dominant-negative variants carried higher arrhythmia risk than haploinsufficient ones.",
+   "abstract_available": true,
+   "study_type": "Functional genomics study with case-control and biobank analyses",
+   "also_in": [],
+   "short_title": "A functional map of KCNQ1 variants in long QT syndrome"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "From Risk Trajectories to Surrogate Endpoints in Mild HCM",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.07.053",
+   "reason": "letter to the editor (single e-page correspondence, no abstract)"
+  },
+  {
+   "title": "Temporal Alignment of Remodeling Trajectories in Mild HCM",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.07.052",
+   "reason": "letter to the editor (e-page correspondence, no abstract)"
+  },
+  {
+   "title": "What We Lose When the Threshold Becomes the Answer",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.004",
+   "reason": "single-author viewpoint/editorial-type piece (no abstract)"
+  },
+  {
+   "title": "Atrial Cardiomyopathy in Hypertrophic Cardiomyopathy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.002",
+   "reason": "short editorial comment/perspective (no abstract)"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "date": "2026-10-22",
+ "label": "Thursday 22 October 2026: JACC, JAMA Cardiology",
+ "journals": [
+  "JACC",
+  "JAMA Cardiology"
+ ],
+ "window": {
+  "start": "2026-10-21",
+  "end": "2026-10-22",
+  "basis": "PubMed entry date 21–22 Oct 2026 inclusive (PubMed returned no new records); Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-22T09:11",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 0,
+   "included": 0
+  }
+ },
+ "n_papers": 2,
+ "n_interventional": 0,
+ "n_general": 2,
+ "papers": [
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Vascular Function and Cardiorespiratory Fitness in Adults Who Use Nicotine Vapes",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-21",
+   "pmid": null,
+   "doi": "10.1001/jamacardio.2026.4626",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4626",
+   "pubmed_link": null,
+   "summary": "Cross-sectional study of 58 young adults without cardiovascular risk factors: 17 daily nicotine vape users, 19 cigarette smokers and 22 nonusers. Flow-mediated dilation was lower with vaping (5.5%) and smoking (4.4%) than in nonusers (8.3%), as was carotid artery reactivity. Peak oxygen uptake was lower in vape users than nonusers; lung function did not differ.",
+   "abstract_available": true,
+   "study_type": "Cross-sectional physiological study (abstract from Crossref)",
+   "also_in": [],
+   "short_title": "vaping, vascular function and fitness in young adults"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Longitudinal Proteomic Profiling of Blood Pressure in the Community",
+   "journal": "JACC",
+   "date": "2026-10-21",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.023",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.023",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this study, so no results are reported here. Judging from its title, it measures large panels of blood proteins at repeated time points in a community cohort to examine how they relate to blood pressure. See the full paper in JACC for the cohort, methods and findings.",
+   "abstract_available": false,
+   "study_type": "Original research (no abstract)",
+   "also_in": [],
+   "short_title": "proteomic profiling of blood pressure over time"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Tribute to the Ultimate Individual, Mentor, and Friend",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.028",
+   "reason": "tribute/obituary"
+  },
+  {
+   "title": "Managing Ketogenic Diet–Induced Hypercholesterolemia",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.031",
+   "reason": "short two-author clinical perspective piece with no abstract (not original research)"
+  },
+  {
+   "title": "E-Cigarettes—Lessons From History and Implications for Public Health",
+   "journal": "JAMA Cardiology",
+   "pmid": null,
+   "doi": "10.1001/jamacardio.2026.4732",
+   "reason": "editorial/commentary"
+  },
+  {
+   "title": "McConnell Sign After Syncope in a Man in His 60s",
+   "journal": "JAMA Cardiology",
+   "pmid": null,
+   "doi": "10.1001/jamacardio.2026.3620",
+   "reason": "case report / imaging challenge"
+  },
+  {
+   "title": "Dietary Strategies for the Prevention of Cardiovascular Disease",
+   "journal": "JAMA Cardiology",
+   "pmid": null,
+   "doi": "10.1001/jamacardio.2026.4565",
+   "reason": "viewpoint"
+  },
+  {
+   "title": "IVUS-Guided PCI in Left Main Coronary Disease",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejmc2609433",
+   "reason": "letter to the editor (correspondence)"
+  },
+  {
+   "title": "Infective Endocarditis — When Is Enough Enough?",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejme2612352",
+   "reason": "editorial"
+  },
+  {
+   "title": "Role for Factor XIa Inhibitors after an Acute Coronary Syndrome Event",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejme2612343",
+   "reason": "editorial"
+  },
+  {
+   "title": "Pulsed Field Ablation for Persistent Atrial Fibrillation",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejmc2610073",
+   "reason": "letter to the editor (correspondence)"
+  },
+  {
+   "title": "Mavacamten and Obstructive Hypertrophic Cardiomyopathy in Teens",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejmc2611023",
+   "reason": "letter to the editor (correspondence)"
+  },
+  {
+   "title": "Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial",
+   "journal": "The Lancet",
+   "pmid": null,
+   "doi": null,
+   "reason": "not cardiology (gynaecology)"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

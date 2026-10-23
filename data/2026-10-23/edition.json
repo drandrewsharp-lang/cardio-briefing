@@ -1,0 +1,202 @@
+{
+ "date": "2026-10-23",
+ "label": "Friday 23 October 2026: JACC: Cardiovascular Interventions, Circulation",
+ "journals": [
+  "JACC: Cardiovascular Interventions",
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-10-22",
+  "end": "2026-10-23",
+  "basis": "PubMed entry date 22–23 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-23T09:03",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 8,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 4
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 6,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 24,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 4,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 12,
+   "included": 0
+  }
+ },
+ "n_papers": 5,
+ "n_interventional": 4,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "First Experience of a New Transfemoral Transcatheter Mitral Valve Replacement System",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-23",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.09.007",
+   "link": "https://doi.org/10.1016/j.jcin.2026.09.007",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Short report (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Feasibility and Restenosis Predictors of Optical Frequency Domain Imaging-Guided Drug-Coated Balloon Treatment for Femoropopliteal Lesions",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-23",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.08.014",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.014",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Short report (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Prehabilitation of Patients With Severe Tricuspid Regurgitation Before Transcatheter Edge-to-Edge Repair",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-23",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.06.017",
+   "link": "https://doi.org/10.1016/j.jcin.2026.06.017",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Short report (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "One-Lung Ventilation to Facilitate Transcatheter Tricuspid Edge-to-Edge Repair Under Transesophageal Echocardiographic Imaging",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-23",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.07.024",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.024",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Short report (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Multidisciplinary Collaboration in the Performance of Aortic Surgery: A Scientific Statement From the American Heart Association",
+   "journal": "Circulation",
+   "date": "2026-10-22",
+   "pmid": null,
+   "doi": "10.1161/cir.0000000000001490",
+   "link": "https://doi.org/10.1161/cir.0000000000001490",
+   "pubmed_link": null,
+   "summary": "This AHA scientific statement looks at aortic surgery from the separate viewpoints of the surgeon, anaesthesiologist and perfusionist. It highlights how one team member's actions immediately affect the others, especially with single-lung ventilation, systemic cooling and rewarming, and myocardial, cerebral and visceral protection. It is illustrative rather than exhaustive and reports no new data.",
+   "abstract_available": true,
+   "study_type": "AHA scientific statement (abstract from Crossref)",
+   "also_in": [],
+   "short_title": "teamwork in aortic surgery"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Intact En Bloc Percutaneous Extraction of a Chronically Implanted Aorto-Ostial Right Coronary Artery Stent",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.07.031",
+   "reason": "case report (stent extraction, four authors, no abstract); case reports excluded"
+  },
+  {
+   "title": "Determining the Optimal Treatment Strategy for Patients With Combined Aortic Stenosis and Mitral Regurgitation",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "pmid": null,
+   "doi": "10.1161/circinterventions.126.017466",
+   "reason": "two-author perspective/commentary piece (no abstract); editorials/commentary excluded"
+  },
+  {
+   "title": "Tricuspid Regurgitation in Transthyretin Amyloid Cardiomyopathy.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42905695",
+   "doi": "10.1001/jamacardio.2026.4493",
+   "reason": "letter to the editor (two authors, no abstract)"
+  },
+  {
+   "title": "Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial.",
+   "journal": "The Lancet",
+   "pmid": "42906565",
+   "doi": "10.1016/s0140-6736(26)01536-9",
+   "reason": "not cardiology (gynaecology)"
+  },
+  {
+   "title": "Obesity in Children Aged 2 to 12 Years: A Review.",
+   "journal": "JAMA",
+   "pmid": "42905688",
+   "doi": "10.1001/jama.2026.18806",
+   "reason": "not cardiology (paediatric obesity review)"
+  },
+  {
+   "title": "Pregnancy Outcomes After Living Kidney Donation",
+   "journal": "JAMA",
+   "pmid": null,
+   "doi": "10.1001/jama.2026.21737",
+   "reason": "not cardiology (pregnancy outcomes after kidney donation; obstetrics/nephrology)"
+  },
+  {
+   "title": "Beyond imaging thresholds in large-core stroke thrombectomy",
+   "journal": "The Lancet",
+   "pmid": null,
+   "doi": "10.1016/s0140-6736(26)01642-9",
+   "reason": "correspondence on stroke thrombectomy; not cardiology"
+  },
+  {
+   "title": "Beyond imaging thresholds in large-core stroke thrombectomy – Authors’ reply",
+   "journal": "The Lancet",
+   "pmid": null,
+   "doi": "10.1016/s0140-6736(26)01903-3",
+   "reason": "authors' reply correspondence on stroke thrombectomy; not cardiology"
+  },
+  {
+   "title": "Compounded GLP-1 Dispensing Patterns and Vitamin B 12 Coformulation",
+   "journal": "JAMA",
+   "pmid": null,
+   "doi": "10.1001/jama.2026.21223",
+   "reason": "not cardiology (compounded GLP-1 dispensing research letter)"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

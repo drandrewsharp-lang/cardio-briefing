@@ -1,0 +1,247 @@
+{
+ "date": "2026-10-26",
+ "label": "Monday 26 October 2026: EuroIntervention, JACC: Cardiovascular Interventions, JAMA Cardiology, JAMA",
+ "journals": [
+  "EuroIntervention",
+  "JACC: Cardiovascular Interventions",
+  "JAMA Cardiology",
+  "JAMA"
+ ],
+ "window": {
+  "start": "2026-10-23",
+  "end": "2026-10-26",
+  "basis": "PubMed entry date 23–26 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-26T09:14",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 7,
+   "included": 4
+  },
+  "JACC": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 7,
+   "included": 1
+  },
+  "Circulation": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "NEJM": {
+   "pubmed_in_window": 4,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 19,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 26,
+   "included": 1
+  }
+ },
+ "n_papers": 7,
+ "n_interventional": 4,
+ "n_general": 3,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Immediate Complete Revascularization During Index Admission in Older Patients With ST-Segment Elevation Myocardial Infarction.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-22",
+   "pmid": "42925297",
+   "doi": "10.1016/j.jcin.2026.08.025",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.025",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42925297/",
+   "summary": "Post hoc analysis of the OPTION-STEMI trial (994 patients with STEMI and multivessel disease randomised to immediate or in-hospital staged FFR-guided complete revascularisation). Age modified the treatment effect on 1-year death, MI or unplanned revascularisation (interaction P=0.015), with risk rising in the immediate arm beyond about 67 years. In patients aged 70 or over, immediate complete revascularisation had more events than staged, 22.3% versus 13.8% (HR 1.68, 95% CI 1.06-2.69); under 70 there was no difference, 6.8% versus 8.4% (HR 0.80, 95% CI 0.45-1.45).",
+   "abstract_available": true,
+   "study_type": "Post hoc analysis of a randomised trial",
+   "also_in": [],
+   "short_title": "Immediate versus staged complete revascularisation by age in STEMI: OPTION-STEMI"
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Coronary artery disease management in patients with severe aortic stenosis undergoing transcatheter aortic valve implantation: a systematic review and meta-analysis of randomised controlled trials.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-19",
+   "pmid": "42910974",
+   "doi": "10.4244/eij-d-26-00602",
+   "link": "https://doi.org/10.4244/eij-d-26-00602",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42910974/",
+   "summary": "Meta-analysis of randomised trials on coronary artery disease management in patients undergoing TAVI: five trials (1,644 patients), four in the main synthesis (1,476). Routine PCI versus conservative treatment lowered MACE (RR 0.80, 95% CI 0.65-0.98) and unplanned revascularisation (RR 0.30, 95% CI 0.11-0.83) but increased major bleeding (RR 1.57, 95% CI 1.07-2.32). In the network meta-analysis, physiology-guided PCI reduced MACE, stroke and unplanned revascularisation versus conservative treatment and ranked highest for ischaemic outcomes.",
+   "abstract_available": true,
+   "study_type": "Systematic review and meta-analysis of RCTs",
+   "also_in": [],
+   "short_title": "Coronary disease management in TAVI patients: meta-analysis"
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Safety and effectiveness of the Vertex Pulmonary Embolectomy System in acute intermediate-risk pulmonary embolism: the SPIRARE II pivotal trial.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-19",
+   "pmid": "42910977",
+   "doi": "10.4244/eij-d-26-00454",
+   "link": "https://doi.org/10.4244/eij-d-26-00454",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42910977/",
+   "summary": "Single-arm pivotal trial of the Vertex Pulmonary Embolectomy System for aspiration thrombectomy in acute intermediate-risk pulmonary embolism (RV/LV ratio above 0.9, haemodynamically stable) at 19 US and European sites. In 123 patients, 48-hour major adverse events occurred in 2.4% (3 of 123), and the RV/LV ratio fell from 1.44 to 1.05 at 48 hours (mean reduction 0.39); both met their prespecified performance goals (P<0.0001).",
+   "abstract_available": true,
+   "study_type": "Prospective single-arm multicentre pivotal trial",
+   "also_in": [],
+   "short_title": "Vertex aspiration thrombectomy for intermediate-risk PE: SPIRARE II"
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Early outcomes of transcatheter vacuum-assisted mass extraction in the left heart and the aortic arch.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-19",
+   "pmid": "42910975",
+   "doi": "10.4244/eij-d-26-00347",
+   "link": "https://doi.org/10.4244/eij-d-26-00347",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42910975/",
+   "summary": "Series of 62 consecutive patients from 6 US and Canadian centres undergoing transcatheter vacuum-assisted mass extraction from the left heart or aortic arch. Feasibility was 85.5% and effectiveness (at least 70% debulking) 77.4%; in 8.1% no mass was found during the procedure. The 30-day VARC-3 safety endpoint occurred in 14.5%, including 3.2% procedure-attributable mortality and 6.5% stroke, which the authors say calls for better case selection and embolic protection.",
+   "abstract_available": true,
+   "study_type": "Multicentre retrospective series",
+   "also_in": [],
+   "short_title": "Vacuum-assisted mass extraction in the left heart and aortic arch"
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Advanced Subclinical Atherosclerosis in Young Individuals and Risk of Mortality Over 30 Years: The Coronary Artery Calcium Consortium.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-23",
+   "pmid": "42912400",
+   "doi": "10.1001/jamacardio.2026.4819",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4819",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42912400/",
+   "summary": "Cohort of 12,847 adults aged 30 to 45 from the CAC Consortium, followed for a median 22.6 years. Compared with a CAC score of 0, a CAC score greater than 90% carried adjusted hazard ratios of 1.87 for all-cause, 2.60 for cardiovascular and 3.71 for coronary heart disease mortality.",
+   "abstract_available": true,
+   "study_type": "Cohort study",
+   "also_in": [],
+   "short_title": "coronary calcium in young adults and 30-year mortality"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Sodium-Glucose Cotransporter 2 Inhibitor Use and Levels of Hemoglobin, Markers of Iron Metabolism, and Erythropoiesis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+   "journal": "JAMA",
+   "date": "2026-10-24",
+   "pmid": "42925557",
+   "doi": "10.1001/jama.2026.19921",
+   "link": "https://doi.org/10.1001/jama.2026.19921",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42925557/",
+   "summary": "Meta-analysis of 85 randomised trials (70,543 participants) with cardiovascular disease, diabetes, heart failure or chronic kidney disease. Versus control, SGLT2 inhibitors raised haemoglobin by 0.60 g/dL and haematocrit by 2.36 percentage points, increased erythropoietin and lowered transferrin saturation. The authors say the clinical significance of these small increases is unclear.",
+   "abstract_available": true,
+   "study_type": "Systematic review and meta-analysis of RCTs",
+   "also_in": [],
+   "short_title": "SGLT2 inhibitors and haemoglobin"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Life expectancy after aortic valve replacement: a nationwide analysis.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-19",
+   "pmid": "42910976",
+   "doi": "10.4244/eij-d-26-00334",
+   "link": "https://doi.org/10.4244/eij-d-26-00334",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42910976/",
+   "summary": "No abstract was available for this study, so no results are reported here. Judging from its title, it is a nationwide analysis of life expectancy in patients after aortic valve replacement. See the full paper in EuroIntervention for the study population, methods and main findings.",
+   "abstract_available": false,
+   "study_type": "Nationwide analysis (no abstract available)",
+   "also_in": [],
+   "short_title": "life expectancy after aortic valve replacement"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy: A Randomized Clinical Trial.",
+   "journal": "JAMA",
+   "pmid": "42911562",
+   "doi": "10.1001/jama.2026.15278",
+   "reason": "not cardiology (EGPA vasculitis maintenance therapy)"
+  },
+  {
+   "title": "Coronary revascularisation in patients undergoing transcatheter aortic valve implantation: from anatomy to physiology guidance?",
+   "journal": "EuroIntervention",
+   "pmid": "42910980",
+   "doi": "10.4244/eij-d-26-01199",
+   "reason": "single-author editorial/commentary (no abstract); editorials excluded"
+  },
+  {
+   "title": "Reproducible haemodynamics, unresolved indication: where does thrombectomy for acute pulmonary embolism stand?",
+   "journal": "EuroIntervention",
+   "pmid": "42910979",
+   "doi": "10.4244/eij-d-26-01104",
+   "reason": "single-author editorial/commentary (no abstract); editorials excluded"
+  },
+  {
+   "title": "Prolonged inflation instead of a double tap: pursuing the optimal deployment strategy for the SAPIEN 3 Ultra RESILIA.",
+   "journal": "EuroIntervention",
+   "pmid": "42910978",
+   "doi": "10.4244/eij-d-26-01011",
+   "reason": "two-author commentary (no abstract); editorials excluded"
+  },
+  {
+   "title": "Trial of Endovascular Therapy for Mild Stroke with Large-Vessel Occlusion",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2609149",
+   "reason": "not cardiology (stroke thrombectomy)"
+  },
+  {
+   "title": "Mechanical Thrombectomy 24 to 72 Hours after Large-Vessel Ischemic Stroke",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2609362",
+   "reason": "not cardiology (stroke thrombectomy)"
+  },
+  {
+   "title": "Expanding the Evidence and Indications for Thrombectomy in Ischemic Stroke",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejme2612692",
+   "reason": "editorial; stroke, not cardiology"
+  },
+  {
+   "title": "Increased Hemoglobin With Sodium-Glucose Transporter 2 Inhibitors-A Consistent Extra Benefit?",
+   "journal": "JAMA",
+   "pmid": "42925555",
+   "doi": "10.1001/jama.2026.22329",
+   "reason": "editorial (two authors, no abstract)"
+  },
+  {
+   "title": "Global Heart Failure Burden Increased Between 1990 and 2023.",
+   "journal": "JAMA",
+   "pmid": "42912386",
+   "doi": "10.1001/jama.2026.20030",
+   "reason": "news item (JAMA medical news)"
+  },
+  {
+   "title": "ACC Releases Guidance for Managing Resistant Hypertension.",
+   "journal": "JAMA",
+   "pmid": "42912385",
+   "doi": "10.1001/jama.2026.20031",
+   "reason": "news item (JAMA medical news)"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

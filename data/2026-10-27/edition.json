@@ -1,0 +1,387 @@
+{
+ "date": "2026-10-27",
+ "label": "Tuesday 27 October 2026: EuroIntervention, JACC: Cardiovascular Interventions, Circulation",
+ "journals": [
+  "EuroIntervention",
+  "JACC: Cardiovascular Interventions",
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-10-26",
+  "end": "2026-10-27",
+  "basis": "PubMed entry date 26–27 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-27T09:06",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 22,
+   "included": 8
+  },
+  "Circulation": {
+   "pubmed_in_window": 19,
+   "included": 7
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 14,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 6,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 8,
+   "included": 0
+  }
+ },
+ "n_papers": 16,
+ "n_interventional": 10,
+ "n_general": 6,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Safety and Effectiveness of a Novel Laser-Based Intravascular Lithotripsy System for Coronary Calcium: FRACTURE Study.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42933913",
+   "doi": "10.1016/j.jcin.2026.08.018",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.018",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42933913/",
+   "summary": "Prospective multicentre single-arm FRACTURE trial of a novel laser-based quad-emitter intravascular lithotripsy system in 420 patients with severely calcified de novo coronary lesions (median calcified length 34.4 mm). Thirty-day freedom from MACE was 93.3% and procedural success 93.7%, both exceeding their performance goals (P<0.0001). In the 106-patient OCT substudy, calcium fracture was seen in 67% of lesions and stent expansion was 94.2% at the site of maximum calcification.",
+   "abstract_available": true,
+   "study_type": "Prospective multicentre single-arm trial",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Impact of Recurrent Mitral Regurgitation Following Mitral Transcatheter Edge-to-Edge Repair on Long-Term Outcomes.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42933917",
+   "doi": "10.1016/j.jcin.2026.07.015",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.015",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42933917/",
+   "summary": "Retrospective cohort of 461 consecutive patients with successful M-TEER (residual MR 2+ or less at discharge) treated between 2008 and 2021. Recurrent MR, a rise of at least one grade at follow-up, occurred in 31.7%. Four-year mortality was 56.3% with recurrent MR versus 44.8% without, and recurrent MR independently predicted death (HR 1.43, 95% CI 1.06-1.93); the survival difference was significant in degenerative MR (P=0.014) but not functional MR (P=0.11).",
+   "abstract_available": true,
+   "study_type": "Retrospective cohort",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Periprocedural Pulmonary Hypertension and Outcomes After Mitral Valve Transcatheter Edge-to-Edge Repair.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42933915",
+   "doi": "10.1016/j.jcin.2026.08.017",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.017",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42933915/",
+   "summary": "OCEAN-Mitral registry analysis of 3,484 M-TEER patients with paired echocardiographic data, defining pulmonary hypertension as a TR pressure gradient above 31 mm Hg. Around the procedure, 41.1% had no PH, 21.9% normalised, 8.6% developed new PH and 28.4% had residual PH; 2-year cardiovascular death or heart failure hospitalisation was 17.6%, 18.1%, 27.2% and 27.6% respectively. Residual MR and a post-procedural transmitral gradient above 5 mm Hg predicted new-onset PH.",
+   "abstract_available": true,
+   "study_type": "Prospective registry analysis",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Two-Year Outcomes of the Prospective THRILLER Registry on Popliteal and Infrapopliteal Endovascular Interventions for CLTI.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42933919",
+   "doi": "10.1016/j.jcin.2026.07.044",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.044",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42933919/",
+   "summary": "Dutch prospective registry (THRILLER) from seven hospitals of 938 patients (1,060 limbs, 1,119 interventions) undergoing popliteal or infrapopliteal endovascular revascularisation for chronic limb-threatening ischaemia, with a median follow-up of 43.6 months. Technical success was 92.3%. Compared with Rutherford 5, Rutherford 6 limbs had worse limb salvage (HR 3.07, 95% CI 1.89-4.99) and amputation-free survival (HR 2.07, 95% CI 1.50-2.86), with the excess risk concentrated in the first 3 months.",
+   "abstract_available": true,
+   "study_type": "Prospective multicentre registry",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "A randomised non-inferiority trial of CCTA guidance versus IVUS guidance for PCI: rationale and design of the P4 clinical trial",
+   "journal": "EuroIntervention",
+   "date": "2026-10-26",
+   "pmid": null,
+   "doi": "10.4244/eij-d-26-00924",
+   "link": "https://doi.org/10.4244/eij-d-26-00924",
+   "pubmed_link": null,
+   "summary": "Design paper for P4, an international randomised open-label non-inferiority trial with blinded endpoint adjudication comparing comprehensive CCTA-guided PCI (virtual PCI planning and CT-fluoroscopy synchronisation in the cath lab) with IVUS-guided PCI. About 1,100 patients with chronic or stabilised acute coronary syndrome, a stenosis over 70% and CT-derived FFR of 0.80 or less are being enrolled. The primary endpoint is 12-month target vessel failure; no results yet.",
+   "abstract_available": true,
+   "study_type": "Randomised trial rationale and design",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Calcium Fracture Detection by Optical Coherence Tomography Versus Intravascular Ultrasound Following Intravascular Lithotripsy.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42933911",
+   "doi": "10.1016/j.jcin.2026.07.053",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.053",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42933911/",
+   "summary": "Ex vivo study of 15 heavily calcified coronary lesions from 5 cadaveric hearts imaged with OCT, IVUS and micro-CT before and after intravascular lithotripsy. Compared with micro-CT, both OCT and IVUS underestimated fractures, and IVUS was less sensitive than OCT. IVUS detection depended strongly on fracture width measured by OCT (AUC 0.99, sensitivity 100%, specificity 92%), so absence of a visible fracture does not exclude calcium modification.",
+   "abstract_available": true,
+   "study_type": "Ex vivo imaging comparison",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "Morphology-Dependent Dose-Response of Intravascular Lithotripsy on Coronary Calcium Fracture.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42933909",
+   "doi": "10.1016/j.jcin.2026.07.027",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.027",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42933909/",
+   "summary": "Ex vivo micro-CT study of 15 coronary lesions in 5 cadaveric hearts treated with 10 to 120 IVL pulses (Shockwave). Fractures were seen in 33% of sections after 10 pulses, 50% after 40 and 60% after 120. Lesions with a calcium arc of 180 degrees or more fractured more often, with a rate ratio of 6.1 for fracture count after adjusting for pulse number (P=0.003).",
+   "abstract_available": true,
+   "study_type": "Ex vivo dose-response study",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 8,
+   "title": "Price Variation in Outpatient Percutaneous Coronary Intervention.",
+   "journal": "Circulation",
+   "date": "2026-10-26",
+   "pmid": "42932418",
+   "doi": "10.1161/circulationaha.126.081539",
+   "link": "https://doi.org/10.1161/circulationaha.126.081539",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42932418/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Short report (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 9,
+   "title": "Cerebral Embolism in Transfemoral Carotid Artery Stenting Using Proximal Protection and MicroNet-Covered Stents: PROXGUARD Study.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42933923",
+   "doi": "10.1016/j.jcin.2026.07.048",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.048",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42933923/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Short report (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 10,
+   "title": "Pulmonary Index of Microcirculatory Resistance: A Novel Hemodynamic Index for Invasively Assessing the Pulmonary Microvasculature.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42933922",
+   "doi": "10.1016/j.jcin.2026.07.043",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.043",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42933922/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Short report (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Outcomes of Hypoplastic Left Heart Syndrome by Subtype and Presence of Ventriculocoronary Connections: A Fetal Heart Society Multicenter Retrospective Study",
+   "journal": "Circulation",
+   "date": "2026-10-27",
+   "pmid": null,
+   "doi": "10.1161/circulationaha.126.080144",
+   "link": "https://doi.org/10.1161/circulationaha.126.080144",
+   "pubmed_link": null,
+   "summary": "Fetal Heart Society cohort of 591 infants with hypoplastic left heart syndrome from 16 centres, followed for median 9 years. Transplant-free survival was 55.6% at 5 years and 49.4% at 10 years. The mitral stenosis and aortic atresia subtype with ventriculocoronary connections did worst (HR 1.69), and fetal detection of those connections signalled lower survival.",
+   "abstract_available": true,
+   "study_type": "Multicentre retrospective cohort",
+   "also_in": [],
+   "short_title": "hypoplastic left heart syndrome subtypes and survival"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Consensus Guidance for the Female-Specific Prevention and Management of Cardiovascular Disease: A Scientific Statement From the American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine.",
+   "journal": "Circulation",
+   "date": "2026-10-26",
+   "pmid": "42929102",
+   "doi": "10.1161/cir.0000000000001482",
+   "link": "https://doi.org/10.1161/cir.0000000000001482",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42929102/",
+   "summary": "This scientific statement from the AHA with paediatric, obstetric and maternal-fetal medicine societies gives consensus guidance on female-specific cardiovascular prevention and management. Built on four Female Life Stages, perimenarche, ovarian cycling, perimenopause and postmenopause, with pregnancy as a modifying event, it crosswalks society guidelines and calls for better workflows, education and research.",
+   "abstract_available": true,
+   "study_type": "Scientific statement",
+   "also_in": [],
+   "short_title": "female-specific prevention and management of cardiovascular disease"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "A Female-Specific Life Course Approach to the Prevention and Management of Cardiovascular Disease: A Presidential Advisory From the American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine.",
+   "journal": "Circulation",
+   "date": "2026-10-26",
+   "pmid": "42929148",
+   "doi": "10.1161/cir.0000000000001483",
+   "link": "https://doi.org/10.1161/cir.0000000000001483",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42929148/",
+   "summary": "This AHA presidential advisory, written with paediatric, obstetric and maternal-fetal medicine societies, sets out a female-specific life course framework for preventing and managing cardiovascular disease in girls and women. It defines four hormonally distinct life stages that should shape screening, prevention and treatment, and lists priorities for implementation, research, clinician education, advocacy and policy.",
+   "abstract_available": true,
+   "study_type": "Presidential advisory",
+   "also_in": [],
+   "short_title": "a female-specific life course approach to cardiovascular disease"
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Comprehensive Centers of Excellence for Women's Cardiovascular Care: A Science Advisory From the American Heart Association, American Academy of Pediatrics, American College of Obstetricians and Gynecologists, and Society for Maternal-Fetal Medicine.",
+   "journal": "Circulation",
+   "date": "2026-10-26",
+   "pmid": "42929153",
+   "doi": "10.1161/cir.0000000000001481",
+   "link": "https://doi.org/10.1161/cir.0000000000001481",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42929153/",
+   "summary": "This multisociety science advisory describes the rapid growth of women's cardiovascular centres and proposes a national infrastructure for Comprehensive Centers of Excellence for Women's Cardiovascular Care. These would rest on four pillars, interdisciplinary clinical care, education and training, research, and community engagement, to reduce fragmented care and include more women in research.",
+   "abstract_available": true,
+   "study_type": "Science advisory",
+   "also_in": [],
+   "short_title": "centres of excellence for women's cardiovascular care"
+  },
+  {
+   "category": "general",
+   "rank": 5,
+   "title": "Effect of Activin Type II Receptor Signaling in Patients With HFpEF and Pulmonary Hypertension: A Critical Analysis of Biological Mechanisms and Clinical Trials.",
+   "journal": "Circulation",
+   "date": "2026-10-26",
+   "pmid": "42932419",
+   "doi": "10.1161/circulationaha.126.081957",
+   "link": "https://doi.org/10.1161/circulationaha.126.081957",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42932419/",
+   "summary": "This review argues that combined post- and precapillary pulmonary hypertension in HFpEF is driven by pulmonary venous and left atrial dysfunction, with activin A from epicardial fat as a key mediator. It notes that sotatercept lowered wedge pressure and left atrial volume index in the CADENCE trial; a phase III outcomes trial is under way.",
+   "abstract_available": true,
+   "study_type": "Review",
+   "also_in": [],
+   "short_title": "activin signalling in HFpEF with pulmonary hypertension"
+  },
+  {
+   "category": "general",
+   "rank": 6,
+   "title": "ROR2 Drives Right Ventricular Heart Failure Through Disruption of Proteostasis",
+   "journal": "Circulation",
+   "date": "2026-10-27",
+   "pmid": null,
+   "doi": "10.1161/circulationaha.125.078798",
+   "link": "https://doi.org/10.1161/circulationaha.125.078798",
+   "pubmed_link": null,
+   "summary": "In rat cardiomyocytes and mouse models, the WNT receptor ROR2, which is upregulated in human right ventricular failure, disrupted the balance between protein synthesis and folding, driving excess proteasome clearance and sarcomere damage. Forced cardiac ROR2 expression caused right ventricular failure, while knockdown partly rescued right ventricular structure and function after pulmonary artery banding.",
+   "abstract_available": true,
+   "study_type": "Experimental study",
+   "also_in": [],
+   "short_title": "ROR2 and right ventricular failure"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Pulmonary Artery Dissection Identified by Optical Coherence Tomography in Takayasu Arteritis.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42933925",
+   "doi": "10.1016/j.jcin.2026.08.020",
+   "reason": "image/case-type item (no abstract); images and case reports excluded"
+  },
+  {
+   "title": "ROBIN to the Rescue: Balloon Laceration for LVOT Obstruction After Incomplete LAMPOON in Valve-in-Ring TMVR.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42933924",
+   "doi": "10.1016/j.jcin.2026.07.045",
+   "reason": "case report (no abstract); case reports excluded"
+  },
+  {
+   "title": "Snare-Guided Repositioning of a Vascular Plug Device for Device-Related Hemolytic Anemia.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42933927",
+   "doi": "10.1016/j.jcin.2026.06.032",
+   "reason": "case report (no abstract); case reports excluded"
+  },
+  {
+   "title": "Dynamic Common Iliac Vein Compression by the Adjacent Intestine Revealed by Intravascular Ultrasound.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42933926",
+   "doi": "10.1016/j.jcin.2026.07.025",
+   "reason": "image item (no abstract); images excluded"
+  },
+  {
+   "title": "Cardiac Allograft Vasculopathy Demonstrated by Coronary Angiography and Histopathological Correlates.",
+   "journal": "Circulation",
+   "pmid": "42932411",
+   "doi": "10.1161/circulationaha.126.082229",
+   "reason": "image item (no abstract); images excluded"
+  },
+  {
+   "title": "Optimizing US Prehospital Care of ST-Segment-Elevation Myocardial Infarction Because Time Is Life, Not Just Muscle.",
+   "journal": "Circulation",
+   "pmid": "42932412",
+   "doi": "10.1161/circulationaha.126.081889",
+   "reason": "two-author perspective (no abstract); editorials/commentary excluded"
+  },
+  {
+   "title": "Women's Cardiovascular Health: From Recognition to Action.",
+   "journal": "Circulation",
+   "pmid": "42929155",
+   "doi": "10.1161/circulationaha.126.083237",
+   "reason": "two-author editorial on women's cardiovascular health (no abstract)"
+  },
+  {
+   "title": "Promises to Keep: Closing the Gaps in Women's Cardiovascular Health.",
+   "journal": "Circulation",
+   "pmid": "42929154",
+   "doi": "10.1161/circulationaha.126.083230",
+   "reason": "perspective/editorial on women's cardiovascular health (no abstract)"
+  },
+  {
+   "title": "Women's Cardiovascular Health Begins in Childhood.",
+   "journal": "Circulation",
+   "pmid": "42929150",
+   "doi": "10.1161/circulationaha.126.083234",
+   "reason": "two-author perspective on women's cardiovascular health (no abstract)"
+  },
+  {
+   "title": "One Life Course, Many Specialties: Building a System for Cardiovascular Health in Girls and Women.",
+   "journal": "Circulation",
+   "pmid": "42929143",
+   "doi": "10.1161/circulationaha.126.083235",
+   "reason": "perspective/editorial on women's cardiovascular health (no abstract)"
+  },
+  {
+   "title": "Mainstreaming Cardiovascular Care for Women: From Special Population to Standard Practice.",
+   "journal": "Circulation",
+   "pmid": "42929106",
+   "doi": "10.1161/circulationaha.126.083236",
+   "reason": "single-author editorial (no abstract)"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

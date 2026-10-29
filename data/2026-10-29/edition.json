@@ -1,0 +1,125 @@
+{
+ "date": "2026-10-29",
+ "label": "Thursday 29 October 2026: JACC, JAMA",
+ "journals": [
+  "JACC",
+  "JAMA"
+ ],
+ "window": {
+  "start": "2026-10-28",
+  "end": "2026-10-29",
+  "basis": "PubMed entry date 28–29 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-29T09:00",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 3,
+   "included": 2
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 4,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 19,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 8,
+   "included": 1
+  }
+ },
+ "n_papers": 3,
+ "n_interventional": 0,
+ "n_general": 3,
+ "papers": [
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Left Bundle-Branch Area Pacing vs Right Ventricular Pacing for Atrioventricular Block and Preserved Left Ventricular Function: The LEAP-Block Randomized Clinical Trial.",
+   "journal": "JAMA",
+   "date": "2026-10-28",
+   "pmid": "42949742",
+   "doi": "10.1001/jama.2026.18146",
+   "link": "https://doi.org/10.1001/jama.2026.18146",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42949742/",
+   "summary": "Randomised trial in 14 Chinese hospitals of 499 patients with atrioventricular block, preserved ejection fraction and expected ventricular pacing above 40%. Left bundle-branch area pacing cut 24-month death, heart failure events or biventricular upgrade versus right ventricular pacing (2.4% vs 12.5%; HR 0.37), with fewer heart failure events and similar complications.",
+   "abstract_available": true,
+   "study_type": "Multicentre randomised clinical trial",
+   "also_in": [],
+   "short_title": "the LEAP-Block trial of left bundle-branch area pacing versus right ventricular pacing"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Interpreting High-Sensitivity Cardiac Troponin in Clinical Practice and Emerging Directions: Detection Is No Longer Diagnosis.",
+   "journal": "JACC",
+   "date": "2026-10-28",
+   "pmid": "42949674",
+   "doi": "10.1016/j.jacc.2026.09.019",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.019",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42949674/",
+   "summary": "This narrative review by Spanos and Januzzi argues that high-sensitivity troponin has made detecting myocardial injury easy but classifying it hard, leading to overdiagnosis of secondary infarction and dismissal of chronic injury. It offers bedside guidance on assay properties, rapid ESC rule-out algorithms, the Fifth Universal Definition and other causes of troponin elevation.",
+   "abstract_available": true,
+   "study_type": "Narrative review",
+   "also_in": [],
+   "short_title": "interpreting high-sensitivity troponin"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Beyond HFmrEF: New Classification, Unchanged Treatment Evidence.",
+   "journal": "JACC",
+   "date": "2026-10-19",
+   "pmid": "42949675",
+   "doi": "10.1016/j.jacc.2026.10.002",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.002",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42949675/",
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title and keywords, it examines how heart failure with mildly reduced ejection fraction is being reclassified, and holds that the treatment evidence itself is unchanged. See the full paper in JACC for the details and arguments.",
+   "abstract_available": false,
+   "study_type": "Article (no abstract)",
+   "also_in": [],
+   "short_title": "the reclassification of HFmrEF"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Massive Aortic Root Air Lock During LVAD Implantation.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42949723",
+   "doi": "10.1001/jamacardio.2026.3984",
+   "reason": "case report (no abstract); case reports excluded"
+  },
+  {
+   "title": "The Future of Coronary Interventions.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42949713",
+   "doi": "10.1001/jamacardio.2026.4569",
+   "reason": "Viewpoint (no abstract); editorials/commentary excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

@@ -1,7 +1,17 @@
 {
  "app": "Cardio Briefing",
- "latest": "2026-10-27",
+ "latest": "2026-10-29",
  "editions": [
+  {
+   "date": "2026-10-29",
+   "label": "Thursday 29 October 2026: JACC, JAMA",
+   "n_papers": 3,
+   "n_interventional": 0,
+   "n_general": 3,
+   "audio": true,
+   "duration_s": 123.6,
+   "audio_bytes": 1236500
+  },
   {
    "date": "2026-10-27",
    "label": "Tuesday 27 October 2026: EuroIntervention, JACC: Cardiovascular Interventions, Circulation",

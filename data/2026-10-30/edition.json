@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-30",
+ "label": "Friday 30 October 2026: Circulation: Cardiovascular Interventions, The Lancet",
+ "journals": [
+  "Circulation: Cardiovascular Interventions",
+  "The Lancet"
+ ],
+ "window": {
+  "start": "2026-10-29",
+  "end": "2026-10-30",
+  "basis": "PubMed entry date 29–30 Oct 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-10-30T09:05",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 23,
+   "included": 1
+  },
+  "JAMA": {
+   "pubmed_in_window": 10,
+   "included": 0
+  }
+ },
+ "n_papers": 2,
+ "n_interventional": 1,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Clopidogrel Versus Aspirin Monotherapy According to Atherothrombotic Risk Profile.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-10-29",
+   "pmid": "42953942",
+   "doi": "10.1161/circinterventions.126.017277",
+   "link": "https://doi.org/10.1161/circinterventions.126.017277",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42953942/",
+   "summary": "This post hoc analysis of the SMART-CHOICE 3 randomised trial included 5,506 patients who had completed dual antiplatelet therapy after PCI, classed as higher atherothrombotic risk (TIMI secondary-prevention risk score of 3 or more, or complex PCI; 81.5%) or lower risk (18.5%). Over a median 2.3 years, higher-risk patients had more death, MI or stroke (6.1% vs 3.1%; HR 1.83, 95% CI 1.17-2.78). In higher-risk patients clopidogrel monotherapy reduced these events versus aspirin (4.6% vs 7.4%; HR 0.67, 95% CI 0.50-0.89; P=0.006), with no difference in lower-risk patients (3.0% vs 3.2%; HR 1.03; interaction P=0.242). Bleeding was similar between groups.",
+   "abstract_available": true,
+   "study_type": "Post hoc analysis of a randomised trial",
+   "also_in": [],
+   "short_title": "clopidogrel versus aspirin monotherapy by atherothrombotic risk in SMART-CHOICE 3"
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Performance of 0/1 h versus 0/3 h pathways in patients with suspected myocardial infarction: a systematic review and individual participant data meta-analysis of randomised controlled trials.",
+   "journal": "The Lancet",
+   "date": "2026-10-29",
+   "pmid": "42956796",
+   "doi": "10.1016/s0140-6736(26)01767-8",
+   "link": "https://doi.org/10.1016/s0140-6736(26)01767-8",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42956796/",
+   "summary": "Patient-level meta-analysis of five randomised trials of 110,933 suspected myocardial infarction presentations. Versus troponin testing at 0 and 3 hours, testing at 0 and 1 hour gave similar 30-day death or new type 1 infarction (0.8% vs 1.0%; OR 0.83), no shorter emergency stay (314 vs 308 minutes) and no clear rise in direct discharge.",
+   "abstract_available": true,
+   "study_type": "Systematic review and individual participant data meta-analysis",
+   "also_in": [],
+   "short_title": "one-hour versus three-hour troponin pathways"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Faster troponin, same time in the emergency department: what is next for acute coronary syndrome assessment?",
+   "journal": "The Lancet",
+   "pmid": "42956795",
+   "doi": "10.1016/s0140-6736(26)02097-0",
+   "reason": "Comment accompanying the 0/1 h vs 0/3 h meta-analysis (no abstract); editorials/commentary excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

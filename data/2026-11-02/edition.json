@@ -1,0 +1,1877 @@
+{
+ "date": "2026-11-02",
+ "label": "Monday 2 November 2026: JACC: Cardiovascular Interventions, Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology, NEJM",
+ "journals": [
+  "JACC: Cardiovascular Interventions",
+  "Circulation",
+  "Circulation: Cardiovascular Interventions",
+  "JAMA Cardiology",
+  "NEJM"
+ ],
+ "window": {
+  "start": "2026-10-30",
+  "end": "2026-11-02",
+  "basis": "PubMed entry date 30 Oct–2 Nov 2026 inclusive (weekend); Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-02T09:09",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 8,
+   "included": 11
+  },
+  "Circulation": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 3,
+   "included": 3
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 7,
+   "included": 6
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "The Lancet": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 9,
+   "included": 0
+  }
+ },
+ "n_papers": 22,
+ "n_interventional": 17,
+ "n_general": 5,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.",
+   "journal": "Circulation",
+   "date": "2026-10-31",
+   "pmid": "42965504",
+   "doi": "10.1161/circulationaha.126.082827",
+   "link": "https://doi.org/10.1161/circulationaha.126.082827",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42965504/",
+   "summary": "In this Chinese open-label trial, 210 patients with severe pure aortic regurgitation who were poor or unwilling surgical candidates were randomised to transfemoral TAVR with the VitaFlow valve plus medical therapy, or medical therapy alone. At 1 year, death, disabling stroke or heart failure rehospitalisation occurred in 8.3% vs 24.8% (HR 0.31, 95% CI 0.14-0.66; P=0.001), driven by fewer heart failure rehospitalisations (3.7% vs 21.3%). TAVR brought more major or life-threatening bleeding and new pacemakers, mostly within 30 days.",
+   "abstract_available": true,
+   "study_type": "Randomised controlled trial",
+   "also_in": [],
+   "short_title": "TAVR versus medical therapy for pure aortic regurgitation in SEASON-AR"
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Bivalirudin With a High-Dose Post-PCI Infusion Versus Heparin During Primary PCI in STEMI: One-Year Results From the BRIGHT-4 Trial.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": "42965935",
+   "doi": "10.1161/circinterventions.126.017029",
+   "link": "https://doi.org/10.1161/circinterventions.126.017029",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42965935/",
+   "summary": "One-year follow-up of 6,016 patients with STEMI having radial primary PCI, randomised to bivalirudin with a 2 to 4 hour high-dose post-PCI infusion or to heparin alone. Death or BARC type 3 to 5 bleeding at 12 months occurred in 4.1% vs 5.6% (HR 0.73, 95% CI 0.58-0.92; P=0.007). Bivalirudin also lowered major bleeding (0.6% vs 1.2%; HR 0.49) and stent thrombosis (0.8% vs 1.3%; P=0.045), while all-cause death was not significantly different (3.8% vs 4.8%; P=0.08).",
+   "abstract_available": true,
+   "study_type": "Randomised controlled trial, 1-year follow-up",
+   "also_in": [],
+   "short_title": "one-year results of bivalirudin versus heparin in BRIGHT-4"
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Hemodynamic Effects of Reducing LV Afterload With Impella or Intra-Aortic Balloon Counterpulsation During Veno-Arterial Extracorporeal Membrane Oxygenation in Cardiogenic Shock: HERACLES Trial.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": "42966011",
+   "doi": "10.1161/circinterventions.126.017625",
+   "link": "https://doi.org/10.1161/circinterventions.126.017625",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42966011/",
+   "summary": "This mechanistic trial randomised 24 patients on VA-ECMO for SCAI stage D or E cardiogenic shock to left ventricular unloading with an intra-aortic balloon pump or a micro-axial flow pump (Impella). The myocardial oxygen supply-demand ratio improved with the balloon pump but not with the micro-axial pump (1.48 vs 0.97; P=0.036), mainly through lower oxygen demand, and coronary flow rose marginally with the balloon pump only. Thirty-day mortality was similar (38% vs 45%).",
+   "abstract_available": true,
+   "study_type": "Randomised mechanistic trial",
+   "also_in": [],
+   "short_title": "Impella versus balloon pump unloading on VA-ECMO in HERACLES"
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Posterior Leaflet Restoration for Secondary Mitral Regurgitation: EXPLORE MR Results.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": "42967235",
+   "doi": "10.1016/j.jcin.2026.10.013",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.013",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42967235/",
+   "summary": "Early feasibility study of posterior leaflet restoration with the MRace implant, an inflatable coaptation element, in 78 patients with severe secondary mitral regurgitation. The implant was deployed in 96.2%, 30-day mortality was 6.4%, and MR of 2+ or less was achieved in 93.8% at 30 days and 90.6% at 1 year. Results were better without severe LV enlargement: 1-year mortality was 19.4% versus 41.7% in severely enlarged ventricles (29.5% overall).",
+   "abstract_available": true,
+   "study_type": "Early feasibility study",
+   "also_in": [],
+   "short_title": "posterior leaflet restoration for secondary mitral regurgitation in EXPLORE MR"
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Prognostic Impact of Discharge Transprosthetic Tricuspid Gradient After Transcatheter Tricuspid Valve Replacement: The TRIPLACE Registry.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": "42965547",
+   "doi": "10.1016/j.jcin.2026.10.010",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.010",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42965547/",
+   "summary": "In 474 patients from the international TRIPLACE transcatheter tricuspid valve replacement registry, a discharge transprosthetic gradient of 3.5 mm Hg or more (25.7% of patients) was linked to worse outcomes. After adjustment it remained associated with 3-year mortality (adjusted HR 1.84, 95% CI 1.09-3.10) and with death or heart failure hospitalisation (adjusted HR 1.77). A smaller indexed inner valve diameter was the only modifiable predictor of a high gradient.",
+   "abstract_available": true,
+   "study_type": "Multicentre registry",
+   "also_in": [],
+   "short_title": "discharge gradient after transcatheter tricuspid valve replacement in TRIPLACE"
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Microvascular Resistance Reserve and Outcomes in Angina and Nonobstructive Coronary Artery Disease.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-01",
+   "pmid": "42967827",
+   "doi": "10.1001/jamacardio.2026.5270",
+   "link": "https://doi.org/10.1001/jamacardio.2026.5270",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42967827/",
+   "summary": "In 553 patients with angina and nonobstructive coronary arteries from a Dutch multicentre registry, 17.0% had coronary microvascular dysfunction by continuous-thermodilution microvascular resistance reserve (below 2.1). Over a mean 27.5 months, the composite clinical outcome did not differ by MRR category (19.1%, 21.4% and 21.1%; P=.85). Low MRR was, however, linked to worse angina at follow-up and less clinically relevant symptom improvement (30.0% vs 59.1%).",
+   "abstract_available": true,
+   "study_type": "Prospective multicentre cohort",
+   "also_in": [],
+   "short_title": "microvascular resistance reserve in angina with nonobstructive coronaries"
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI",
+   "journal": "NEJM",
+   "date": "2026-11-01",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2610771",
+   "link": "https://doi.org/10.1056/nejmoa2610771",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Original article (no abstract available yet)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 8,
+   "title": "Sirolimus- Versus Everolimus-Eluting Stents With Contemporary PCI in Three-Vessel Disease: The Multivessel TALENT Randomized Noninferiority Trial",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.09.030",
+   "link": "https://doi.org/10.1016/j.jcin.2026.09.030",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Randomised noninferiority trial (no abstract available yet)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 9,
+   "title": "TECTONIC CAD",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-01",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.10.002",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.002",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Original article (no abstract available yet; title is the study name only)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 10,
+   "title": "Rotational Atherectomy Plus Intravascular Lithotripsy Versus Intravascular Lithotripsy Alone for Coronary Calcified Nodules",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-01",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.10.001",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.001",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Original article (no abstract available yet)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 11,
+   "title": "Intravascular Lithotripsy for Severely Calcified Coronary Lesions: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-01",
+   "pmid": "42967312",
+   "doi": "10.1161/circinterventions.126.017427",
+   "link": "https://doi.org/10.1161/circinterventions.126.017427",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42967312/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Systematic review and meta-analysis (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 12,
+   "title": "Renal Outcomes With Staged Versus Concomitant PCI and TAVR: A Systematic Review and Meta-Analysis.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": "42965543",
+   "doi": "10.1016/j.jcin.2026.08.024",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.024",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42965543/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Systematic review and meta-analysis (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 13,
+   "title": "Transcatheter Tricuspid Valve-in-Valve and Valve-in-Ring Implantation: the TRIVIR registry",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.10.025",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.025",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Registry (no abstract available yet)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 14,
+   "title": "Thirty-Day Outcomes of a Dedicated Transcatheter Occlusion Device for Paravalvular Leak Closure: The PARADIGM Study",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.10.024",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.024",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Prospective study (no abstract available yet)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 15,
+   "title": "1-Year Safety and Effectiveness of a Next-Generation Dual-Seal Left Atrial Appendage Occluder",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-01",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.10.023",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.023",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Original article (no abstract available yet)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 16,
+   "title": "Fully Retrievable Self-Expanding Short-Frame Valve for Aortic Regurgitation: A Multicenter Real-World Analysis.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": "42965548",
+   "doi": "10.1016/j.jcin.2026.10.009",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.009",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42965548/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Multicentre analysis (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 17,
+   "title": "Paradoxical 1-Year Improvement in Right Ventricular Function After Transcatheter Tricuspid Valve Replacement: A Cardiac CTA Analysis.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-31",
+   "pmid": "42965544",
+   "doi": "10.1016/j.jcin.2026.09.013",
+   "link": "https://doi.org/10.1016/j.jcin.2026.09.013",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42965544/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Imaging analysis (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Intensive vs More Intensive Lipid-Lowering Therapy and Plaque Regression in Statin-Naive Patients: Prespecified Analyses From the FLOWPROMOTE Randomized Clinical Trial.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-30",
+   "pmid": "42961412",
+   "doi": "10.1001/jamacardio.2026.4788",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4788",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42961412/",
+   "summary": "In 104 statin-naive patients with stable coronary disease, rosuvastatin 40 mg plus ezetimibe lowered LDL cholesterol more than atorvastatin 40 mg (to 42.5 vs 69.5 mg/dL). On CT angiography at 18 months, total plaque volume fell 21.1% versus 13.6% (P=.02), with greater noncalcified plaque regression too. Lower achieved LDL tracked with more regression.",
+   "abstract_available": true,
+   "study_type": "Prespecified analysis of a randomised trial",
+   "also_in": [],
+   "short_title": "more intensive lipid lowering and plaque regression in FLOWPROMOTE"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "N-Acetylgalactosamine-Conjugated Small Interfering RNA Targeting Hepatic Angiotensinogen in Hypertension: A Phase I Clinical Trial With Randomized Part A and Open-Label Part B.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-30",
+   "pmid": "42961436",
+   "doi": "10.1001/jamacardio.2026.4936",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4936",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42961436/",
+   "summary": "This phase I trial gave ART101, a liver-targeted RNA drug silencing angiotensinogen, once to 40 healthy volunteers (placebo-controlled) and 8 patients with hypertension. It was well tolerated, without serious adverse events. At 600 mg angiotensinogen fell about 90%, and placebo-corrected 24-hour systolic pressure in healthy participants was 12.9 mm Hg lower at 24 weeks.",
+   "abstract_available": true,
+   "study_type": "Phase I trial",
+   "also_in": [],
+   "short_title": "an angiotensinogen-silencing RNA drug for hypertension"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Intersection of Patient and Hospital Rurality in Heart Failure Care and Outcomes.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-30",
+   "pmid": "42961405",
+   "doi": "10.1001/jamacardio.2026.4827",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4827",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42961405/",
+   "summary": "Among 735,460 Medicare patients hospitalised for heart failure with reduced ejection fraction, rural patients treated in urban rather than rural hospitals more often saw a cardiologist (OR 2.02), started more guideline-directed therapies, and had lower one-year readmission and mortality. Rural patients still had slightly higher 30- and 90-day mortality than urban patients.",
+   "abstract_available": true,
+   "study_type": "Retrospective cohort study",
+   "also_in": [],
+   "short_title": "patient and hospital rurality in heart failure care"
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Systemic Hypertension and Survival in Pulmonary Hypertension.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-30",
+   "pmid": "42961442",
+   "doi": "10.1001/jamacardio.2026.4834",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4834",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42961442/",
+   "summary": "In 12,771 patients with pulmonary hypertension from a global registry, those with preexisting systemic hypertension had 26% lower mortality (HR 0.74), and survival improved with higher systolic systemic pressure across all pulmonary hypertension groups. A higher heart rate and falling systemic pressure during follow-up were linked to higher mortality, confirmed in a UK cohort.",
+   "abstract_available": true,
+   "study_type": "Multicentre cohort study",
+   "also_in": [],
+   "short_title": "systemic hypertension and survival in pulmonary hypertension"
+  },
+  {
+   "category": "general",
+   "rank": 5,
+   "title": "Assessment of Ototoxicity in Patients With Heart Failure Receiving High-Dose IV Loop Diuretics.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-10-30",
+   "pmid": "42961411",
+   "doi": "10.1001/jamacardio.2026.4913",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4913",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42961411/",
+   "summary": "Across two small heart failure cohorts given high-dose intravenous loop diuretics (up to 500 mg furosemide), no permanent hearing loss was seen; transient hearing shifts at peak concentration (6% of ears) mostly resolved within hours. In 22,656 hospitalisations, peak doses of 160 mg furosemide equivalents or more were not linked to diagnosed ototoxicity.",
+   "abstract_available": true,
+   "study_type": "Cohort studies",
+   "also_in": [],
+   "short_title": "hearing and high-dose loop diuretics in heart failure"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "TCT-889 A two-center registry of high-risk percutaneous coronary intervention with Impella CP support: The KRAKpella Registry - age and use of vasoactive agents as independent in-hospital mortality risk factors",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1088",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-307 Diagnostic Accuracy of Onsite Intravascular Ultrasound-Derived Ultrasonic Flow Ratio for Identifying Hemodynamically Significant Coronary Stenosis: IVUS-FFR Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.402",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1484 Real-World Outcomes of FFR-CT Integration After Coronary CT Angiography for Suspected Coronary Artery Disease",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1758",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-562 Transcatheter and Percutaneous Structural/Valvular Cardiac Interventions During Pregnancy: A Systematic Review of Maternal and Fetal Outcomes",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.699",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1196 Assessment of 30-day Echocardiographic Valve Gradients for Current Generation Balloon-Expandable Transcatheter Aortic Valve Replacement Using the SBCA Technique for Commissural Alignment",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1422",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-909 Calcium Progression in Non-Culprit Lesions of Acute Coronary Syndrome Patients Under Lipid-Lowering Therapy: Serial Optical Coherence Tomography Observations From the TACTICS Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1111",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1419 Post-TAVI CT Validation of a Five-Domain Framework for Future TAVI-in-TAVI Feasibility After Evolut Implantation",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1679",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-303 US Multicenter Validation of a Fully Automated Angiography-Derived FFR Software Against Invasive Wire-Based FFR",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.398",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1284 Coronary Intravascular Lithotripsy Beyond the Trial Population: National Patterns of Use in Acute Myocardial Infarction and Cardiogenic Shock, 2021-2023",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1528",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-29 CCTA Versus Invasive angiography as pre-TAVR gatekeeper: Nationwide Propensity Matched Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.072",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1520 Contemporary Outcomes of Chronic Total Occlusion Percutaneous Coronary Intervention: Update on Prospective Global Registry for the Study of Chronic Total Occlusion Intervention (PROGRESS-CTO)",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1800",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-529 Minimum Lumen Area Relocation as a Novel Procedural Endpoint for OCT-Guided PCI in Severely Calcified Coronary Artery Lesions",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.661",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1101 aSessing The Outcomes of oRbital atherectomy for calcium Modification based on Optical Coherence Tomography morphology: rationale and design of the STORM Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1317",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-598 Temporal Trends and Clinical Characteristics of Drug-Coated Balloon Angioplasty for De Novo Coronary Lesions: a Six-Year Analysis From the ORPKI Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.740",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-94 Conduction Disturbances After TAVR: nationwide analysis of the Incidence, Predictors, and outcomes of Permanent Pacemaker Implantation After TAVR",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.147",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-306 Angiography-Derived Physiology Versus Pressure-Wire–Based Fractional Flow Reserve for Guiding Coronary Revascularization: A Comprehensive Meta-Analysis of Six Randomized Controlled Trials With Platform-Specific Subgroup Analyses",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.401",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-906 Coronary Physiology as a Continuous Marker of Risk After Deferral of Revascularization",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1107",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1445 Drug-Coated Balloon-Based Versus Drug-Eluting Stent PCI for De Novo Coronary Artery Disease: An Updated Meta-Analysis of Randomized Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1710",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1170 Lipoprotein(a) Is Associated With In-Stent Restenosis and Adverse Clinical Outcomes Following Coronary Stenting: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1392",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-834 Precision Transcatheter Edge-to-Edge Repair: A Mixture-Model Network Meta-Analysis Stratified by Latent Mitral Regurgitation Phenotype",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1023",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1380 True Ostial LAD Lesions: IVUS-Based Assessment of LM Involvement and Its Impact on PCI Strategy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1634",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-580 Left Ventricular Recovery Following Unprotected Left Main PCI: Incidence, Predictors, and Impact on Survival",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.719",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-294 Clinical Significance and Long-Term Outcomes of Positive Bubble Contrast Studies Following Percutaneous PFO Closure",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.387",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-479 Percutaneous Coronary Intervention for Chronic Total Occlusion in Heart Transplant Recipients",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.602",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1393 Real-World Outcomes and Intravascular Imaging Metrics of Double Kissing Crush (DK Crush) Stenting for Complex Coronary Bifurcation Lesions: 1-Year Results From a High-Volume Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1649",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-42 Clinical Predictors of Early Discharge After Mitral Transcatheter Edge-to-Edge Repair",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.087",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-752 Sources of Between-Study Heterogeneity in Coronary Intravascular Lithotripsy: A Systematic Review and Meta-Regression of 62 Cohorts",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.920",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1252 Comparative Efficacy and Safety of PASCAL versus MitraClip for Transcatheter Edge-to-Edge Mitral Valve Repair: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1488",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-873 Early Outcomes of Third-Generation Nickel-Cobalt Balloon-Expandable Myval OCTAPRO Transcatheter Heart Valve for the Treatment of Aortic Stenosis: The OCTAPRO-EU study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1070",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1390 Contemporary Bifurcation Percutaneous Coronary Intervention: Update from the PROGRESS-BIFURCATION Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1646",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-867 Extended Dual Antiplatelet Therapy With Clopidogrel Plus Aspirin Beyond 12 Months in Patients With High Ischemic Risk After Percutaneous Coronary Intervention: A Prospective Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1063",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1275 Intravascular Imaging-Guided Versus Angiography-Guided Percutaneous Coronary Intervention in Left Main Coronary Artery Disease: An Updated Systematic Review and Meta-Analysis Incorporating the OPTIMAL Trial",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1515",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1286 Angiographic Acute Coronary Occlusion as a Prognostic Marker in Myocardial Infarction: Insights Beyond the STEMI/NSTEMI Classification",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1530",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-305 Angiography-Derived Physiology vs. Pressure-Wire FFR to Guide PCI: A Meta-Analysis of Three Randomized Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.400",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1251 Comparative Safety and Effectiveness of Antithrombotic Strategies Following Transcatheter Edge-to-Edge Mitral Valve Repair: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1487",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-597 Three-Year Outcomes of a Drug-Coated Balloon-Based Strategy vs Drug-Eluting Stent Implantation for De Novo Large-Vessel Coronary Lesions: a Target Trial Emulation Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.739",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1062 Procedural Safety and Feasibility of Double-Effect Kissing Balloon Technique for Left Main Bifurcation PCI: A Prospective Multicenter Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1271",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1180 Contrast Volume as an Independent Predictor of Acute Kidney Injury After IVUS/OCT-Guided PCI: Determinants and Effect Modifiers in an Intravascular Imaging (IVI) Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1403",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1057 Ten-year Outcome of Consecutive Patients Undergoing Unprotected Left Main Percutaneous Coronary Interventions",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1266",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-326 Phenotype-Guided Treatment of Coronary In-Stent Restenosis: Systematic Review and Meta-Analysis of Drug-Coated Balloon Versus Everolimus-Eluting Stent",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.425",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-622 Lesion thrombosis following drug-coated balloon angioplasty for de novo coronary artery disease: a multicenter observational study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.768",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-376 Clinical and Procedural Outcomes of Drug-Coated Balloon Angioplasty in Ostial Versus Non-Ostial De Novo Coronary Lesions",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.482",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-744 Diagnostic Accuracy of Acute Quantitative Flow Ratio Compared With Staged Fractional Flow Reserve for Functional Assessment of Non-Culprit Lesions During Primary Percutaneous Coronary Intervention in ST-Segment Elevation Myocardial Infarction",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.911",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-152 Distal vs. Conventional Trans-Radial Access in Patients Undergoing Emergency Coronary Angiography or Percutaneous Coronary Intervention: A Systematic Review & Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.209",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-142 Evaluation of the PRECISE-DAPT and DAPT Scores for Guiding Dual Antithrombotic Therapy Duration in Patients with Atrial Fibrillation Undergoing Percutaneous Coronary Intervention: A Prespecified Subgroup Analysis of the OPTIMA-AF Trial",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.197",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-83 Intravascular Lithotripsy for Severely Calcified Coronary Lesions:A Systematic Review and Meta-analysis of Randomized Clinical Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.135",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-957 Procedural and Safety Endpoints of Intravascular Imaging-Guided Percutaneous Coronary Interventions: A Meta-Analysis of Randomized Controlled Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1167",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-240 Artificial Intelligence-Enabled Quantitative Coronary Computed Tomography Angiography Prior to Percutaneous Coronary Intervention: Association with In-Hospital and Long-Term Clinical Outcomes",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.324",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-338 Early Haemodynamic Valve Deterioration after Transcatheter Aortic Valve-in-Valve implantation: Prognostic Value",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.439",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-253 A Machine-Learning Update to the PROGRESS-CTO Score for Predicting Technical Success in Chronic Total Occlusion PCI",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.339",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1489 Physiological Complete Revascularization Using Angiography-Derived Murray Law–Based Quantitative Flow Ratio Predicts Reintervention Risk after Coronary Artery Bypass Grafting",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1763",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-487 Outcomes of Hybrid Versus Drug-Coated Balloon-Only Revascularization in Multivessel Coronary Artery Disease",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.612",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1165 Retrospective Comparison of Bleeding and In-Hospital Outcomes for Anticoagulation With Heparin Versus Bivalirudin in Patients Undergoing Impella-Supported PCI",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1386",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1299 Hospital-Level Variation in TAVR for Low-Gradient Severe Aortic Stenosis: The Michigan Structural Heart Consortium Identifies an Opportunity to Improve Equitable Access to TAVR",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1545",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-131 Sex Differences in 3D-Quantitative-Coronary-Angiography Based Vessel-FFR or Fractional Flow Reserve-Guided Revascularization: Results from the FAST III Trial",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.185",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1073 Contemporary VA-ECMO Cannulation Practice and Outcomes in Cardiogenic Shock",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1284",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-436 Outcomes of PCI Versus CABG With Concomitant Left Atrial Appendage Exclusion (AtriClip) in Patients With Coronary Artery Disease and Atrial Fibrillation: A Propensity-Matched Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.552",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-360 SAILOR Registry: The Safety and Efficacy of Utilizing Auryon Laser Atherectomy via Radial Artery Approach in Infra-inguinal Arterial Disease",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.464",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1015 Favorable Outcomes and Reduced Bailout Stenting with Drug-Coated Balloon Angioplasty in Diabetic Patients with De Novo Coronary Lesions: A Large US Based Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1225",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-850 Incremental Value of Dual IVUS-OCT imaging catheter for Coronary Calcium Characterization: A Histopathology Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1043",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-285 Early to Intermediate Real World Outcomes Following Tricuspid Transcatheter Edge-to-Edge Repair",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.376",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-272 Valve Over-size and 30-days Risk of Permanent Pacemaker Implantation After Balloon-Expandable TAVI",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.361",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-79 Complete Versus Culprit-Lesion-Only Revascularization in Non-ST-Elevation Acute Coronary Syndromes With Multivessel Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.130",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-373 Association Between Baseline Ischemia As Assessed by Three-Dimensional Angiography-Based Vessel Fractional Flow Reserve (vFFR) and Quality of Life After PCI: A Prospective Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.478",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1042 Coronary Protection and Leaflet Modification in High-Risk Valve-in-Valve Transcatheter Aortic Valve Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1249",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1539 Dual Lumen Extracorporeal Membrane Oxygenation (ECMO) Catheter With A Single-Entry Port For Veno-Arterial (VA) ECMO Bypassing The Right Heart And Lungs",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1816",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-738 Drug-Coated Balloons Versus Drug-Eluting Stents in De Novo Coronary CTO: A Meta-analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.904",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-534 Impact of the Burr-to-Artery ratio on optimal stent expasnion in calcified lesions treated with OCT-guided rotational atherectomy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.667",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-804 Intravascular Lithotripsy (IVL) for Calcified Coronary Bypass Graft Lesions: Safety and Efficacy From the Largest Reported Single-Center Case Series",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.988",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-737 Drug-Coated Balloon-Only Versus Hybrid Revascularization for Chronic Total Occlusion: Clinical Outcomes According to De Novo and In-Stent Restenosis Lesions from the PICCOLETO X Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.903",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-868 Evaluation of Bleeding Risk Scores in Patients with Three-Vessel Coronary Disease Undergoing Percutaneous Coronary Intervention with One-Month Dual Antiplatelet Therapy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1064",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1492 Intravascular Ultrasound–Guided PCI and Target-Vessel Revascularization in Complex, Higher-Risk Indicated Patients",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1766",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-472 Revascularization and In-Hospital Outcomes in Patients with Peripheral Artery Disease and Active Malignancy: Insights from a National Propensity-Matched Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.594",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-532 Integrated OCT-Defined Procedural Success and Clinical Outcomes After PCI: Insights From ILUMIEN-V AERO",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.664",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1381 Intravascular Imaging-guided Percutaneous Coronary Intervention versus Coronary Artery Bypass Grafting in Left Main or Multivessel Coronary Disease: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1635",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-84 Intravascular Lithotripsy versus Rotational Atherectomy for Severely Calcified Coronary Lesions: A Bayesian Meta-Analysis of Randomized Controlled Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.136",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-322 Connect Proctoring: A Novel Remote Educational Model for Chronic Total Occlusion PCI Training",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.420",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-760 Impact of the Baseline Cardiorenal-Anemia Syndrome on Clinical Outcomes After Percutaneous Coronary Intervention for Acute Coronary Syndrome: Results From the Institutional PCI Registry of Detroit Medical Center",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.931",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1394 Drug-Coated Balloon Versus Drug-Eluting Stent for Coronary Bifurcation Lesions: A Propensity Score-Matched Analysis of Long-Term Outcomes",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1650",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-187 Benefit of Intravascular Imaging-Guided PCI is Concentrated in Acute Coronary Syndrome: A Meta-Analysis of 18 Randomized Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.262",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-86 Shockwave Balloon or Atherectomy With Rotablation in Calcified Coronary Artery Lesions: 1-year Results of the SONAR Trial",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.138",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-667 Oversizing-Based Balloon-Expandable Transcatheter Valve Replacement for Native Non-Calcified Aortic Regurgitation: The PURE-AR Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.821",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1020 Sex-Based Outcomes After Drug-Coated Balloon Percutaneous Coronary Intervention for De Novo Coronary Disease: The Role of Vessel Size",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1230",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-559 Feasibility of Transcatheter Edge-to-Edge Repair in Patients with Complex Adult Congenital Heart Disease",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.696",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-5 Continuous Bilateral Carotid Waveform Asymmetry Identifies Clinically Significant Cerebrovascular Events: Preliminary Clinical Observations",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.044",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-962 Near-Zero Occupational Radiation Exposure Among Nurses and Technologists Across Contemporary Catheterization Laboratory Procedures",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1173",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-608 Protamine Administration after TAVI: A Systematic Review and Individual Patient Data Meta-Analysis of Randomized Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.752",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-602 Sex-Based Discordance Between Stroke Volume Index and Transaortic Flow Rate in Low-Gradient Severe Aortic Stenosis Undergoing Transcatheter Aortic Valve Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.745",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-557 A Prospective, Multicenter, Randomized Controlled Trial Evaluating the Safety and Effectiveness of the CHORDS Cerebral Protection System During TAVR: Early Clinical Outcomes",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.693",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-82 Can LLMs Evaluate AI-Generated Cardiovascular Prevention Responses? A Cardiologist-Matched Concordance Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.133",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-286 Diffusion Without Equity: Growth of Left Atrial Appendage Occlusion in Medicare Has Not Reached Lower Socioeconomic Beneficiaries, 2017–2022",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.378",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1269 Real-World Effectiveness of Drug-Coated Endovascular Therapy for Lower Extremity Artery Disease: A Multi-Database Cohort Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1508",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-571 Pain Mitigation in Pancreatic Adenocarcinoma: A Long-Term Analysis of Denervation via Transvascular RF Energy-Based Ablation",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.709",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-386 Left Ventricular Unloading in High-Risk Percutaneous Coronary Intervention: A Bayesian Network Meta-Analysis of Randomised Controlled Trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.494",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-120 Cardiovascular Outcomes Associated With GLP-1 Receptor Agonist Use in Non-Diabetic Patients With Peripheral Artery Disease: A Propensity-Matched Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.172",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-785 Prognostic factors associated with mortality in patients with type II myocardial infarction: A systematic review and meta-analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.966",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-175 Initial Single-Center Experience with Transcatheter Tricuspid Valve Replacement Using the VDyne System",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.235",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-101 AI-Detected Aortic Valve Calcification on Routine Chest CT Reveals a Large Hidden Population at Risk for Severe Aortic Stenosis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.150",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-973 Incidence of Atrial Arrhythmias post PFO closure Detected by 2 weeks mobile cardiac Tele-Monitoring: A Single-Center Retrospective Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1186",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-656 Intracoronary Pharmacologic Therapy for the No-Reflow Phenomenon: A Latin American Single-Center Cohort of Five Agents",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.808",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-742 Incremental Value of Pericoronary Adipose Tissue Attenuation for Identifying Vulnerable Plaques Beyond Conventional Parameters",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.909",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-792 Comparative Outcomes of Left Bundle Branch Pacing or Left Bundle Branch Area Pacing Versus Biventricular Pacing for Cardiac Resynchronization Therapy: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.974",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1016 Long-Term Safety and Effectiveness of Drug-Coated Balloon Therapy Across Age Groups: Three-Year Results From the AGENT IDE Trial",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1226",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-920 Energy Selective Non-Inferiority and Procedural Efficiency of Pulsed Field Ablation in Paroxysmal Atrial Fibrillation: A Study-Level Meta-Analysis of Randomized Trials with Continuous versus Blended Endpoint Monitoring",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1124",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1454 New-Onset Atrial Fibrillation in the CELEBRATE Trial: Prognosis and Effect of Pre-Hospital Zalunfiban",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1720",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1516 Divergent Trends in Rheumatic Versus Nonrheumatic Mitral Stenosis Mortality in the United States, 1999-2024: A National Multiple-Cause-of-Death Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1795",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-502 ABSTRACT WITHDRAWN",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.628",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-103 Membrane Phospholipid Depletion and Signaling Lipid Accumulation as Drivers of Aortic Stenosis Progression: A Lipidomic Approach. The Lipidieva Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.152",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-283 Impact of procedural volume on 30-Day outcomes following T-TEER with the TriClip System: Findings from the STS/ACC TVT Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.374",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1279 First Head-to-Head Comparison of Sonic IVL and Shockwave IVL Using Human Calcified Coronary Arteries",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1522",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-24 Integrated Clinical, Genetic, Retinal, and Facial Imaging Model for Non-invasive Detection of Coronary Artery Disease",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.066",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-890 Thrombus Aspiration in Cardiogenic Shock Complicating Acute Myocardial Infarction",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1089",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-819 Impact of Hypoattenuated Leaflet Thickening on Long-Term Outcomes After Transcatheter Aortic Valve Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1006",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1200 Targeting Inflammation to Prevent Conduction Injuries Following TAVI: A Systematic Review and Meta-Analysis of Glucocorticoid Therapy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1427",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-93 Periprocedural Glucocorticosteroids Use to Reduce Permanent Pacemaker Implantation post-TAVI: A Real-World Retrospective Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.146",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-554 Phase-Specific Incidence, Phenotype, and Severity of Stroke Across the Treatment Course of Severe Aortic Stenosis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.690",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-51 Conduction System Pacing Versus Right Ventricular Pacing After TAVR: A Systematic Review and Meta-Analysis with Cumulative Evidence Synthesis and GRADE Assessment",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.097",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-400 Prognostic Impact of Early BNP Reduction After Transcatheter Aortic Valve Replacement According to High-Gradient Aortic Stenosis Status",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.510",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-541 Real-world comparison of sustained-release sirolimus-coated balloons versus urea-based crystalline paclitaxel-coated balloons for de novo coronary lesions",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.675",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1021 Clinical Impact of Cirrhosis on Percutaneous Coronary Intervention Outcomes: A Propensity Matched Retrospective Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1232",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1304 Impact of Concomitant Cardiac Amyloidosis on Early Outcomes After Transcatheter Aortic Valve Replacement: A Propensity-Matched Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1551",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1193 AI-Guided Quantitative Plaque Characterization Predicts Major Adverse Cardiovascular Events and May Inform Pre-PCI Risk Stratification: Insights From the CONFIRM2 Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1416",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-726 Safety and Effectiveness of a Novel Fully Bioabsorbable Patch-Based Large-Bore Closure Device - 6-month follow up of the ELITE Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.890",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-288 Procedural Success and One-Year Clinical Burden After Left Atrial Appendage Occlusion: An Eight-Center Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.380",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-730 Inter-Operator Agreement in AI-Enabled, CCTA-Based Vessel-Preparation Planning and Concordance With Actual IVUS-Guided Practice: A Retrospective Pilot",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.895",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1318 Adjunctive Mechanical Thrombectomy With VA-ECMO for High-Risk Pulmonary Embolism: Outcomes in AHA/ACC Category E2 Patients",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1568",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1023 Incidence of Acute Myocardial Infarction and Long-Term Cardiovascular Outcomes in Newly Diagnosed Cancer: A Nationwide Population-Based Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1234",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1321 Trends and Sex-based Differences in in Pre-admission Mortality of High-Risk Acute Pulmonary Embolism",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1571",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-706 Proposal and Validation of a Comprehensive Anatomical Bicuspid Scoring System to Guide TAVR in Severe Bicuspid Aortic Stenosis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.867",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1373 ABSTRACT WITHDRAWN",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1626",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-686 High Sensitive-C-Reactive Protein and Lipid Profile are Associated with Coronary Plaque Composition Assessed by Optimal Coherence Tomography",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.843",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-113 Clinicopathological Analysis of Aspirated Material During Percutaneous Mechanical Aspiration in Right-Sided Infective Endocarditis: Insights From the CLEAR-IE Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.164",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1034 Hypoattenuated leaflet thickening and reduced leaflet motion after transcatheter tricuspid valve replacement – observations from a single-center cohort",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.242",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-561 Multicenter Retrospective Analysis of a Universally Sheath-Compatible Radiofrequency Guidewire for Transseptal Access",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.698",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1038 Transcatheter Tricuspid Intervention in Severe Tricuspid Regurgitation With Transvalvular CIED Leads: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.245",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1195 Neoskirt Plane is Higher In-vivo than In-vitro Prediction: Implications for Coronary Risk at Redo-TAVR",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1421",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-664 Transcatheter Aortic Valve Replacement for Aortic Regurgitation in Patients With Durable Left Ventricular Assist Devices: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.818",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1502 Development and Validation of a Deep Learning-Based Prediction Model for Major Adverse Cardiovascular Events in Patients with Premature Coronary Artery Disease",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1779",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-463 All-Cause and Cardiovascular Mortality in the U.S.: Prediction by CCTA-based AI-Enabled Coronary Plaque Staging in over 269,000 Patients",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.584",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1291 A Randomized Crossover Trial Comparing Fixed-Dose Polypill vs. Separate Component Therapy in Chronic Coronary Syndrome: The POLICROSS Trial",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1536",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-855 Guideline–Practice Mismatch in Coronary Revascularization at Hospitals Without On-Site Cardiac Surgery: A SYNTAX II and EuroSCORE II–Based Real-World Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1049",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1000 Renal denervation and circadian ambulatory blood pressure: a systematic review and meta-analysis of sham controlled trials",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1829",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-646 Real-World LDL-C Goal Attainment After ACS–PCI with Upfront In-Hospital Oral Triple Therapy and the Masking Effect of Lipoprotein(a)",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.797",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-394 Fully Retrievable Self-Expanding Bottle-Plug–Like Short-Frame ScienCrown Valve for Aortic Regurgitation: A Multicenter Real-World Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.503",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-194 Clinical Outcomes of Percutaneous Coronary Intervention in Patients with Cancer",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.270",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1478 Incremental Detection of Acetylcholine-Induced Epicardial Coronary Spasm at 200 μg: A Sex-Stratified Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1751",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1375 Freedom From Atrial Fibrillation and AF Burden by Seven-Day Patch Holter After Catheter Ablation With or Without Renal Denervation in Reduced-Ejection-Fraction Heart Failure: An Interim Rhythm-Monitoring Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1628",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-508 A Right Ventricular Damage Composite Independently Predicts Mortality in Low-Gradient Severe Aortic Stenosis Undergoing Transcatheter Aortic Valve Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.636",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1068 Statin Therapy and Survival After Myocardial Injury Following Total Joint Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1278",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-933 National Real-World Incidence of Aortic Valve Reintervention Following Transcatheter Aortic Valve Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1139",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-204 A Novel Rapid-Exchange Dilator to Facilitate Guiding Catheter Delivery Through Challenging Transradial Anatomy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.282",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-277 Automated Multi-Valve Assessment of Regurgitation and Stenosis From B-Mode and Color Doppler Echocardiography Using Deep Learning",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.367",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-515 Surgical Aortic Valve Prosthesis Size Selection Based on Intraoperative Measurement versus Preoperative Imaging Using Computed Tomography Angiography",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.644",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1466 Glutaraldehyde-Fixed versus Unfixed Pericardial Leaflets Performance for Bileaflet Transcatheter Mitral Valve Design",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1734",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1376 Contemporary Trends, Clinical Characteristics, and One-Year Outcomes Following Renal Denervation: A Real-World Analysis of 540 Patients from TriNetX",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1629",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-641 Discordance Between Bolus and Continuous Coronary Thermodilution in Patients With Nonobstructive Coronary Arteries",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.791",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-765 Moderate Aortic Stenosis with at-risk Features: Outcomes from a Large Real-World Registries",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.937",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-960 Real-Time Localization of Balloons and Stents in the Coronary Arteries Using AI-Based Mapping",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1170",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-6 Real-World Head-to-Head Comparison of Radiofrequency and Ultrasound Renal Denervation: A Propensity-Matched Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.046",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-695 Drug-Coated Balloons versus Drug-Eluting Stents Following Lesion Preparation for Coronary Calcification: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.854",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1205 Improved Commissural Alignment and Coronary Overlap Using the VISION Technique During Transcatheter Aortic Valve Replacement With an Intra-Annular Self-Expanding Valve",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1432",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-276 Impact of Concomitant Mitral Regurgitation on In-Hospital Outcomes and Resource Utilization Following Transcatheter Aortic Valve Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.366",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-875 Impact of Aortic Valve Calcium on Procedural Outcomes and Survival After Transcatheter Aortic Valve Implantation",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1072",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-173 Transcatheter Tricuspid Valve Replacement with the MonarQ System: 30-Day Outcomes of the Early Feasibility Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.240",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-192 Comparison of Diagnostic Performance of Single and Multimodal Combined Models for Myocarditis Based on a Large Clinical Cohort",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.268",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-923 Ultrasound-Guided Versus Conventional Venous Access for Atrial Fibrillation Catheter Ablation: a Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1127",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-92 Validation of a Prespecified Algorithm for the Management of Conduction Disturbances After Transcatheter Aortic Valve Replacement: 1-Year Results of The PROMOTE Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.145",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-950 Changing Pathologic Spectrum of Fatal Mechanical Complications after Myocardial Infarction: A 27-Year Autopsy Series",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1159",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1431 Mechanical Thrombectomy Versus Anticoagulation Alone for Intermediate-Risk Pulmonary Embolism: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1693",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-997 Distal Renal Denervation With ≥8 Ablation Points Achieves Superior and Durable Blood Pressure Control in Resistant Hypertension: A Systematic Review",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1207",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-688 Prevalence and Prognostic Impact of Coronary Microvascular Dysfunction According to Heart Failure: Insights from the Multicenter FLOW-CMD Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.846",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-114 Outcomes of percutaneous mechanical aspiration in blood culture-positive and blood culture-negative right-sided infective endocarditis: A multi-center retrospective analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.165",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-762 Prevalence and clinical impact of uncontrolled hypertension among patients with multivessel disease undergoing staged percutaneous coronary intervention",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.933",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1066 Impact of Timing of Coronary Angiography on In-Hospital Outcomes in Non-ST Elevation Acute Coronary Syndrome: A Contemporary Instrumental Variable Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1276",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1331 Right Ventricular Longitudinal Strain Predicts Progression to Mechanical Circulatory Support in Heart Failure: A Systematic Review and Meta Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1583",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-619 The Metal Free Era: Adoption of Drug Coated Balloons into Clinical Practice – Insights from BMC2",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.765",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1194 Accuracy of Virtual Circle Method and Valve-to-Aorta Distance Change After Redo-TAVR: Multicenter Paired CT Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1420",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-553 Cognitive, Neurological, and Health-Status Outcomes After Transcatheter Aortic Valve Implantation: an AUREA Trial Subanalysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.689",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1474 Reclassification of Intermediate-High Risk PE Patients According to the 2026 AHA/ACC Risk Categories and Factors Associated With Choosing Reperfusion Therapy: Insights From a Tertiary Center",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1744",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1460 Cardiac unloading via a transvalvular pump reduces microvascular obstruction & arrhythmias following myocardial ischemia / reperfusion by preserving coronary microcirculation and cardiomyocyte nanostructure",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1727",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-340 ABSTRACT WITHDRAWN",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.441",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-334 Diagnostic Accuracy of Artificial Intelligence-Based ECG Interpretation for Occlusive Myocardial Infarction: A Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.434",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-637 Multicenter Automated Segmentation of Lipid Plaque on IVUS Using a Three-Branch Fusion Network With External Validation",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.786",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-845 Echocardiographic Deformation Imaging in Coronary Microvascular Dysfunction and Nonobstructive Ischemia: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1037",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-560 Reversal of Longitudinal Trends in Adult Congenital Shunt Mortality in the United States (1999–2020): Demographic Drivers and Structural Implications",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.697",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-791 Is Left Bundle Branch Pacing the New Standard? A Meta-Analysis with Reconstructed Time-to-event Individual Patient Data Comparing Left Bundle Branch Area Pacing (LBBAP) versus Biventricular Pacing (BiVP) for Cardiac Resynchronization Therapy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.973",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-615 Prolonged Intervention Time as an Independent Predictor of Gastroesophageal Lesions Requiring Endoscopic Intervention After TEE-Guided Mitral and Tricuspid TEER",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.760",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-761 Atherogenic Lipoproteins Are Associated With Contrast-Induced Acute Kidney Injury After Percutaneous Coronary Intervention: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.932",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1050 Admittance Enabled pVAD for Weaning Assistance",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1258",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-691 Prognostic Utility of Coronary Microvascular Dysfunction in Non-Ischemic Dilated Cardiomyopathy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.849",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-884 Baseline Cardiorenal Status and 1-Year Outcomes After Transcatheter Aortic Valve Replacement: A Multicenter Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1082",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-353 Virtual Reality for the Management of Anxiety and Pain During Transcatheter Aortic Valve Replacement Under Conscious Sedation",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.456",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-584 Coronary Microvascular Dysfunction in Women and Men: A Subgroup Analysis of the Multicenter FLOW-CMD Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.724",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-685 Baseline Macrophage Burden and Incomplete Coronary Plaque Stabilization After Intensive Lipid-Lowering Therapy",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.842",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1344 Association of Elevated Lp(a) and hs-CRP with Multi-Atherosclerotic Burden in Patients with CAD",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1592",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1207 Long-term outcomes after isolated bioprosthetic tricuspid valve replacement for non-acute endocarditis etiologies: the DURABLE-tricuspid multicentre study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1435",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1076 Artificial Intelligence-Enabled Digital Stethoscopes for Cardiovascular Screening: A Systematic Review and Meta-Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1288",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-269 Impact of Pre-existing Right Bundle Branch Block on Clinical Outcomes After Transcatheter Aortic Valve Implantation: A Systematic Review and Meta-analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.358",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-654 Penumbra CAT RX Rescue Aspiration Restores TIMI Flow After Failed Manual Thrombectomy in Primary PCI: The FLOWER-AMI Registry",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.806",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "TCT-1137 Post-Procedural Left Ventricular Ejection Fraction Recovery and Long-Term Outcomes Following Transcatheter Aortic Valve Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1826",
+   "reason": "TCT 2026 conference abstract published in a JACC supplement; conference abstracts excluded"
+  },
+  {
+   "title": "Targeted Transcatheter Mitral Edge-to-Edge Repair for Dynamic Systolic Anterior Motion After Mitral Valve Repair.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42965546",
+   "doi": "10.1016/j.jcin.2026.10.014",
+   "reason": "Short procedural/case-type report on TEER for systolic anterior motion after mitral repair, no abstract; case reports excluded"
+  },
+  {
+   "title": "Extrinsic Left Main Coronary Compression Caused by Delayed Periaortic Hematoma After Aortic Valve Replacement.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42965545",
+   "doi": "10.1016/j.jcin.2026.10.007",
+   "reason": "Single-case/image report of left main compression by periaortic hematoma, no abstract; case reports and images excluded"
+  },
+  {
+   "title": "One Lesion, Two Perspectives: Next-Generation Hybrid IVUS-OFDI Guidance for Complex Percutaneous Coronary Intervention.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42965542",
+   "doi": "10.1016/j.jcin.2026.08.031",
+   "reason": "Imaging vignette (hybrid IVUS-OFDI, 'One Lesion, Two Perspectives'), no abstract; images excluded"
+  },
+  {
+   "title": "RNAi Targeting Hepatic AGT to Block RAAS Pathway in Hypertension.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42961435",
+   "doi": "10.1001/jamacardio.2026.5209",
+   "reason": "Editorial accompanying the angiotensinogen siRNA phase I trial, no abstract; editorials excluded"
+  },
+  {
+   "title": "Extended Outcomes of the ADAPT AF-DES Trial",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejmc2612608",
+   "reason": "NEJM correspondence (letter) on ADAPT AF-DES extended outcomes; letters excluded"
+  },
+  {
+   "title": "Survey Suggests GLP-1 Drugs May Curb Alcohol Use for Many Patients.",
+   "journal": "JAMA",
+   "pmid": "42961445",
+   "doi": "10.1001/jama.2026.20035",
+   "reason": "JAMA Medical News brief; news excluded"
+  },
+  {
+   "title": "Hypertensive Disorders During Pregnancy Increased 74% in the US.",
+   "journal": "JAMA",
+   "pmid": "42961443",
+   "doi": "10.1001/jama.2026.20036",
+   "reason": "JAMA Medical News brief; news excluded"
+  },
+  {
+   "title": "Long-Term Steroid Use Tied to Adverse Cardiovascular Effects.",
+   "journal": "JAMA",
+   "pmid": "42961434",
+   "doi": "10.1001/jama.2026.20038",
+   "reason": "JAMA Medical News brief; news excluded"
+  },
+  {
+   "title": "Intensive BP Lowering Reduces Cardiovascular Risk in Adults With CKD.",
+   "journal": "JAMA",
+   "pmid": "42961427",
+   "doi": "10.1001/jama.2026.20039",
+   "reason": "JAMA Medical News brief; news excluded"
+  },
+  {
+   "title": "Analysis Asks: Are GLP-1 Drugs Safe in People With Frailty?",
+   "journal": "JAMA",
+   "pmid": "42961402",
+   "doi": "10.1001/jama.2026.22482",
+   "reason": "JAMA Medical News brief; news excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

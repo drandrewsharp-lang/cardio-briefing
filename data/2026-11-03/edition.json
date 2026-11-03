@@ -1,0 +1,254 @@
+{
+ "date": "2026-11-03",
+ "label": "Tuesday 3 November 2026: EuroIntervention, JACC, JACC: Cardiovascular Interventions, Circulation, Circulation: Cardiovascular Interventions, NEJM, JAMA",
+ "journals": [
+  "EuroIntervention",
+  "JACC",
+  "JACC: Cardiovascular Interventions",
+  "Circulation",
+  "Circulation: Cardiovascular Interventions",
+  "NEJM",
+  "JAMA"
+ ],
+ "window": {
+  "start": "2026-11-02",
+  "end": "2026-11-03",
+  "basis": "PubMed entry date 2–3 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-03T09:05",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 3,
+   "included": 1
+  },
+  "Circulation": {
+   "pubmed_in_window": 15,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 8,
+   "included": 1
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 9,
+   "included": 1
+  }
+ },
+ "n_papers": 7,
+ "n_interventional": 6,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.",
+   "journal": "NEJM",
+   "date": "2026-11-02",
+   "pmid": "42970708",
+   "doi": "10.1056/nejmoa2607326",
+   "link": "https://doi.org/10.1056/nejmoa2607326",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42970708/",
+   "summary": "Among 744 patients with moderate aortic stenosis and at least one at-risk feature, randomised 1:1 to transfemoral TAVR with a balloon-expandable valve or clinical surveillance, death or a heart-failure event at 2 years was 16.7% vs 23.9% (risk difference −7.2 percentage points; 95% CI −13.1 to −1.3; P=0.02). Death was similar (8.4% vs 7.3%); heart-failure events were 10.8% vs 19.0%. Procedure-related adverse events were comparable among those who underwent aortic-valve replacement.",
+   "abstract_available": true,
+   "study_type": "Randomised controlled trial",
+   "also_in": [],
+   "short_title": "TAVR versus surveillance for moderate aortic stenosis with at-risk features in PROGRESS"
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Antithrombotic Therapy After Left Atrial Appendage Occlusion: The SIMPLAAFY Randomized Clinical Trial.",
+   "journal": "JAMA",
+   "date": "2026-11-02",
+   "pmid": "42970643",
+   "doi": "10.1001/jama.2026.21361",
+   "link": "https://doi.org/10.1001/jama.2026.21361",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42970643/",
+   "summary": "In this open-label US trial, 1,857 patients after successful left atrial appendage closure were randomised 1:1:1 to 6 months of dual antiplatelet therapy, 3 months of reduced-dose NOAC then aspirin, or aspirin alone. The 6-month composite of death, stroke, systemic embolism or major bleeding occurred in 6.9% with DAPT, 5.1% with reduced-dose NOAC and 3.3% with aspirin alone; both monotherapy strategies met noninferiority versus DAPT (P<0.001 for noninferiority). Major bleeding was 4.5%, 2.7% and 1.7%, and device-related thrombus 3.4%, 0.9% and 2.7%.",
+   "abstract_available": true,
+   "study_type": "Randomised controlled trial",
+   "also_in": [],
+   "short_title": "antithrombotic therapy after left atrial appendage occlusion in SIMPLAAFY"
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Impact of CKD and Hemodialysis on Treatment of Severely Calcified Lesions: The ECLIPSE Trial.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-02",
+   "pmid": "42971570",
+   "doi": "10.1161/circinterventions.126.017556",
+   "link": "https://doi.org/10.1161/circinterventions.126.017556",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42971570/",
+   "summary": "In this pre-specified CKD sub-analysis of ECLIPSE, 2,001 patients with severely calcified lesions were randomised to orbital atherectomy or balloon angioplasty before DES; CKD was present in 34.7%, including 112 on hemodialysis. Two-year target-vessel failure was higher with CKD (21.2% vs 11.6%), and hemodialysis independently predicted TVF (adjusted HR 2.14). Among hemodialysis patients, TVF was higher after orbital atherectomy than balloon angioplasty (52.3% vs 30.7%; adjusted HR 2.50), though the treatment-by-hemodialysis interaction was not significant.",
+   "abstract_available": true,
+   "study_type": "Pre-specified subgroup analysis of a randomised trial",
+   "also_in": [],
+   "short_title": "CKD and hemodialysis outcomes after orbital atherectomy in ECLIPSE"
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "10-Year Outcomes of Initial CTO-PCI Versus No CTO-PCI Strategies for Chronic Total Occlusion: The DECISION-CTO Randomized Trial",
+   "journal": "JACC",
+   "date": "2026-11-02",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.068",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.068",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Randomised trial, 10-year follow-up (no abstract available yet)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "3-Year Comparison of Sirolimus- Versus Paclitaxel-Coated Balloon Angioplasty in Femoropopliteal Artery Disease",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-02",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.10.020",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.020",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Comparative study, 3-year follow-up (no abstract available yet)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Humanoid robot as a circulating assistant in the cardiac catheterisation laboratory.",
+   "journal": "EuroIntervention",
+   "date": "2026-10-02",
+   "pmid": "42970093",
+   "doi": "10.4244/eij-d-26-00646",
+   "link": "https://doi.org/10.4244/eij-d-26-00646",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42970093/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Journal article on a humanoid robot circulating assistant in the cath lab (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Performance of the PREVENT-HF Equations Across Heart Failure Subtypes in Community-Based and Ambulatory Healthcare Samples.",
+   "journal": "Circulation",
+   "date": "2026-11-02",
+   "pmid": "42969101",
+   "doi": "10.1161/circulationaha.126.083383",
+   "link": "https://doi.org/10.1161/circulationaha.126.083383",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42969101/",
+   "summary": "Across pooled cohorts (23,652 adults) and two EHR samples, PREVENT-HF predicted 10-year HFpEF and HFrEF with excellent discrimination, better for HFpEF than HFrEF (AUROC 0.824 vs 0.789 in cohorts; similar gaps in BIDMC and MGB). Calibration was similar for both subtypes. Subtype-specific risk thresholds still need defining.",
+   "abstract_available": true,
+   "study_type": "Validation study across cohorts and EHR samples",
+   "also_in": [],
+   "short_title": "PREVENT-HF risk equations across heart failure subtypes"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Eugene Braunwald Legacy Series: The Father of Hypertrophic Cardiomyopathy.",
+   "journal": "Circulation",
+   "pmid": "42970632",
+   "doi": "10.1161/circulationaha.126.081329",
+   "reason": "Eugene Braunwald memorial/legacy perspective series; not original research; perspectives excluded"
+  },
+  {
+   "title": "The Scientific Synthesis that Modernized Cardiology: A Perspective on the Formative NIH Years of Dr Eugene Braunwald (1955-1970).",
+   "journal": "Circulation",
+   "pmid": "42970631",
+   "doi": "10.1161/circulationaha.126.081917",
+   "reason": "Eugene Braunwald memorial/legacy perspective series; not original research; perspectives excluded"
+  },
+  {
+   "title": "Dr Eugene Braunwald: Scientific Scope in Network Form.",
+   "journal": "Circulation",
+   "pmid": "42970630",
+   "doi": "10.1161/circulationaha.126.083067",
+   "reason": "Eugene Braunwald memorial/legacy perspective series; not original research; perspectives excluded"
+  },
+  {
+   "title": "Eugene Braunwald Memorial Series: Fighting and Winning the War on Heart Failure.",
+   "journal": "Circulation",
+   "pmid": "42970628",
+   "doi": "10.1161/circulationaha.126.081330",
+   "reason": "Eugene Braunwald memorial/legacy perspective series; not original research; perspectives excluded"
+  },
+  {
+   "title": "From Custom Devices to Engineered Hearts: A Clinician's Guide to 3D Printing and Bioprinting.",
+   "journal": "Circulation",
+   "pmid": "42970627",
+   "doi": "10.1161/circulationaha.126.081751",
+   "reason": "Clinician's guide / perspective on 3D printing and bioprinting; perspectives excluded"
+  },
+  {
+   "title": "Eugene Braunwald Legacy Series: Lipid Lowering and the Era of Prevention.",
+   "journal": "Circulation",
+   "pmid": "42970626",
+   "doi": "10.1161/circulationaha.126.081332",
+   "reason": "Eugene Braunwald memorial/legacy perspective series; not original research; perspectives excluded"
+  },
+  {
+   "title": "Eugene Braunwald Legacy Series: Building a Framework for Academic Medicine.",
+   "journal": "Circulation",
+   "pmid": "42970625",
+   "doi": "10.1161/circulationaha.126.081324",
+   "reason": "Eugene Braunwald memorial/legacy perspective series; not original research; perspectives excluded"
+  },
+  {
+   "title": "Tackling Acute Myocardial Infarction.",
+   "journal": "Circulation",
+   "pmid": "42970623",
+   "doi": "10.1161/circulationaha.126.081328",
+   "reason": "Eugene Braunwald memorial/legacy perspective series; not original research; perspectives excluded"
+  },
+  {
+   "title": "Mentoring a Generation.",
+   "journal": "Circulation",
+   "pmid": "42970621",
+   "doi": "10.1161/circulationaha.126.081327",
+   "reason": "Eugene Braunwald memorial/legacy perspective series; not original research; perspectives excluded"
+  },
+  {
+   "title": "Optimal Antithrombotics After Left Atrial Appendage Closure.",
+   "journal": "JAMA",
+   "pmid": "42970642",
+   "doi": "10.1001/jama.2026.22275",
+   "reason": "Editorial accompanying the SIMPLAAFY trial; editorials excluded"
+  },
+  {
+   "title": "Can Payment Reform Transform Heart Failure Care?",
+   "journal": "JAMA",
+   "pmid": "42970278",
+   "doi": "10.1001/jama.2026.19267",
+   "reason": "JAMA Viewpoint on Medicare payment reform for heart failure; viewpoints/editorials excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

@@ -1,0 +1,317 @@
+{
+ "date": "2026-11-04",
+ "label": "Wednesday 4 November 2026: EuroIntervention, JACC, Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology, The Lancet",
+ "journals": [
+  "EuroIntervention",
+  "JACC",
+  "Circulation",
+  "Circulation: Cardiovascular Interventions",
+  "JAMA Cardiology",
+  "The Lancet"
+ ],
+ "window": {
+  "start": "2026-11-03",
+  "end": "2026-11-04",
+  "basis": "PubMed entry date 3–4 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-04T09:05",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 8,
+   "included": 3
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 3
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 2,
+   "included": 2
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 3,
+   "included": 3
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "JAMA": {
+   "pubmed_in_window": 3,
+   "included": 0
+  }
+ },
+ "n_papers": 13,
+ "n_interventional": 11,
+ "n_general": 2,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.",
+   "journal": "The Lancet",
+   "date": "2026-11-03",
+   "pmid": "42976899",
+   "doi": "10.1016/s0140-6736(26)02104-5",
+   "link": "https://doi.org/10.1016/s0140-6736(26)02104-5",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42976899/",
+   "summary": "In the multicentre IRIS-MAIN registry of Asian patients with unprotected left main disease, 5,379 underwent revascularisation with drug-eluting-stent PCI (n=3,836) or CABG (n=1,543) and were followed for a median 10.0 years. In the propensity overlap-weighted analysis, 10-year all-cause mortality was 24.0% after PCI versus 22.9% after CABG (overlap-weighted HR 1.00, 95% CI 0.87–1.14; P=0.99). The confidence interval does not exclude benefit or harm with either strategy; the authors stress these observational findings cannot establish causal equivalence.",
+   "abstract_available": true,
+   "study_type": "Prospective multicentre registry with target-trial emulation",
+   "also_in": [],
+   "short_title": "long-term PCI versus CABG for left main disease in IRIS-MAIN"
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Efficacy and Safety of Routine Postdilation in Balloon-Expandable Transcatheter Aortic Valve Implantation Platform: The DUOTAP Randomized Clinical Trial.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-03",
+   "pmid": "42976368",
+   "doi": "10.1001/jamacardio.2026.5260",
+   "link": "https://doi.org/10.1001/jamacardio.2026.5260",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42976368/",
+   "summary": "In this randomised trial of 148 patients undergoing balloon-expandable TAVI (median age 81 years), routine postdilation with the delivery balloon versus sham/no postdilation cut the fluoroscopic THV asymmetry index by 70% (median 1.2% vs 2.8%; geometric mean ratio 0.30; 95% CI 0.18–0.47; P<0.001). Postdilation also enlarged CT-derived valve areas at inflow, midframe and outflow, reduced hypoattenuated leaflet thickening and mild-or-worse paravalvular leak, and raised the Doppler Velocity Index, without increasing procedure-related adverse events (P=0.36).",
+   "abstract_available": true,
+   "study_type": "Randomised controlled trial",
+   "also_in": [],
+   "short_title": "routine postdilation after balloon-expandable TAVI"
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Effectiveness of Radiofrequency Renal Denervation in the United States: Six-Month Primary End Point Results From the SPYRAL AFFIRM Study.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-03",
+   "pmid": "42976254",
+   "doi": "10.1161/circinterventions.126.017422",
+   "link": "https://doi.org/10.1161/circinterventions.126.017422",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42976254/",
+   "summary": "SPYRAL AFFIRM treated 594 US patients with uncontrolled hypertension using radiofrequency renal denervation (baseline office BP 169/106 mm Hg; mean 3.6 antihypertensives unchanged through 6 months). At 6 months, systolic BP fell by 18.2 mm Hg office, 9.4 mm Hg home and 9.7 mm Hg on 24-hour ambulatory monitoring (all P<0.001 vs baseline), meeting the primary performance goal of a −6.0 mm Hg office SBP change. Adverse clinical events through 6 months were uncommon.",
+   "abstract_available": true,
+   "study_type": "Single-arm postapproval study",
+   "also_in": [],
+   "short_title": "six-month US results of radiofrequency renal denervation in SPYRAL AFFIRM"
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Prediction of Bailout Mechanical Circulatory Support Use for Hemodynamic Collapse During PCI: The ORACLE Score.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-03",
+   "pmid": "42975593",
+   "doi": "10.1161/circinterventions.126.017503",
+   "link": "https://doi.org/10.1161/circinterventions.126.017503",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42975593/",
+   "summary": "From 6,931 PCIs at a tertiary centre (bailout MCS for hemodynamic collapse 1.4%) and external validation in 214,877 BMC2 PCIs, six variables—non-elective presentation, systolic blood pressure, chronic heart failure, prior PCI, rotational/orbital atherectomy and left main PCI—predicted bailout MCS. The simplified ORACLE integer score kept most discrimination (AUC 0.791 derivation, 0.718 external) and stratified observed bailout rates from 0.4% (low risk) to 8.7% (high risk), with negative predictive value above 99% in both cohorts.",
+   "abstract_available": true,
+   "study_type": "Risk score derivation and external validation",
+   "also_in": [],
+   "short_title": "ORACLE score for bailout mechanical circulatory support during PCI"
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Prognostic value of Murray law-based quantitative flow ratio after percutaneous coronary intervention.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-02",
+   "pmid": "42975601",
+   "doi": "10.4244/eij-d-26-00457",
+   "link": "https://doi.org/10.4244/eij-d-26-00457",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42975601/",
+   "summary": "In a FAVOR III China subgroup, offline post-PCI μQFR was analysed in 4,196 vessels from 3,455 patients. Five-year MACE was 23.1%, 19.0% and 17.2% across low, intermediate and high μQFR tertiles (P=0.001); versus μQFR >0.95, the lowest tertile (≤0.91) had adjusted HR 1.30 (95% CI 1.06–1.60). Using a ROC-derived cutoff, μQFR <0.94 versus ≥0.94 carried adjusted HR 1.23 (1.04–1.47), with no significant treatment-by-μQFR interaction (P=0.23).",
+   "abstract_available": true,
+   "study_type": "Prespecified subgroup analysis of a randomised trial",
+   "also_in": [],
+   "short_title": "prognostic value of post-PCI Murray law-based quantitative flow ratio"
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Guided P2Y12 inhibitor selection after rapid CYP2C19 genotyping in patients undergoing percutaneous coronary intervention.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-02",
+   "pmid": "42975600",
+   "doi": "10.4244/eij-d-26-00473",
+   "link": "https://doi.org/10.4244/eij-d-26-00473",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42975600/",
+   "summary": "Among 974 real-world PCI patients with rapid CYP2C19 genotyping, clopidogrel was prescribed at discharge more often in non-loss-of-function than loss-of-function carriers (43% vs 31%; P<0.001). After LOF stratification and confounder adjustment, major atherothrombotic events did not differ significantly between prasugrel/ticagrelor and clopidogrel (LOF adjusted HR 0.87, 95% CI 0.36–2.10; non-LOF 1.26, 0.67–2.36), and BARC bleeding was similar; the authors urge cautious interpretation.",
+   "abstract_available": true,
+   "study_type": "Observational cohort",
+   "also_in": [],
+   "short_title": "rapid CYP2C19 genotyping to guide P2Y12 inhibitor choice after PCI"
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "Prediction of coronary events by computed tomography-derived Murray law-based quantitative flow ratio.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-02",
+   "pmid": "42975599",
+   "doi": "10.4244/eij-d-26-00575",
+   "link": "https://doi.org/10.4244/eij-d-26-00575",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42975599/",
+   "summary": "In 885 vessels from 312 patients who had CCTA 6 months to 3 years before invasive angiography, CT-μFR ≤0.80 predicted higher 3-year vessel-level myocardial infarction or urgent ACS revascularisation (adjusted HR 6.87, 95% CI 5.26–8.96). Even when CT-μFR was >0.80, a CT-μFR gradient ≥0.004/mm remained associated with events (adjusted HR 2.59, 95% CI 1.63–4.11), and combining both improved the C-index from 0.575 to 0.655.",
+   "abstract_available": true,
+   "study_type": "Observational prognostic study",
+   "also_in": [],
+   "short_title": "CT-derived μQFR and pressure gradient for predicting coronary events"
+  },
+  {
+   "category": "interventional",
+   "rank": 8,
+   "title": "Accuracy of Virtual Circle Method and Valve-to-Aorta Distance Change After Redo-TAVR: Multicenter Paired CT Analysis.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-03",
+   "pmid": "42975592",
+   "doi": "10.1161/circinterventions.126.017259",
+   "link": "https://doi.org/10.1161/circinterventions.126.017259",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42975592/",
+   "summary": "In 58 Redo-TAVR patients with paired pre- and post-procedural CT across Evolut-in-SAPIEN, SAPIEN-in-SAPIEN and SAPIEN-in-Evolut combinations, the virtual circle method predicted index TAV frame diameter within ±1 mm in 31 of 53 applicable cases (58.5%), overestimated in 26.4% and underestimated in 15.1%. Accurate or conservative estimates covered 85%; underestimation (median 1.3 mm) clustered where pre- and postdilatation were used.",
+   "abstract_available": true,
+   "study_type": "Multicenter paired CT analysis",
+   "also_in": [],
+   "short_title": "accuracy of the virtual circle method for Redo-TAVR planning"
+  },
+  {
+   "category": "interventional",
+   "rank": 9,
+   "title": "Percutaneous Transcatheter Mitral Valve Replacement for Symptomatic Mitral Regurgitation",
+   "journal": "JACC",
+   "date": "2026-11-03",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.047",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.047",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Journal article on transcatheter mitral valve replacement (no abstract)",
+   "also_in": [],
+   "short_title": "percutaneous transcatheter mitral valve replacement for symptomatic mitral regurgitation"
+  },
+  {
+   "category": "interventional",
+   "rank": 10,
+   "title": "Outcomes of Transcatheter Aortic Valve Replacement for Aortic Regurgitation in LVAD Patients: The JENA-VAD Study",
+   "journal": "JACC",
+   "date": "2026-11-03",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.059",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.059",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Journal article on TAVR for AR in LVAD recipients (no abstract)",
+   "also_in": [],
+   "short_title": "TAVR for aortic regurgitation in LVAD patients in the JENA-VAD study"
+  },
+  {
+   "category": "interventional",
+   "rank": 11,
+   "title": "Single vs Double ProGlide Devices for Access Site Closure after Transfemoral Aortic Valve Replacement",
+   "journal": "JACC",
+   "date": "2026-11-03",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.055",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.055",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Journal article comparing ProGlide strategies after TF-TAVR (no abstract)",
+   "also_in": [],
+   "short_title": "single versus double ProGlide for access closure after transfemoral TAVR"
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Long-Term Impact of Vutrisiran in Patients With TTR Amyloidosis With Cardiomyopathy: 1-Year Efficacy and Safety Outcomes From the HELIOS-B Open-Label Extension.",
+   "journal": "Circulation",
+   "date": "2026-11-03",
+   "pmid": "42974684",
+   "doi": "10.1161/circulationaha.126.080735",
+   "link": "https://doi.org/10.1161/circulationaha.126.080735",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42974684/",
+   "summary": "In HELIOS-B's open-label extension (466 patients), continuous vutrisiran through month 48 reduced cardiovascular events or death by 37% versus delayed start after placebo (HR 0.63), with matching mortality benefit, higher KCCQ-OS (difference 9.0), more stable or improved NYHA class, and lower NT-proBNP and troponin I, without new safety signals.",
+   "abstract_available": true,
+   "study_type": "Open-label extension of a randomised trial",
+   "also_in": [],
+   "short_title": "long-term vutrisiran in TTR amyloid cardiomyopathy from the HELIOS-B extension"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Targeting ALDOA Lactylation Reverses Vascular Remodeling in Pulmonary Hypertension by Disrupting Actin Polymerization and YAP Activation.",
+   "journal": "Circulation",
+   "date": "2026-11-03",
+   "pmid": "42974708",
+   "doi": "10.1161/circulationaha.125.078300",
+   "link": "https://doi.org/10.1161/circulationaha.125.078300",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42974708/",
+   "summary": "In pulmonary hypertension models and human tissue, AARS1-driven ALDOA lysine-42 lactylation enhanced γ-actin binding, F-actin polymerization and YAP activation independent of glycolysis, driving pulmonary arterial smooth-muscle proliferation. Knockout or lactylation-deficient ALDOA, β-alanine, or raltegravir disrupting the ALDOA–γ-actin interaction attenuated experimental pulmonary hypertension and vascular remodeling.",
+   "abstract_available": true,
+   "study_type": "Mechanistic experimental study",
+   "also_in": [],
+   "short_title": "ALDOA lactylation and vascular remodeling in pulmonary hypertension"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Intravascular imaging to guide PCI in the era of neutral trials: does a Class I recommendation remain justified?",
+   "journal": "EuroIntervention",
+   "pmid": "42975598",
+   "doi": "10.4244/eij-e-26-00015",
+   "reason": "Editorial (eij-e DOI); editorials excluded"
+  },
+  {
+   "title": "From rapid genotyping to timely treatment: closing the CYP2C19 implementation gap.",
+   "journal": "EuroIntervention",
+   "pmid": "42975602",
+   "doi": "10.4244/eij-d-26-01261",
+   "reason": "Commentary/companion piece without abstract accompanying the genotyping study; editorials/commentaries excluded"
+  },
+  {
+   "title": "Coming Full Circle",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.048",
+   "reason": "Title/format consistent with editorial or perspective; editorials excluded"
+  },
+  {
+   "title": "Can We Trust the Data?",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.035",
+   "reason": "Viewpoint/editorial-style title (Krumholz); viewpoints/editorials excluded"
+  },
+  {
+   "title": "Condensed abstracts",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/s0735-1097(26)10036-9",
+   "reason": "Condensed/conference abstracts; conference abstracts excluded"
+  },
+  {
+   "title": "Routine Postdilation to Optimize Balloon-Expandable Valve Expansion.",
+   "journal": "JAMA Cardiology",
+   "pmid": "42976371",
+   "doi": "10.1001/jamacardio.2026.5331",
+   "reason": "Companion editorial to the postdilation RCT; editorials excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

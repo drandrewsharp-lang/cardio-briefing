@@ -1,0 +1,136 @@
+{
+ "date": "2026-11-05",
+ "label": "Thursday 5 November 2026: NEJM",
+ "journals": [
+  "NEJM"
+ ],
+ "window": {
+  "start": "2026-11-04",
+  "end": "2026-11-05",
+  "basis": "PubMed entry date 4–5 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed (PubMed E-utilities returned many 500 errors today, so feed/Crossref dominated)"
+ },
+ "generated_at": "2026-11-05T09:15",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 2
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 0,
+   "included": 0
+  }
+ },
+ "n_papers": 2,
+ "n_interventional": 1,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Targeted Use of Computed Tomographic Coronary Angiography in Acute Chest Pain",
+   "journal": "NEJM",
+   "date": "2026-11-05",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2608903",
+   "link": "https://doi.org/10.1056/nejmoa2608903",
+   "pubmed_link": null,
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Original article (no abstract available yet)",
+   "also_in": [],
+   "short_title": "targeted use of CT coronary angiography in acute chest pain"
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Prevalence of Silent Atherosclerosis across Adult Life",
+   "journal": "NEJM",
+   "date": "2026-11-05",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2609059",
+   "link": "https://doi.org/10.1056/nejmoa2609059",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this study, so no results are reported here. Judging from its title, it estimates how common silent atherosclerosis is across adult life, likely using imaging in adults of different ages. See the full paper in NEJM for the methods and findings.",
+   "abstract_available": false,
+   "study_type": "Original article (no abstract available yet)",
+   "also_in": [],
+   "short_title": "prevalence of silent atherosclerosis across adult life"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Ebstein Anomaly With Pre-excited Atrial Fibrillation",
+   "journal": "JAMA Cardiology",
+   "pmid": null,
+   "doi": "10.1001/jamacardio.2026.4241",
+   "reason": "JAMA Cardiology clinical challenge/image of Ebstein anomaly with pre-excited AF; case reports and images excluded"
+  },
+  {
+   "title": "Man in His 20s With A New Rash and Right Atrial Mass",
+   "journal": "JAMA Cardiology",
+   "pmid": null,
+   "doi": "10.1001/jamacardio.2026.4465",
+   "reason": "JAMA Cardiology clinical challenge/case of rash with right atrial mass; case reports and images excluded"
+  },
+  {
+   "title": "Intravenous Thrombolysis for Acute Ischemic Stroke — New Directions",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejmra2519017",
+   "reason": "NEJM review on intravenous thrombolysis for acute ischemic stroke; stroke/neurology, not cardiology (strict)"
+  },
+  {
+   "title": "Atherosclerosis across the Adult Lifespan — A Call to Act from REACT",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejme2612403",
+   "reason": "NEJM editorial accompanying the REACT/silent atherosclerosis paper (nejme DOI); editorials excluded"
+  },
+  {
+   "title": "From Detection to Action in Computed Tomographic Coronary Angiography",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejme2612237",
+   "reason": "NEJM editorial accompanying the CT coronary angiography paper (nejme DOI); editorials excluded"
+  },
+  {
+   "title": "Left main coronary artery disease: PCI or CABG for revascularisation strategy",
+   "journal": "The Lancet",
+   "pmid": null,
+   "doi": "10.1016/s0140-6736(26)02200-2",
+   "reason": "Lancet Comment on left main PCI vs CABG (also appeared as [Comment] in the feed); comments/editorials excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

@@ -1,7 +1,17 @@
 {
  "app": "Cardio Briefing",
- "latest": "2026-11-05",
+ "latest": "2026-11-06",
  "editions": [
+  {
+   "date": "2026-11-06",
+   "label": "Friday 6 November 2026: Circulation",
+   "n_papers": 1,
+   "n_interventional": 0,
+   "n_general": 1,
+   "audio": true,
+   "duration_s": 66.4,
+   "audio_bytes": 664417
+  },
   {
    "date": "2026-11-05",
    "label": "Thursday 5 November 2026: NEJM",

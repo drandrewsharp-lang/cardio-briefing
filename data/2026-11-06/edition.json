@@ -1,0 +1,77 @@
+{
+ "date": "2026-11-06",
+ "label": "Friday 6 November 2026: Circulation",
+ "journals": [
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-11-05",
+  "end": "2026-11-06",
+  "basis": "PubMed entry date 5\u20136 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-06T09:02",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 12,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 9,
+   "included": 0
+  }
+ },
+ "n_papers": 1,
+ "n_interventional": 0,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "2026 International Liaison Committee on Resuscitation Consensus on Science With Treatment Recommendations: Summary from the Basic Life Support; Advanced Life Support; Pediatric Life Support; Neonatal Life Support; Education, Implementation, and Teams; and First Aid Task Forces",
+   "journal": "Circulation",
+   "date": "2026-11-05",
+   "pmid": null,
+   "doi": "10.1161/cir.0000000000001473",
+   "link": "https://doi.org/10.1161/cir.0000000000001473",
+   "pubmed_link": null,
+   "summary": "Circulation's annual ILCOR Consensus on Science with Treatment Recommendations summarises recent resuscitation evidence from six task forces: basic, advanced, paediatric and neonatal life support, education and teams, and first aid. Using GRADE, the task forces issue consensus treatment recommendations, evidence-to-decision highlights, and priority knowledge gaps. No quantitative trial results are reported here.",
+   "abstract_available": true,
+   "study_type": "ILCOR Consensus on Science with Treatment Recommendations (annual summary)",
+   "also_in": [],
+   "short_title": "the 2026 ILCOR consensus on resuscitation science and treatment recommendations"
+  }
+ ],
+ "excluded": [],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

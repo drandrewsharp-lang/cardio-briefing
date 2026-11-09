@@ -1,0 +1,546 @@
+{
+ "date": "2026-11-09",
+ "label": "Monday 9 November 2026: JACC, JACC: Cardiovascular Interventions, Circulation, JAMA Cardiology, NEJM, The Lancet, JAMA",
+ "journals": [
+  "JACC",
+  "JACC: Cardiovascular Interventions",
+  "Circulation",
+  "JAMA Cardiology",
+  "NEJM",
+  "The Lancet",
+  "JAMA"
+ ],
+ "window": {
+  "start": "2026-11-06",
+  "end": "2026-11-09",
+  "basis": "PubMed entry date 6–9 Nov 2026 inclusive (weekend window); Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-09T09:06",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 1,
+   "included": 4
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "Circulation": {
+   "pubmed_in_window": 16,
+   "included": 6
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 6
+  },
+  "The Lancet": {
+   "pubmed_in_window": 3,
+   "included": 1
+  },
+  "JAMA": {
+   "pubmed_in_window": 17,
+   "included": 3
+  }
+ },
+ "n_papers": 22,
+ "n_interventional": 7,
+ "n_general": 15,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Cangrelor versus crushed ticagrelor in acute myocardial infarction complicated by cardiogenic shock (DAPT-SHOCK-AMI): a randomised, double-blind trial.",
+   "journal": "The Lancet",
+   "date": "2026-11-07",
+   "pmid": "42998670",
+   "doi": "10.1016/s0140-6736(26)00976-1",
+   "link": "https://doi.org/10.1016/s0140-6736(26)00976-1",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42998670/",
+   "summary": "DAPT-SHOCK-AMI was a double-blind trial in 605 patients with acute myocardial infarction complicated by cardiogenic shock, comparing intravenous cangrelor with crushed oral ticagrelor. Cangrelor reached the platelet reactivity target at the end of primary PCI in 100% of patients analysed versus 22% with ticagrelor. The 30-day composite of death, myocardial infarction or stroke was 38% versus 41%, and non-inferiority was not demonstrated (P=0.13). Major bleeding was 6% versus 5%.",
+   "abstract_available": true,
+   "study_type": "Randomised, double-blind trial",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Multimodality Cardiac Imaging Substudy of the DAPT-SHOCK-AMI Randomized Trial: Echocardiographic and Cardiac Magnetic Resonance Assessment of Cangrelor versus Crushed Ticagrelor in Cardiogenic Shock Complicating Acute Myocardial Infarction.",
+   "journal": "Circulation",
+   "date": "2026-11-07",
+   "pmid": "42998293",
+   "doi": "10.1161/circulationaha.126.083929",
+   "link": "https://doi.org/10.1161/circulationaha.126.083929",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42998293/",
+   "summary": "This prespecified imaging substudy of DAPT-SHOCK-AMI used serial echocardiography (208 patients) and cardiac MRI (93 patients) to compare cangrelor with crushed ticagrelor in cardiogenic shock after myocardial infarction. Acute microvascular obstruction was less likely with cangrelor (adjusted odds ratio 0.27), while infarct size did not differ. At one year, LVEF recovered more with cangrelor on echo (37.9% versus 21.7% of the acute value) and MRI (15.8% versus 2.1%). The substudy was not separately powered, so the findings are hypothesis-generating.",
+   "abstract_available": true,
+   "study_type": "Prespecified randomised-trial imaging substudy",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in Patients With Advanced Chronic Kidney Disease: ISCHEMIA-CKD EXTEND.",
+   "journal": "Circulation",
+   "date": "2026-11-07",
+   "pmid": "42998238",
+   "doi": "10.1161/circulationaha.126.083858",
+   "link": "https://doi.org/10.1161/circulationaha.126.083858",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42998238/",
+   "summary": "ISCHEMIA-CKD EXTEND followed 777 patients with advanced chronic kidney disease and moderate or severe ischemia, randomised to an initial invasive or conservative strategy, for a median of 8 years. All-cause mortality was 57.4% with the invasive strategy versus 56.8% with the conservative strategy (adjusted HR 1.05; 95% CI 0.87 to 1.28), and cardiovascular mortality was 40.3% versus 38.4%. There was no long-term survival benefit from initial invasive management.",
+   "abstract_available": true,
+   "study_type": "Long-term follow-up of a randomised trial",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "High Bleeding Risk and Aspirin Omission at the Time of Primary PCI in STEMI: A Post Hoc Analysis of the PREMIUM Trial.",
+   "journal": "JACC",
+   "date": "2026-10-31",
+   "pmid": "42998063",
+   "doi": "10.1016/j.jacc.2026.10.058",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.058",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42998063/",
+   "summary": "This post hoc analysis of the PREMIUM trial, which compared prasugrel monotherapy with prasugrel plus aspirin DAPT in 2,189 STEMI patients undergoing primary PCI, asked whether high bleeding risk changes the effect of omitting aspirin. 35.9% were high bleeding risk, with more ischemic events (16.2% versus 6.2%) and major bleeding (10.9% versus 4.9%). The effect of aspirin omission did not differ by bleeding risk (P for interaction 0.51), so high bleeding risk alone should not guide upfront omission.",
+   "abstract_available": true,
+   "study_type": "Post hoc analysis of a randomised trial",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Prehospital Extracorporeal Life Support in Refractory Out-of-Hospital Cardiac Arrest",
+   "journal": "NEJM",
+   "date": "2026-11-07",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2602919",
+   "link": "https://doi.org/10.1056/nejmoa2602919",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, it is a NEJM original article examining prehospital extracorporeal life support, the use of ECMO-based resuscitation, in patients with refractory out-of-hospital cardiac arrest. See the full paper in NEJM for the design and findings.",
+   "abstract_available": false,
+   "study_type": "Original article (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Percutaneous Coronary Intervention and Long-Term Outcomes in Stable Coronary Artery Disease: Extended Follow-Up of the COURAGE Randomized Trial.",
+   "journal": "JAMA",
+   "date": "2026-11-07",
+   "pmid": "42998239",
+   "doi": "10.1001/jama.2026.23488",
+   "link": "https://doi.org/10.1001/jama.2026.23488",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42998239/",
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, it reports extended follow-up of the COURAGE randomised trial, which compared percutaneous coronary intervention with optimal medical therapy in stable coronary artery disease, looking at long-term outcomes. See the full paper in JAMA for the results.",
+   "abstract_available": false,
+   "study_type": "Extended follow-up of a randomised trial (no abstract)",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "14-Year Serial Optical Frequency Domain Imaging After Absorb Bioresorbable Vascular Scaffold Implantation.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-10-26",
+   "pmid": "42993107",
+   "doi": "10.1016/j.jcin.2026.07.052",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.052",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42993107/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Imaging study (no abstract; title only)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Left Bundle-Branch Pacing versus Right Ventricular Pacing for Atrioventricular Block",
+   "journal": "NEJM",
+   "date": "2026-11-08",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2612972",
+   "link": "https://doi.org/10.1056/nejmoa2612972",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this NEJM paper compares left bundle-branch pacing with right ventricular pacing in patients with atrioventricular block, a question about which pacing site gives better outcomes. See the full paper in NEJM for the design and findings.",
+   "abstract_available": false,
+   "study_type": "Original article (no abstract)",
+   "also_in": [],
+   "short_title": "left bundle-branch pacing versus right ventricular pacing"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Pelacarsen and Cardiovascular Outcomes in Patients with High Lipoprotein(a)",
+   "journal": "NEJM",
+   "date": "2026-11-07",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2610159",
+   "link": "https://doi.org/10.1056/nejmoa2610159",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this NEJM paper examines whether pelacarsen, a drug that lowers lipoprotein(a), affects cardiovascular outcomes in patients with high lipoprotein(a). See the full paper in NEJM for the design and findings.",
+   "abstract_available": false,
+   "study_type": "Original article (no abstract)",
+   "also_in": [],
+   "short_title": "pelacarsen and cardiovascular outcomes in high lipoprotein(a)"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Interleukin-6 Inhibition with Ziltivekimab for Atherosclerotic Disease",
+   "journal": "NEJM",
+   "date": "2026-11-07",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2612126",
+   "link": "https://doi.org/10.1056/nejmoa2612126",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this NEJM paper examines ziltivekimab, an interleukin-6 inhibitor, in patients with atherosclerotic disease, testing whether targeting inflammation can help. See the full paper in NEJM for the design and findings.",
+   "abstract_available": false,
+   "study_type": "Original article (no abstract)",
+   "also_in": [],
+   "short_title": "ziltivekimab, interleukin-6 inhibition in atherosclerosis"
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Discontinuing Statins in Older Adults without Cardiovascular Disease",
+   "journal": "NEJM",
+   "date": "2026-11-07",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2606634",
+   "link": "https://doi.org/10.1056/nejmoa2606634",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this NEJM paper examines the effects of discontinuing statins in older adults who have no cardiovascular disease. See the full paper in NEJM for the design and findings.",
+   "abstract_available": false,
+   "study_type": "Original article (no abstract)",
+   "also_in": [],
+   "short_title": "discontinuing statins in older adults"
+  },
+  {
+   "category": "general",
+   "rank": 5,
+   "title": "Community and EMS Interventions to Improve Survival in Cardiac Arrest",
+   "journal": "NEJM",
+   "date": "2026-11-08",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2612757",
+   "link": "https://doi.org/10.1056/nejmoa2612757",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this NEJM paper examines community and emergency medical services interventions aimed at improving survival after cardiac arrest. See the full paper in NEJM for the design and findings.",
+   "abstract_available": false,
+   "study_type": "Original article (no abstract)",
+   "also_in": [],
+   "short_title": "community and EMS interventions for cardiac arrest survival"
+  },
+  {
+   "category": "general",
+   "rank": 6,
+   "title": "Low-Voltage Area Ablation for Persistent Atrial Fibrillation: The COAST-AF Randomized Clinical Trial.",
+   "journal": "JAMA",
+   "date": "2026-11-08",
+   "pmid": "42999998",
+   "doi": "10.1001/jama.2026.24331",
+   "link": "https://doi.org/10.1001/jama.2026.24331",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42999998/",
+   "summary": "In the COAST-AF trial, 508 Canadian patients with persistent atrial fibrillation received pulmonary vein isolation with or without low-voltage area ablation. Recurrence did not differ significantly overall (49.4% versus 57.5%; HR 0.82; P=0.11). In the 268 patients with low-voltage areas, recurrence was lower with added ablation (49.3% versus 69.2%; HR 0.77). Safety was similar.",
+   "abstract_available": true,
+   "study_type": "Randomised clinical trial",
+   "also_in": [],
+   "short_title": "the COAST-AF trial of low-voltage area ablation for persistent atrial fibrillation"
+  },
+  {
+   "category": "general",
+   "rank": 7,
+   "title": "Iron Repletion in Heart Failure With Preserved Ejection Fraction: The IRONMET-HFpEF Randomized Trial.",
+   "journal": "Circulation",
+   "date": "2026-11-08",
+   "pmid": "42999950",
+   "doi": "10.1161/circulationaha.126.084009",
+   "link": "https://doi.org/10.1161/circulationaha.126.084009",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42999950/",
+   "summary": "IRONMET-HFpEF randomised 65 patients with heart failure with preserved ejection fraction and iron deficiency to single-dose intravenous ferric derisomaltose or placebo. At 12 weeks, peak oxygen uptake rose 1.2 mL/kg/min with iron and was unchanged with placebo (difference 1.1; P=0.02). Walk distance and NYHA class also improved; the Kansas City questionnaire score did not differ.",
+   "abstract_available": true,
+   "study_type": "Randomised clinical trial",
+   "also_in": [],
+   "short_title": "the IRONMET-HFpEF trial of intravenous iron"
+  },
+  {
+   "category": "general",
+   "rank": 8,
+   "title": "Statin-Ezetimibe Combination Therapy versus Statin Monotherapy in Atherosclerotic Cardiovascular Disease: A Prespecified Secondary Analysis of the Randomized Ez-PAVE Trial.",
+   "journal": "Circulation",
+   "date": "2026-11-07",
+   "pmid": "42998308",
+   "doi": "10.1161/circulationaha.126.083811",
+   "link": "https://doi.org/10.1161/circulationaha.126.083811",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42998308/",
+   "summary": "This prespecified secondary analysis of the Ez-PAVE trial randomised 3,048 patients with atherosclerotic cardiovascular disease to initial statin-ezetimibe combination or statin alone. Three-year major events were similar (8.5% versus 7.9%; HR 1.07; P=0.596), though combination therapy achieved lower LDL cholesterol (53 versus 62 mg/dL with intensive targeting). Safety was similar.",
+   "abstract_available": true,
+   "study_type": "Prespecified secondary analysis of a randomised trial",
+   "also_in": [],
+   "short_title": "the Ez-PAVE trial of statin-ezetimibe combination therapy"
+  },
+  {
+   "category": "general",
+   "rank": 9,
+   "title": "Implementation of Single-Pill Combination Therapy Through Team-Based Care for Hypertension Control in Resource-Constrained Settings: A Cluster Randomized Clinical Trial.",
+   "journal": "JAMA",
+   "date": "2026-11-08",
+   "pmid": "43000001",
+   "doi": "10.1001/jama.2026.24169",
+   "link": "https://doi.org/10.1001/jama.2026.24169",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43000001/",
+   "summary": "This cluster randomised trial in 40 primary care clinics in Colombia and Jamaica enrolled 1,706 adults with uncontrolled hypertension. Team-based care with single-pill combination therapy lowered systolic blood pressure by 19.1 mm Hg versus 9.0 mm Hg with standard care at 18 months (difference -10.1). Control reached 69.5% versus 29.2%; serious adverse events were similar.",
+   "abstract_available": true,
+   "study_type": "Cluster randomised clinical trial",
+   "also_in": [],
+   "short_title": "single-pill combination therapy for hypertension in Colombia and Jamaica"
+  },
+  {
+   "category": "general",
+   "rank": 10,
+   "title": "Dapagliflozin for Renal Protection in Heart Transplant Recipients: A Randomized Clinical Trial.",
+   "journal": "Circulation",
+   "date": "2026-11-08",
+   "pmid": "42999953",
+   "doi": "10.1161/circulationaha.126.083760",
+   "link": "https://doi.org/10.1161/circulationaha.126.083760",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42999953/",
+   "summary": "The DAPARHT trial randomised 430 heart transplant recipients to dapagliflozin 10 mg or placebo for 12 months. Dapagliflozin improved the eGFR slope: the change from 2 weeks to 12 months was 2.0 versus 0.3 mL/min/1.73 m2 (difference 1.7; P=0.03). There were no unexpected safety signals, and adverse events, including infections, were similar.",
+   "abstract_available": true,
+   "study_type": "Randomised clinical trial",
+   "also_in": [],
+   "short_title": "the DAPARHT trial of dapagliflozin in heart transplant recipients"
+  },
+  {
+   "category": "general",
+   "rank": 11,
+   "title": "Leveraging AI-ECG Technology for Early Notification and Tracking of AF Development (LATENT): A Randomized Controlled Trial.",
+   "journal": "Circulation",
+   "date": "2026-11-07",
+   "pmid": "42998297",
+   "doi": "10.1161/circulationaha.126.083540",
+   "link": "https://doi.org/10.1161/circulationaha.126.083540",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42998297/",
+   "summary": "The LATENT trial randomised 14,665 adults without prior atrial fibrillation to AI-ECG-guided Holter monitoring or usual care. New AF, flutter or pre-AF findings were more frequent with AI-ECG in monitored high-risk patients (0.74% versus 0.48%; P=0.046), but the result was statistically fragile, changing to P=0.057 if one event was reclassified.",
+   "abstract_available": true,
+   "study_type": "Randomised controlled trial",
+   "also_in": [],
+   "short_title": "the LATENT trial of AI-ECG for atrial fibrillation detection"
+  },
+  {
+   "category": "general",
+   "rank": 12,
+   "title": "AI-Identified Reasons for Nonescalation of Lipid-Lowering Therapy for Secondary Prevention.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-07",
+   "pmid": "42998242",
+   "doi": "10.1001/jamacardio.2026.5230",
+   "link": "https://doi.org/10.1001/jamacardio.2026.5230",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/42998242/",
+   "summary": "This retrospective study used a large language model on clinical notes from 13,810 patients with atherosclerotic cardiovascular disease and above-goal LDL cholesterol. Lipid-lowering therapy was not escalated in 88.7% of notes. The most common documented reasons were patient-reported adverse effects (12.6%), LDL close to goal (6.9%) and patient preference (6.8%).",
+   "abstract_available": true,
+   "study_type": "Retrospective cohort study",
+   "also_in": [],
+   "short_title": "AI-identified reasons for not escalating lipid-lowering therapy"
+  },
+  {
+   "category": "general",
+   "rank": 13,
+   "title": "Digital Outreach to Improve Statin Refills by Age: Insights from the ADHERE-ASCVD Randomized Clinical Trial",
+   "journal": "JACC",
+   "date": "2026-11-09",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.063",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.063",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this JACC paper examines whether digital outreach improves statin refills across age groups, using data from the ADHERE-ASCVD randomised clinical trial. See the full paper in JACC for the details.",
+   "abstract_available": false,
+   "study_type": "Randomised-trial analysis (no abstract)",
+   "also_in": [],
+   "short_title": "digital outreach for statin refills by age"
+  },
+  {
+   "category": "general",
+   "rank": 14,
+   "title": "Evolocumab in Patients with Reduced Kidney Function Without a Prior MI or Stroke in VESALIUS-CV",
+   "journal": "JACC",
+   "date": "2026-11-09",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.11.118",
+   "link": "https://doi.org/10.1016/j.jacc.2026.11.118",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this JACC paper examines evolocumab in patients with reduced kidney function who have had no prior heart attack or stroke, within the VESALIUS-CV trial. See the full paper in JACC for the details.",
+   "abstract_available": false,
+   "study_type": "Trial analysis (no abstract)",
+   "also_in": [],
+   "short_title": "evolocumab in reduced kidney function in VESALIUS-CV"
+  },
+  {
+   "category": "general",
+   "rank": 15,
+   "title": "AI-Enabled Echocardiography Identifies Prominent Epicardial Adipose Tissue Associated With an Adverse Cardiometabolic Profile",
+   "journal": "JACC",
+   "date": "2026-11-07",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.066",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.066",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this JACC paper examines whether AI-enabled echocardiography can identify prominent epicardial adipose tissue, and how that relates to an adverse cardiometabolic profile. See the full paper in JACC for the details.",
+   "abstract_available": false,
+   "study_type": "Imaging study (no abstract)",
+   "also_in": [],
+   "short_title": "AI echocardiography for epicardial adipose tissue"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Abstract Or004: Cardiac Hemodynamics in Extracorporeal Cardiopulmonary Resuscitation",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.or004",
+   "reason": "conference abstract (AHA Scientific Sessions); excluded"
+  },
+  {
+   "title": "Abstract P1086: Shock Trajectories and Practice Variation After In-Hospital Cardiac Arrest: A Retrospective Analysis of the Discover-IHCA Registry",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.p1086",
+   "reason": "conference abstract; excluded"
+  },
+  {
+   "title": "Abstract Or014: High-Density Diffuse Optical Tomography Toward Peri-Arrest Cerebral Monitoring in Piglets",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.or014",
+   "reason": "conference abstract (animal study); excluded"
+  },
+  {
+   "title": "Abstract P1025: Quantifying the Impact of Age on Out-of-Hospital Cardiac Arrest Risk in Women",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.p1025",
+   "reason": "conference abstract; excluded"
+  },
+  {
+   "title": "Abstract P1038: National Evaluation of Universal Termination-of-Resuscitation Criteria and EMS Disposition Decisions in Adult Out-of-Hospital Cardiac Arrest",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.p1038",
+   "reason": "conference abstract; excluded"
+  },
+  {
+   "title": "Abstract P1028: Longitudinal Suppression Ratio Trajectories and Neurologic Outcomes After Pediatric Cardiac Arrest",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.p1028",
+   "reason": "conference abstract; excluded"
+  },
+  {
+   "title": "Abstract P2005: Contrastive Language and Image Reasoning - A Novel Multimodal Deep Learning Framework for Post-Anoxic Brain Injury Prognostication",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.p2005",
+   "reason": "conference abstract; excluded"
+  },
+  {
+   "title": "Abstract P2003: Automated Video Review of Cardiac Arrest Resuscitation Using Multimodal Artificial Intelligence",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.p2003",
+   "reason": "conference abstract; excluded"
+  },
+  {
+   "title": "Abstract P2063: An Integrative Review of Thoracoabdominal Pressure Coupling During Cardiopulmonary Resuscitation",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.p2063",
+   "reason": "conference abstract; excluded"
+  },
+  {
+   "title": "Where Statins Falter: Can PCSK9 Inhibitors Hold the Line in CKD?",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.11.117",
+   "reason": "editorial comment (no abstract); excluded"
+  },
+  {
+   "title": "Percutaneous Pulmonary Thrombectomy for Massive Fat Embolism Syndrome Following Abdominoplasty: The Dark Side of Esthetic Surgery.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "42993108",
+   "doi": "10.1016/j.jcin.2026.08.028",
+   "reason": "case report (no abstract); excluded"
+  },
+  {
+   "title": "Clear Target, Multiple Paths: Rethinking Intensive LDL-C Lowering.",
+   "journal": "Circulation",
+   "pmid": "42998309",
+   "doi": "10.1161/circulationaha.126.084180",
+   "reason": "editorial (no abstract); excluded"
+  },
+  {
+   "title": "Can Intravenous Cangrelor Protect the Myocardium in Infarction-related Cardiogenic Shock?",
+   "journal": "Circulation",
+   "pmid": "42998292",
+   "doi": "10.1161/circulationaha.126.084421",
+   "reason": "editorial (no abstract); excluded"
+  },
+  {
+   "title": "Intensive Blood-Pressure Control in Patients with Previous Ischemic Stroke",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejmoa2612924",
+   "reason": "stroke/neurology (blood pressure after ischemic stroke); not cardiology, excluded"
+  },
+  {
+   "title": "Bringing Rapid Reperfusion to More Patients with Out-of-Hospital Cardiac Arrest",
+   "journal": "NEJM",
+   "pmid": null,
+   "doi": "10.1056/nejme2612650",
+   "reason": "NEJM editorial; excluded"
+  },
+  {
+   "title": "The ISCHEMIA Trial a Decade Later-What Have We Learned?",
+   "journal": "JAMA",
+   "pmid": "42998241",
+   "doi": "10.1001/jama.2026.23003",
+   "reason": "JAMA commentary (no abstract); excluded"
+  },
+  {
+   "title": "Ultraprocessed Foods Linked With Vascular Brain Injury in Midlife.",
+   "journal": "JAMA",
+   "pmid": "42993554",
+   "doi": "10.1001/jama.2026.20042",
+   "reason": "news item, brain injury; excluded"
+  },
+  {
+   "title": "Exercise Prescriptions Recommended for Cardiovascular Health.",
+   "journal": "JAMA",
+   "pmid": "42993532",
+   "doi": "10.1001/jama.2026.20045",
+   "reason": "news item (no abstract); excluded"
+  },
+  {
+   "title": "SGLT2 Inhibitors, Potassium Binders, Pregnancy After Kidney Donation, and More From Kidney Week.",
+   "journal": "JAMA",
+   "pmid": "42993529",
+   "doi": "10.1001/jama.2026.19959",
+   "reason": "news item, nephrology; excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

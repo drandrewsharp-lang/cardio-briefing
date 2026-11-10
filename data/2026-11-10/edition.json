@@ -1,0 +1,323 @@
+{
+ "date": "2026-11-10",
+ "label": "Tuesday 10 November 2026: JACC, JACC: Cardiovascular Interventions, Circulation, NEJM, The Lancet",
+ "journals": [
+  "JACC",
+  "JACC: Cardiovascular Interventions",
+  "Circulation",
+  "NEJM",
+  "The Lancet"
+ ],
+ "window": {
+  "start": "2026-11-09",
+  "end": "2026-11-10",
+  "basis": "PubMed entry date 9–10 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-10T09:03",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 21,
+   "included": 7
+  },
+  "Circulation": {
+   "pubmed_in_window": 10,
+   "included": 2
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 17,
+   "included": 2
+  },
+  "The Lancet": {
+   "pubmed_in_window": 3,
+   "included": 1
+  },
+  "JAMA": {
+   "pubmed_in_window": 8,
+   "included": 0
+  }
+ },
+ "n_papers": 13,
+ "n_interventional": 7,
+ "n_general": 6,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Transcatheter vs Surgical Aortic Valve Replacement for Isolated Native Aortic Regurgitation: National Propensity-Matched Analysis.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-09",
+   "pmid": "43003603",
+   "doi": "10.1016/j.jcin.2026.07.047",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.047",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43003603/",
+   "summary": "Using Medicare data, this propensity-matched analysis compared off-label TAVR with surgical replacement in 1,742 matched pairs with isolated native aortic regurgitation. TAVR was linked to shorter hospitalization (OR 0.33) and lower in-hospital mortality (OR 0.62), but more 30-day pacemaker implantation (OR 1.73) and more repeat valve replacement through 5 years (SHR 2.04). All-cause mortality was similar (HR 1.14; 95% CI 0.98 to 1.31).",
+   "abstract_available": true,
+   "study_type": "Propensity-matched registry analysis",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Prognostic Impact of Paravalvular Regurgitation in Patients With Severe Low-Flow, Low-Gradient Aortic Stenosis Undergoing TAVR.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-09",
+   "pmid": "43003601",
+   "doi": "10.1016/j.jcin.2026.08.039",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.039",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43003601/",
+   "summary": "In 1,358 patients with low-flow, low-gradient aortic stenosis undergoing TAVR at 17 Italian centres, paravalvular regurgitation of grade 2+ or worse at discharge was independently associated with the composite of death or heart failure hospitalization at 2 years (adjusted HR 3.77; 95% CI 2.88 to 4.95). The finding held across classical and paradoxical low-flow phenotypes.",
+   "abstract_available": true,
+   "study_type": "Multicentre registry cohort",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Prevalence and Consequences of Guideline-Directed Indications for Aortic Valve Replacement in the EARLY TAVR Trial.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-09",
+   "pmid": "43003599",
+   "doi": "10.1016/j.jcin.2026.08.016",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.016",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43003599/",
+   "summary": "In this EARLY TAVR analysis of 901 patients with asymptomatic severe aortic stenosis, 29.4% had at least one Class II indication for valve replacement at randomisation. They had more death, stroke or heart failure hospitalization (24.5% versus 14.5%; HR 1.78). The benefit of early TAVR was similar with or without a Class II indication (interaction P=0.96).",
+   "abstract_available": true,
+   "study_type": "Post hoc analysis of a randomised trial",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Prosthesis-Patient Mismatch and Patient-Centered Outcomes After TAVR.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-09",
+   "pmid": "43003597",
+   "doi": "10.1016/j.jcin.2026.07.049",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.049",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43003597/",
+   "summary": "This post hoc SCOPE I analysis of 662 TAVR patients found moderate prosthesis-patient mismatch in 27.8% and severe in 10.4%. Mortality did not differ, but at 3 years severe mismatch had a lower Kansas City score (71.1 versus 83.9) and fewer patients alive with good health status (30.6% versus 49.4%). The association lost significance after adjusting for 30-day mitral regurgitation; it is hypothesis-generating.",
+   "abstract_available": true,
+   "study_type": "Post hoc analysis of a randomised trial",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Cardiac Damage and Clinical Outcomes in Symptomatic Severe Aortic Stenosis Undergoing Transcatheter Aortic Valve Replacement.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-09",
+   "pmid": "43003595",
+   "doi": "10.1016/j.jcin.2026.07.030",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.030",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43003595/",
+   "summary": "This LANDMARK trial subanalysis staged cardiac damage in 596 TAVR patients using updated criteria. One-year mortality rose from 0% in stage 0 and 1.1% in stage 1 to 4.7%, 7.2% and 20.4% in stages 2, 3 and 4, with 23.6% in those with cumulative damage. Stage 4 independently predicted 1-year mortality; the area under the curve was 0.739.",
+   "abstract_available": true,
+   "study_type": "Post hoc analysis of a randomised trial",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Development of a Quantitative Contrast CT-Based TAVR-Risk Score to Reliably Predict Deformation in Bicuspid Aortic Valves.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-09",
+   "pmid": "43003605",
+   "doi": "10.1016/j.jcin.2026.08.037",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.037",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43003605/",
+   "summary": "This single-centre retrospective study of 321 patients with bicuspid aortic valve developed a contrast CT calcification score to predict transcatheter valve deformation after balloon-expandable TAVR. High-risk scores (17.4% of patients) independently predicted both underexpansion and eccentricity (OR 89.13; 95% CI 35.02 to 226.83). In the low-risk group, 96.1% had no deformation.",
+   "abstract_available": true,
+   "study_type": "Single-centre retrospective score development",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "TEE Artifact Reduction With Positional and Ventilatory Modification During M-TEER.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-09",
+   "pmid": "43003610",
+   "doi": "10.1016/j.jcin.2026.08.029",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.029",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43003610/",
+   "summary": null,
+   "abstract_available": false,
+   "study_type": "Imaging technique (no abstract; title only)",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Intensive Blood-Pressure Lowering in Patients with Type 2 Diabetes.",
+   "journal": "NEJM",
+   "date": "2026-11-07",
+   "pmid": "43001746",
+   "doi": "10.1056/nejmoa2612922",
+   "link": "https://doi.org/10.1056/nejmoa2612922",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43001746/",
+   "summary": "OPTIMAL-DIABETES randomised 9,476 Brazilian patients with type 2 diabetes, elevated blood pressure and high cardiovascular risk to a systolic target below 120 or below 140 mm Hg. Achieved pressures were 121.8 versus 135.4. Major cardiovascular events occurred in 6.0% versus 6.7% over four years (HR 0.90; 95% CI 0.77 to 1.06; P=0.20). Serious adverse events were similar.",
+   "abstract_available": true,
+   "study_type": "Randomised trial",
+   "also_in": [],
+   "short_title": "the OPTIMAL-DIABETES trial of intensive blood-pressure lowering"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Cardiovascular outcomes with survodutide in adults with obesity at increased cardiovascular risk (SYNCHRONIZE-CVOT): a double-blind, randomised, placebo-controlled, phase 3 trial.",
+   "journal": "The Lancet",
+   "date": "2026-11-09",
+   "pmid": "43003106",
+   "doi": "10.1016/s0140-6736(26)02140-9",
+   "link": "https://doi.org/10.1016/s0140-6736(26)02140-9",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43003106/",
+   "summary": "SYNCHRONIZE-CVOT randomised 5,530 adults with obesity and increased cardiovascular risk to the glucagon and GLP-1 receptor agonist survodutide or placebo. The primary composite occurred in 3.7% versus 4.1% (HR 0.89; 95% CI 0.67 to 1.18), meeting non-inferiority. Gastrointestinal adverse events and discontinuations were far more frequent with survodutide.",
+   "abstract_available": true,
+   "study_type": "Randomised, double-blind phase 3 trial",
+   "also_in": [],
+   "short_title": "the SYNCHRONIZE-CVOT trial of survodutide"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "ANGPTL4 Inhibition in Adults with Elevated Triglyceride Levels.",
+   "journal": "NEJM",
+   "date": "2026-11-09",
+   "pmid": "43002172",
+   "doi": "10.1056/nejmoa2612463",
+   "link": "https://doi.org/10.1056/nejmoa2612463",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43002172/",
+   "summary": "In this phase 2b trial, 236 adults with elevated triglycerides received the ANGPTL4 antibody MAR001 at 300, 450 or 900 mg, or placebo, every four weeks. At week 12, placebo-adjusted triglyceride changes were -39.1, -40.5 and -45.3 percentage points (P<0.001 for all). Adverse events occurred in 69% on MAR001 and 78% on placebo.",
+   "abstract_available": true,
+   "study_type": "Phase 2b randomised trial",
+   "also_in": [],
+   "short_title": "ANGPTL4 inhibition for high triglycerides"
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Myocardial Responses to Eplontersen in Transthyretin Amyloid Cardiomyopathy: The CARDIO-TTRansform CMR study.",
+   "journal": "Circulation",
+   "date": "2026-11-09",
+   "pmid": "43002382",
+   "doi": "10.1161/circulationaha.126.083732",
+   "link": "https://doi.org/10.1161/circulationaha.126.083732",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43002382/",
+   "summary": "This cardiac MRI substudy of CARDIO-TTRansform included 120 patients with transthyretin amyloid cardiomyopathy. At week 140, eplontersen gave lower extracellular volume than placebo (-6.7 percentage points), lower native T1 and left ventricular mass, and higher left ventricular ejection fraction. Amyloid progression occurred in 12.5% versus 76%.",
+   "abstract_available": true,
+   "study_type": "Imaging substudy of a randomised trial",
+   "also_in": [],
+   "short_title": "eplontersen cardiac MRI in transthyretin amyloid cardiomyopathy"
+  },
+  {
+   "category": "general",
+   "rank": 5,
+   "title": "Effects of Eplontersen on Cardiac Structure and Function in Patients With Transthyretin Amyloidosis With Cardiomyopathy: Insights from the CARDIO-TTRansform Trial.",
+   "journal": "Circulation",
+   "date": "2026-11-09",
+   "pmid": "43002247",
+   "doi": "10.1161/circulationaha.126.083722",
+   "link": "https://doi.org/10.1161/circulationaha.126.083722",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43002247/",
+   "summary": "In the CARDIO-TTRansform echocardiography analysis of 1,426 patients, baseline left and right ventricular function measures predicted death and events. At week 140, eplontersen modestly attenuated declines in stroke volume and rises in wall thickness and E/e' versus placebo, mainly in patients not on stabilizers. No effects appeared in those on stabilizers.",
+   "abstract_available": true,
+   "study_type": "Echocardiographic analysis of a randomised trial",
+   "also_in": [],
+   "short_title": "eplontersen echocardiography in transthyretin amyloid cardiomyopathy"
+  },
+  {
+   "category": "general",
+   "rank": 6,
+   "title": "Clinical Safety Evaluation of a Large Language Model for Heart Failure Treatment Recommendations",
+   "journal": "JACC",
+   "date": "2026-11-09",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.070",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.070",
+   "pubmed_link": null,
+   "summary": "No abstract was available for this paper, so no results are reported here. Judging from its title, this JACC paper presents a clinical safety evaluation of a large language model that makes treatment recommendations for heart failure. See the full paper in JACC for the details.",
+   "abstract_available": false,
+   "study_type": "Evaluation study (no abstract)",
+   "also_in": [],
+   "short_title": "a large language model for heart failure treatment recommendations"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Mavacamten for Refractory Dynamic Intraventricular Obstruction After Transcatheter Aortic Valve Replacement.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "43003608",
+   "doi": "10.1016/j.jcin.2026.07.051",
+   "reason": "case report (no abstract); excluded"
+  },
+  {
+   "title": "Sutureless Surgical Valve-in-Frame After SURPLUS for Failed Transcatheter Aortic Valve Replacement.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "43003607",
+   "doi": "10.1016/j.jcin.2026.08.036",
+   "reason": "case report (no abstract); excluded"
+  },
+  {
+   "title": "Prosthesis Infolding During Transcatheter Mitral Valve Replacement.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "43003611",
+   "doi": "10.1016/j.jcin.2026.08.034",
+   "reason": "case/image report (no abstract); excluded"
+  },
+  {
+   "title": "Is Bilateral Occlusion Mandatory?",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "43003609",
+   "doi": "10.1016/j.jcin.2026.07.046",
+   "reason": "case-style commentary (no abstract); excluded"
+  },
+  {
+   "title": "Progressive Calcification and Stenosis of a Quadricuspid Aortic Valve.",
+   "journal": "Circulation",
+   "pmid": "43002708",
+   "doi": "10.1161/circulationaha.126.082295",
+   "reason": "image/case article (no abstract); excluded"
+  },
+  {
+   "title": "Reconsidering β-Blockers in HFpEF: An Urgent Priority.",
+   "journal": "Circulation",
+   "pmid": "43002707",
+   "doi": "10.1161/circulationaha.126.083111",
+   "reason": "editorial/perspective (no abstract); excluded"
+  },
+  {
+   "title": "Low Peak Volume of Oxygen Consumption on Cardiopulmonary Exercise Testing.",
+   "journal": "Circulation",
+   "pmid": "43002704",
+   "doi": "10.1161/circulationaha.126.080522",
+   "reason": "clinical-case style article (no abstract); excluded"
+  },
+  {
+   "title": "Technology and Intelligence: Staying on Target for the Next Decade of Electrophysiology.",
+   "journal": "Circulation",
+   "pmid": "43002702",
+   "doi": "10.1161/circulationaha.126.080523",
+   "reason": "editorial/perspective (no abstract); excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "date": "2026-11-11",
+ "label": "Wednesday 11 November 2026: Circulation",
+ "journals": [
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-11-10",
+  "end": "2026-11-11",
+  "basis": "PubMed entry date 10–11 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-11T08:58",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 2,
+   "included": 2
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 3,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 4,
+   "included": 0
+  }
+ },
+ "n_papers": 2,
+ "n_interventional": 1,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Off-Pump versus On-Pump Coronary Artery Bypass Grafting in Prefrail and Frail Patients: 30-Day and 1-Year Outcomes From the FRAGILE Randomized Trial.",
+   "journal": "Circulation",
+   "date": "2026-11-10",
+   "pmid": "43006184",
+   "doi": "10.1161/circulationaha.125.078842",
+   "link": "https://doi.org/10.1161/circulationaha.125.078842",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43006184/",
+   "summary": "The FRAGILE randomised trial compared off-pump with on-pump CABG in 508 prefrail or frail patients aged 60 or older. The 30-day composite of death, MI, stroke, renal failure, ARDS or reoperation occurred in 10.9% with off-pump versus 16.0% with on-pump surgery (relative risk 1.47; 95% CI 0.94 to 2.31; P=0.09). Wound infection was more frequent with on-pump (8.0% versus 3.5%). One-year neurocognitive outcomes did not differ.",
+   "abstract_available": true,
+   "study_type": "Randomised open-label trial",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Generation of Human Cardiomyocytes With Adult-Like Metabolism by a Chemically Defined Medium for Mitochondrial Disease Modeling.",
+   "journal": "Circulation",
+   "date": "2026-11-10",
+   "pmid": "43006183",
+   "doi": "10.1161/circulationaha.126.080472",
+   "link": "https://doi.org/10.1161/circulationaha.126.080472",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43006183/",
+   "summary": "Researchers developed MM11, an 11-component chemically defined medium that matures human iPSC-derived cardiomyocytes. Two weeks of treatment increased mitochondrial respiration and fatty acid metabolism, produced interfibrillar mitochondria and respiratory supercomplexes, and raised oxidative phosphorylation. The authors conclude these cells model mitochondrial diseases, including Friedreich ataxia cardiomyopathy, more faithfully.",
+   "abstract_available": true,
+   "study_type": "Laboratory study",
+   "also_in": [],
+   "short_title": "a medium that matures stem-cell-derived heart cells for mitochondrial disease modelling"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "When Leaflet Thickening Becomes More Than an Imaging Finding",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1832",
+   "reason": "editorial comment (no abstract); excluded"
+  },
+  {
+   "title": "Right Heart Dysfunction in Valvular Heart Disease",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.08.035",
+   "reason": "no abstract, likely review/commentary; excluded (strict)"
+  },
+  {
+   "title": "Race, Risk, and What the Model Is For",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.003",
+   "reason": "editorial comment (no abstract); excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

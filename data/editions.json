@@ -1,7 +1,17 @@
 {
  "app": "Cardio Briefing",
- "latest": "2026-11-10",
+ "latest": "2026-11-11",
  "editions": [
+  {
+   "date": "2026-11-11",
+   "label": "Wednesday 11 November 2026: Circulation",
+   "n_papers": 2,
+   "n_interventional": 1,
+   "n_general": 1,
+   "audio": true,
+   "duration_s": 105.9,
+   "audio_bytes": 1059654
+  },
   {
    "date": "2026-11-10",
    "label": "Tuesday 10 November 2026: JACC, JACC: Cardiovascular Interventions, Circulation, NEJM, The Lancet",

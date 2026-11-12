@@ -1,0 +1,170 @@
+{
+ "date": "2026-11-12",
+ "label": "Thursday 12 November 2026: Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology",
+ "journals": [
+  "Circulation",
+  "Circulation: Cardiovascular Interventions",
+  "JAMA Cardiology"
+ ],
+ "window": {
+  "start": "2026-11-11",
+  "end": "2026-11-12",
+  "basis": "PubMed entry date 11–12 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-12T09:02",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 4,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 2,
+   "included": 2
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 7,
+   "included": 2
+  },
+  "NEJM": {
+   "pubmed_in_window": 21,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 10,
+   "included": 0
+  }
+ },
+ "n_papers": 5,
+ "n_interventional": 2,
+ "n_general": 3,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Case Volumes and Outcomes of Early-Career Operators Performing TAVR in the United States.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-11",
+   "pmid": "43012117",
+   "doi": "10.1161/circinterventions.126.016960",
+   "link": "https://doi.org/10.1161/circinterventions.126.016960",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43012117/",
+   "summary": "Using the STS/ACC TVT Registry, this study compared 90,376 TAVR procedures by early-career operators (5 years or less in independent practice) with the rest of 634,723 procedures by 3,126 operators. Early-career operators did fewer cases per year (median 13 versus 19). Adjusted 30-day mortality was similar (2.38% versus 2.44%; risk ratio 0.97; 95% CI 0.92 to 1.01), and the composite of death, stroke, major bleeding, stage III kidney injury or moderate-to-severe paravalvular leak was slightly lower (11.19% versus 11.77%; risk ratio 0.95; 95% CI 0.93 to 0.98).",
+   "abstract_available": true,
+   "study_type": "Registry cohort study",
+   "also_in": []
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Transcatheter Mitral Cerclage Ventriculoplasty: 5-Year Outcomes.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-11",
+   "pmid": "43012111",
+   "doi": "10.1161/circinterventions.126.017202",
+   "link": "https://doi.org/10.1161/circinterventions.126.017202",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43012111/",
+   "summary": "This NHLBI early feasibility study followed 18 participants (19 procedures) with functional mitral regurgitation and heart failure after transcatheter mitral cerclage ventriculoplasty. Estimated 5-year survival was 57%. One patient received an LVAD and one had mitral TEER; none had transplantation. The study was suspended after complete heart block in 6 participants, 4 needing new devices. Available echocardiography showed reduced mitral regurgitation and improved ejection fraction through 5 years, but symptom benefit faded after the first year.",
+   "abstract_available": true,
+   "study_type": "Prospective early feasibility study",
+   "also_in": []
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "First and Subsequent Major Cardiovascular Events With Oral Semaglutide in High-Risk Type 2 Diabetes: A Secondary Analysis of the SOUL Randomized Clinical Trial.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-11",
+   "pmid": "43013292",
+   "doi": "10.1001/jamacardio.2026.4944",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4944",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43013292/",
+   "summary": "In the SOUL trial of 9,650 adults with type 2 diabetes and atherosclerotic or kidney disease, oral semaglutide reduced total first and subsequent major cardiovascular events versus placebo: 683 versus 791 events, mean ratio 0.86 (95% CI 0.76 to 0.97). Adverse-event discontinuation was 15.5% versus 11.6%.",
+   "abstract_available": true,
+   "study_type": "Secondary analysis of a randomised trial",
+   "also_in": [],
+   "short_title": "oral semaglutide and total cardiovascular events in diabetes"
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Assessment of Coronary Inflammatory Risk From Noncontrast Cardiac Computed Tomography.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-11",
+   "pmid": "43013289",
+   "doi": "10.1001/jamacardio.2026.5006",
+   "link": "https://doi.org/10.1001/jamacardio.2026.5006",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43013289/",
+   "summary": "An AI algorithm measured coronary inflammation, the fat attenuation index, on noncontrast cardiac CT in cohorts of 6,818 and 19,110 people. The index stratified cardiovascular mortality across calcium score categories, most strongly at a score of zero. Adding it raised discrimination, with area under the curve rising from 0.76 to 0.80.",
+   "abstract_available": true,
+   "study_type": "Multicentre cohort study",
+   "also_in": [],
+   "short_title": "coronary inflammation on noncontrast CT beyond calcium score"
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Cardiovascular Health Promotion for US Veterans: Current State, Gaps, and Strategies: A Scientific Statement From the American Heart Association.",
+   "journal": "Circulation",
+   "date": "2026-11-11",
+   "pmid": "43012109",
+   "doi": "10.1161/cir.0000000000001452",
+   "link": "https://doi.org/10.1161/cir.0000000000001452",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43012109/",
+   "summary": "This American Heart Association scientific statement applies Life's Essential 8, extended to mental health and substance use, to US veterans. Veterans in Veterans Affairs care often achieve outcomes equal to or better than non-VA peers, but gaps remain in lifestyle, metabolic health, lipid and blood pressure control, mental health engagement and sleep disorders.",
+   "abstract_available": true,
+   "study_type": "AHA scientific statement",
+   "also_in": [],
+   "short_title": "cardiovascular health promotion for US veterans"
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Abstract P1060A: CPR Training Perception and Willingness to Act: A Cross-Sectional Survey of Pre-Medical Students",
+   "journal": "Circulation",
+   "pmid": null,
+   "doi": "10.1161/circ.154.suppl_1.p1060a",
+   "reason": "conference abstract (CPR training survey); excluded"
+  },
+  {
+   "title": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement.",
+   "journal": "NEJM",
+   "pmid": "43013818",
+   "doi": "10.1056/nejmoa2602435",
+   "reason": "not cardiology (VTE prophylaxis after arthroplasty); excluded (strict)"
+  },
+  {
+   "title": "Aging Populations and the Rising Burden of Cardiovascular Disease.",
+   "journal": "JAMA Cardiology",
+   "pmid": "43013296",
+   "doi": "10.1001/jamacardio.2026.4744",
+   "reason": "Viewpoint, no abstract; excluded"
+  },
+  {
+   "title": "JAMA Cardiology",
+   "journal": "JAMA Cardiology",
+   "pmid": null,
+   "doi": "10.1001/jamacardio.2025.3569",
+   "reason": "journal-level record, not a paper; excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

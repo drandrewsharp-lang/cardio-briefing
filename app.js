@@ -2,9 +2,15 @@
 'use strict';
 
 const SPEEDS = [1, 1.1, 1.2, 1.3, 1.4, 1.5];
-const DEFAULT_SPEED = 1.5;
-const LS_SPEED = 'cb.speed';
-const posKey = (d) => 'cb.pos.' + d;
+const DEFAULT_SPEED = 1.2;
+// v2 key (13 Nov 2026): the default changed from 1.5x to 1.2x, so any choice remembered under the old key
+// ('cb.speed') is ignored once; after that the listener's own choice is remembered again.
+const LS_SPEED = 'cb.speed.v2';
+// Resume positions are tied to the audio file (size in bytes), so a regenerated MP3 never resumes at a stale time.
+const posKey = (d) => {
+  const m = index && index.editions.find((e) => e.date === d);
+  return 'cb.pos.' + d + (m && m.audio_bytes ? '.' + m.audio_bytes : '');
+};
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 const $ = (id) => document.getElementById(id);
@@ -57,7 +63,9 @@ function extLink(url, text, cls) {
 }
 /* Audio must be a same-origin .mp3 under the app's own folder; anything else falls back to the default path. */
 function safeAudioUrl(u, date) {
-  const fallback = `data/${date}/briefing.mp3`;
+  const m = index && index.editions.find((e) => e.date === date);
+  // ?v=<bytes> busts any cached copy of an MP3 that was regenerated under the same name.
+  const fallback = `data/${date}/briefing.mp3` + (m && m.audio_bytes ? `?v=${Number(m.audio_bytes) || 0}` : '');
   if (typeof u !== 'string' || !u) return fallback;
   try {
     const x = new URL(u, location.href);

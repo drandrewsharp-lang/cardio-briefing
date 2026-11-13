@@ -4,11 +4,11 @@
 'use strict';
 
 const SPEEDS = [1, 1.1, 1.2, 1.3, 1.4, 1.5];
-const DEFAULT_SPEED = 1.5;
-const LS_SPEED = 'cb.speed';          // shared with the main page
+const DEFAULT_SPEED = 1.2;
+const LS_SPEED = 'cb.speed.v2';       // shared with the main page (v2: default reset to 1.2x once)
 const LS_SEL = 'cb.pl.selected';
 const LS_HEARD = 'cb.heard';          // dates played to the end (shared with the main page)
-const posKey = (d) => 'cb.pos.' + d;  // shared with the main page
+const posKey = (d) => { const m = meta(d); return 'cb.pos.' + d + (m && m.audio_bytes ? '.' + m.audio_bytes : ''); };  // same as main page
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const DAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October',
@@ -60,7 +60,11 @@ function fmtTime(sec) {
 }
 function fmtMin(sec) { const m = Math.max(1, Math.round(sec / 60)); return m >= 60 ? `${Math.floor(m / 60)} h ${m % 60} min` : `${m} min`; }
 function speedLabel(v) { return Number(v).toFixed(1) + '×'; }
-function audioUrl(d) { return DATE_RE.test(d) ? `data/${d}/briefing.mp3` : null; }
+function audioUrl(d) {
+  if (!DATE_RE.test(d)) return null;
+  const m = meta(d);
+  return `data/${d}/briefing.mp3` + (m && m.audio_bytes ? `?v=${m.audio_bytes}` : '');   // cache-bust regenerated audio
+}
 function meta(d) { return editions.find((e) => e.date === d); }
 
 /* ---------- speed (discrete 1.0-1.5 steps, remembered) ---------- */
@@ -306,7 +310,7 @@ async function init() {
     editions = (Array.isArray(idx.editions) ? idx.editions : [])
       .filter((e) => e && typeof e.date === 'string' && DATE_RE.test(e.date))
       .map((e) => ({ date: e.date, audio: e.audio !== false, n_papers: Number(e.n_papers) || 0,
-        duration_s: Number(e.duration_s) || 0 }))
+        duration_s: Number(e.duration_s) || 0, audio_bytes: Math.max(0, Math.floor(Number(e.audio_bytes) || 0)) }))
       .sort((a, b) => b.date.localeCompare(a.date));
   } catch (e) {
     $('pl-list').replaceChildren(h('li', { class: 'error' }, 'Could not load editions (' + e.message + ').'));

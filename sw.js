@@ -1,12 +1,12 @@
 /* Cardio Briefing service worker.
- * - App shell: stale-while-revalidate (opens instantly, updates in the background).
+ * - App shell: network-first with a 3.5 s timeout, cache fallback offline (updates show on the next open).
  * - data/editions.json and data/<date>/edition.json: network-first (always fresh when online), cache fallback offline.
  * - MP3s: not intercepted at all (the browser streams them with Range requests; nothing stale is ever served).
  * - Security: only same-origin GET requests under this app's scope are handled or cached. Everything else
  *   (other origins, other repos on the same github.io origin, non-GET) passes straight through untouched,
  *   and only successful, non-redirected same-origin ('basic') responses are ever written to the cache.
  */
-const VERSION = 'cb-v4';
+const VERSION = 'cb-v5';
 const SHELL = VERSION + '-shell';
 const DATA = VERSION + '-data';
 const SHELL_FILES = [
@@ -46,21 +46,25 @@ async function networkFirst(req) {
   }
 }
 
-async function staleWhileRevalidate(event, req) {
+/* App shell: network-first with a short timeout (fresh page/JS/CSS whenever online, so an update is seen on the
+ * very next open), falling back to the cached copy when offline or the network is slow. */
+async function shellNetworkFirst(event, req) {
   const cache = await caches.open(SHELL);
-  // Navigations to the app root share the cached index.html; other pages (playlist.html) are cached as themselves.
   const p = new URL(req.url).pathname;
+  // Navigations to the app root share the cached index.html; other pages (playlist.html) are cached as themselves.
   const key = req.mode === 'navigate' && (p === SCOPE_PATH || p.endsWith('/index.html')) ? 'index.html' : req;
-  const hit = await cache.match(key, { ignoreSearch: true });
-  const update = fetch(req, { cache: 'no-cache' }).then((res) => {
+  const net = fetch(req, { cache: 'no-cache' }).then((res) => {
     if (cacheable(res)) cache.put(key, res.clone());
     return res;
   });
-  if (hit) {
-    event.waitUntil(update.catch(() => {}));
-    return hit;
-  }
-  return update;
+  const timeout = new Promise((resolve) => setTimeout(resolve, 3500, null));
+  try {
+    const res = await Promise.race([net, timeout]);
+    if (res) return res;
+  } catch { /* offline: fall back to cache */ }
+  const hit = await cache.match(key, { ignoreSearch: true });
+  if (hit) { event.waitUntil(net.catch(() => {})); return hit; }
+  return net;
 }
 
 self.addEventListener('fetch', (event) => {
@@ -72,5 +76,5 @@ self.addEventListener('fetch', (event) => {
   const path = url.pathname.slice(SCOPE_PATH.length);
   if (/\.mp3$/i.test(path)) return;                       // let the browser handle audio directly
   if (path.startsWith('data/')) { event.respondWith(networkFirst(req)); return; }
-  event.respondWith(staleWhileRevalidate(event, req));
+  event.respondWith(shellNetworkFirst(event, req));
 });

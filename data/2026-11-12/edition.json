@@ -1,6 +1,7 @@
 {
  "date": "2026-11-12",
- "label": "Thursday 12 November 2026: Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology",
+ "label": "Thursday 12 November 2026",
+ "format": 2,
  "journals": [
   "Circulation",
   "Circulation: Cardiovascular Interventions",
@@ -11,7 +12,7 @@
   "end": "2026-11-12",
   "basis": "PubMed entry date 11–12 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
  },
- "generated_at": "2026-11-12T09:02",
+ "generated_at": "2026-11-13T00:04",
  "counts": {
   "EuroIntervention": {
    "pubmed_in_window": 0,
@@ -64,10 +65,27 @@
    "doi": "10.1161/circinterventions.126.016960",
    "link": "https://doi.org/10.1161/circinterventions.126.016960",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43012117/",
-   "summary": "Using the STS/ACC TVT Registry, this study compared 90,376 TAVR procedures by early-career operators (5 years or less in independent practice) with the rest of 634,723 procedures by 3,126 operators. Early-career operators did fewer cases per year (median 13 versus 19). Adjusted 30-day mortality was similar (2.38% versus 2.44%; risk ratio 0.97; 95% CI 0.92 to 1.01), and the composite of death, stroke, major bleeding, stage III kidney injury or moderate-to-severe paravalvular leak was slightly lower (11.19% versus 11.77%; risk ratio 0.95; 95% CI 0.93 to 0.98).",
+   "short_title": "operator experience and TAVR outcomes",
+   "summary": "This analysis of the STS/ACC TVT Registry asked whether early-career TAVR operators, defined as 5 years or less in independent practice, achieve outcomes comparable to more experienced peers. It included 634,723 isolated TAVR procedures performed between October 2011 and March 2024 by 3,126 operators at 847 US sites; 90,376 procedures (14.2%) were done by early-career operators. Hierarchical models adjusted for patient, procedural, operator and site factors, including institutional TAVR volume. Early-career operators performed fewer cases, with a median annualised lifetime volume of 13 versus 19 per year. After adjustment, 30-day mortality was similar (2.38% versus 2.44%; risk ratio 0.97, 95% CI 0.92 to 1.01). The 30-day composite of death, stroke, major bleeding, stage III acute kidney injury or moderate-to-severe paravalvular leak was modestly lower with early-career operators (11.19% versus 11.77%; risk ratio 0.95, 95% CI 0.93 to 0.98). The authors conclude that early-career status alone should not be a barrier to independent practice.",
    "abstract_available": true,
    "study_type": "Registry cohort study",
-   "also_in": []
+   "also_in": [],
+   "critique": "Best: an enormous national registry spanning thirteen years, hierarchical models that account for clustering and adjust for institutional volume, and a practical workforce question. Weakest: it is observational, so residual confounding is likely. Early-career operators usually work within established heart teams, often alongside senior colleagues, which the registry cannot capture, and case selection may differ. Outcomes stop at 30 days, so valve durability and late events are unknown, and the composite difference of 0.6 percentage points is small. No independent commentary on this paper was found yet; TCTMD's report on a related TVT volume study quoted its lead author, Dharam Kumbhani, cautioning that such analyses show association, not causation.",
+   "critique_sources": [
+    {
+     "outlet": "TCTMD",
+     "title": "Worse TAVI and M-TEER Outcomes Seen With Low-Volume Operators",
+     "url": "https://www.tctmd.com/news/worse-tavi-and-m-teer-outcomes-seen-low-volume-operators",
+     "kind": "related"
+    },
+    {
+     "outlet": "Circulation (AHA 2025 abstract)",
+     "title": "Case volumes and outcomes of early career interventional cardiologists performing TAVR in the United States",
+     "url": "https://doi.org/10.1161/circ.152.suppl_3.4346009",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
   },
   {
    "category": "interventional",
@@ -79,10 +97,21 @@
    "doi": "10.1161/circinterventions.126.017202",
    "link": "https://doi.org/10.1161/circinterventions.126.017202",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43012111/",
-   "summary": "This NHLBI early feasibility study followed 18 participants (19 procedures) with functional mitral regurgitation and heart failure after transcatheter mitral cerclage ventriculoplasty. Estimated 5-year survival was 57%. One patient received an LVAD and one had mitral TEER; none had transplantation. The study was suspended after complete heart block in 6 participants, 4 needing new devices. Available echocardiography showed reduced mitral regurgitation and improved ejection fraction through 5 years, but symptom benefit faded after the first year.",
+   "short_title": "five-year results of transcatheter mitral cerclage ventriculoplasty",
+   "summary": "This prospective, multicentre NHLBI early feasibility study reports 5-year follow-up after transcatheter mitral cerclage ventriculoplasty. The device places a circumferential tensioning loop around the base of the left ventricle to reduce mitral annular dimensions in patients with functional mitral regurgitation and heart failure. Nineteen procedures were attempted in 18 participants with a median age of 73 years; 63% were female, 63% had reduced and 37% preserved ejection fraction. Between 1 and 5 years the investigators collected vital status, serious adverse events, clinical records and site-reported echocardiography. Kaplan-Meier estimated 5-year survival was 57%. One participant received an LVAD after 2 years and one underwent mitral TEER after 3 years; none had heart transplantation. The study was suspended after complete heart block developed in 6 participants, 4 of whom needed new cardiac devices. Among those with follow-up imaging, mitral regurgitation fell and ejection fraction improved through 5 years, but symptom benefit was greatest in the first year and faded thereafter.",
    "abstract_available": true,
    "study_type": "Prospective early feasibility study",
-   "also_in": []
+   "also_in": [],
+   "critique": "Best: rare five-year data on a novel, implant-light transcatheter approach from an experienced NHLBI team, with candid reporting of a serious safety signal. Weakest: only 18 participants, no control group and incomplete follow-up. The full text notes that after year one echocardiography was site-reported without core laboratory review, medications were not recorded, and symptoms were taken retrospectively from clinic notes rather than validated tools such as KCCQ. Complete heart block in a third of patients, which halted the study, is a major barrier to adoption, and 57% survival cannot be attributed to the device. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "Circulation: Cardiovascular Interventions",
+     "title": "Transcatheter Mitral Cerclage Ventriculoplasty: 5-Year Outcomes (full text, limitations)",
+     "url": "https://www.ahajournals.org/doi/full/10.1161/CIRCINTERVENTIONS.126.017202",
+     "kind": "full_text"
+    }
+   ],
+   "commentary_found": false
   },
   {
    "category": "general",
@@ -94,11 +123,12 @@
    "doi": "10.1001/jamacardio.2026.4944",
    "link": "https://doi.org/10.1001/jamacardio.2026.4944",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43013292/",
-   "summary": "In the SOUL trial of 9,650 adults with type 2 diabetes and atherosclerotic or kidney disease, oral semaglutide reduced total first and subsequent major cardiovascular events versus placebo: 683 versus 791 events, mean ratio 0.86 (95% CI 0.76 to 0.97). Adverse-event discontinuation was 15.5% versus 11.6%.",
+   "short_title": "oral semaglutide and total cardiovascular events in diabetes",
+   "summary": "This prespecified secondary analysis of the double-blind SOUL trial randomised 9,650 adults with type 2 diabetes and atherosclerotic cardiovascular disease, chronic kidney disease or both to once-daily oral semaglutide, up to 14 mg, or placebo, with median follow-up of 49.5 months. Counting first and subsequent events, there were 683 major adverse cardiovascular events with semaglutide versus 791 with placebo (mean ratio 0.86, 95% CI 0.76 to 0.97). Discontinuation for adverse events was 15.5% versus 11.6%.",
    "abstract_available": true,
    "study_type": "Secondary analysis of a randomised trial",
    "also_in": [],
-   "short_title": "oral semaglutide and total cardiovascular events in diabetes"
+   "relevance": "A tablet GLP-1 option that reduces the total, not just first, burden of MI, stroke and cardiovascular death in high-risk diabetic patients, many of whom pass through the cath lab."
   },
   {
    "category": "general",
@@ -110,11 +140,12 @@
    "doi": "10.1001/jamacardio.2026.5006",
    "link": "https://doi.org/10.1001/jamacardio.2026.5006",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43013289/",
-   "summary": "An AI algorithm measured coronary inflammation, the fat attenuation index, on noncontrast cardiac CT in cohorts of 6,818 and 19,110 people. The index stratified cardiovascular mortality across calcium score categories, most strongly at a score of zero. Adding it raised discrimination, with area under the curve rising from 0.76 to 0.80.",
+   "short_title": "coronary inflammation on noncontrast CT beyond calcium score",
+   "summary": "In this multicentre cohort, an artificial intelligence algorithm measured the coronary fat attenuation index, a marker of coronary inflammation, on noncontrast cardiac CT performed for calcium scoring. It was derived in 6,818 people and validated in 19,110, with 536 cardiovascular deaths over a median 6.7 years. The index stratified cardiovascular mortality across calcium score categories, most strongly at a score of zero, and improved discrimination when added to calcium score, raising the area under the curve from 0.76 to 0.80.",
    "abstract_available": true,
    "study_type": "Multicentre cohort study",
    "also_in": [],
-   "short_title": "coronary inflammation on noncontrast CT beyond calcium score"
+   "relevance": "If confirmed prospectively, a routine calcium-score scan could also flag inflamed but calcium-free coronaries in patients now labelled low risk."
   },
   {
    "category": "general",
@@ -126,11 +157,12 @@
    "doi": "10.1161/cir.0000000000001452",
    "link": "https://doi.org/10.1161/cir.0000000000001452",
    "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43012109/",
-   "summary": "This American Heart Association scientific statement applies Life's Essential 8, extended to mental health and substance use, to US veterans. Veterans in Veterans Affairs care often achieve outcomes equal to or better than non-VA peers, but gaps remain in lifestyle, metabolic health, lipid and blood pressure control, mental health engagement and sleep disorders.",
+   "short_title": "cardiovascular health promotion for US veterans",
+   "summary": "This American Heart Association scientific statement applies the Life's Essential 8 framework, extended to mental health and substance use, to US veterans, a population with high cardiovascular risk shaped by military service. It reviews guidelines, barriers and Veterans Affairs programmes such as team-based primary care, MOVE! weight management and telehealth. Veterans in VA care often match or exceed non-VA peers, but gaps remain in lifestyle, metabolic health, lipid and blood pressure control, mental health care and sleep disorders.",
    "abstract_available": true,
    "study_type": "AHA scientific statement",
    "also_in": [],
-   "short_title": "cardiovascular health promotion for US veterans"
+   "relevance": "Mainly of US health-system interest, with little direct bearing on interventional practice in Ireland."
   }
  ],
  "excluded": [

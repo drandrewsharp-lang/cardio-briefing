@@ -4,17 +4,19 @@
  "editions": [
   {
    "date": "2026-11-12",
-   "label": "Thursday 12 November 2026: Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology",
+   "label": "Thursday 12 November 2026",
+   "format": 2,
    "n_papers": 5,
    "n_interventional": 2,
    "n_general": 3,
    "audio": true,
-   "duration_s": 246.9,
-   "audio_bytes": 2469019
+   "duration_s": 459.6,
+   "audio_bytes": 4595873
   },
   {
    "date": "2026-11-11",
    "label": "Wednesday 11 November 2026: Circulation",
+   "format": 1,
    "n_papers": 2,
    "n_interventional": 1,
    "n_general": 1,
@@ -25,6 +27,7 @@
   {
    "date": "2026-11-10",
    "label": "Tuesday 10 November 2026: JACC, JACC: Cardiovascular Interventions, Circulation, NEJM, The Lancet",
+   "format": 1,
    "n_papers": 13,
    "n_interventional": 7,
    "n_general": 6,
@@ -35,6 +38,7 @@
   {
    "date": "2026-11-09",
    "label": "Monday 9 November 2026: JACC, JACC: Cardiovascular Interventions, Circulation, JAMA Cardiology, NEJM, The Lancet, JAMA",
+   "format": 1,
    "n_papers": 22,
    "n_interventional": 7,
    "n_general": 15,
@@ -45,6 +49,7 @@
   {
    "date": "2026-11-06",
    "label": "Friday 6 November 2026: Circulation",
+   "format": 1,
    "n_papers": 1,
    "n_interventional": 0,
    "n_general": 1,
@@ -55,6 +60,7 @@
   {
    "date": "2026-11-05",
    "label": "Thursday 5 November 2026: NEJM",
+   "format": 1,
    "n_papers": 2,
    "n_interventional": 1,
    "n_general": 1,
@@ -65,6 +71,7 @@
   {
    "date": "2026-11-04",
    "label": "Wednesday 4 November 2026: EuroIntervention, JACC, Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology, The Lancet",
+   "format": 1,
    "n_papers": 13,
    "n_interventional": 11,
    "n_general": 2,
@@ -75,6 +82,7 @@
   {
    "date": "2026-11-03",
    "label": "Tuesday 3 November 2026: EuroIntervention, JACC, JACC: Cardiovascular Interventions, Circulation, Circulation: Cardiovascular Interventions, NEJM, JAMA",
+   "format": 1,
    "n_papers": 7,
    "n_interventional": 6,
    "n_general": 1,
@@ -85,6 +93,7 @@
   {
    "date": "2026-11-02",
    "label": "Monday 2 November 2026: JACC: Cardiovascular Interventions, Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology, NEJM",
+   "format": 1,
    "n_papers": 22,
    "n_interventional": 17,
    "n_general": 5,
@@ -95,6 +104,7 @@
   {
    "date": "2026-10-30",
    "label": "Friday 30 October 2026: Circulation: Cardiovascular Interventions, The Lancet",
+   "format": 1,
    "n_papers": 2,
    "n_interventional": 1,
    "n_general": 1,
@@ -105,6 +115,7 @@
   {
    "date": "2026-10-29",
    "label": "Thursday 29 October 2026: JACC, JAMA",
+   "format": 1,
    "n_papers": 3,
    "n_interventional": 0,
    "n_general": 3,
@@ -115,6 +126,7 @@
   {
    "date": "2026-10-27",
    "label": "Tuesday 27 October 2026: EuroIntervention, JACC: Cardiovascular Interventions, Circulation",
+   "format": 1,
    "n_papers": 16,
    "n_interventional": 10,
    "n_general": 6,
@@ -125,6 +137,7 @@
   {
    "date": "2026-10-26",
    "label": "Monday 26 October 2026: EuroIntervention, JACC: Cardiovascular Interventions, JAMA Cardiology, JAMA",
+   "format": 1,
    "n_papers": 7,
    "n_interventional": 4,
    "n_general": 3,
@@ -135,6 +148,7 @@
   {
    "date": "2026-10-23",
    "label": "Friday 23 October 2026: JACC: Cardiovascular Interventions, Circulation",
+   "format": 1,
    "n_papers": 5,
    "n_interventional": 4,
    "n_general": 1,
@@ -145,6 +159,7 @@
   {
    "date": "2026-10-22",
    "label": "Thursday 22 October 2026: JACC, JAMA Cardiology",
+   "format": 1,
    "n_papers": 2,
    "n_interventional": 0,
    "n_general": 2,
@@ -155,6 +170,7 @@
   {
    "date": "2026-10-21",
    "label": "Wednesday 21 October 2026: Circulation, Circulation: Cardiovascular Interventions",
+   "format": 1,
    "n_papers": 2,
    "n_interventional": 1,
    "n_general": 1,
@@ -165,6 +181,7 @@
   {
    "date": "2026-10-20",
    "label": "Tuesday 20 October 2026: Circulation, JAMA",
+   "format": 1,
    "n_papers": 3,
    "n_interventional": 0,
    "n_general": 3,
@@ -175,6 +192,7 @@
   {
    "date": "2026-10-19",
    "label": "Monday 19 October 2026: EuroIntervention, JACC",
+   "format": 1,
    "n_papers": 2,
    "n_interventional": 1,
    "n_general": 1,
@@ -185,6 +203,7 @@
   {
    "date": "2026-10-16",
    "label": "Friday 16 October 2026: JACC, Circulation: Cardiovascular Interventions",
+   "format": 1,
    "n_papers": 3,
    "n_interventional": 2,
    "n_general": 1,
@@ -195,6 +214,7 @@
   {
    "date": "2026-10-15",
    "label": "Thursday 15 October 2026: JACC, JAMA Cardiology",
+   "format": 1,
    "n_papers": 2,
    "n_interventional": 1,
    "n_general": 1,
@@ -205,6 +225,7 @@
   {
    "date": "2026-10-14",
    "label": "Wednesday 14 October 2026: EuroIntervention, JACC, JACC: Cardiovascular Interventions, Circulation",
+   "format": 1,
    "n_papers": 13,
    "n_interventional": 10,
    "n_general": 3,
@@ -215,6 +236,7 @@
   {
    "date": "2026-10-12",
    "label": "Monday 12 October 2026: Circulation",
+   "format": 1,
    "n_papers": 1,
    "n_interventional": 0,
    "n_general": 1,
@@ -225,6 +247,7 @@
   {
    "date": "2026-10-08",
    "label": "Thursday 8 October 2026: JAMA Cardiology, JAMA",
+   "format": 1,
    "n_papers": 3,
    "n_interventional": 0,
    "n_general": 3,
@@ -235,6 +258,7 @@
   {
    "date": "2026-10-07",
    "label": "Wednesday 7 October 2026: EuroIntervention, JACC: Cardiovascular Interventions, Circulation",
+   "format": 1,
    "n_papers": 8,
    "n_interventional": 5,
    "n_general": 3,
@@ -245,6 +269,7 @@
   {
    "date": "2026-10-06",
    "label": "Tuesday 6 October 2026: JACC, Circulation",
+   "format": 1,
    "n_papers": 3,
    "n_interventional": 1,
    "n_general": 2,
@@ -255,6 +280,7 @@
   {
    "date": "2026-10-02",
    "label": "Friday 2 October 2026: Circulation",
+   "format": 1,
    "n_papers": 1,
    "n_interventional": 0,
    "n_general": 1,
@@ -265,6 +291,7 @@
   {
    "date": "2026-10-01",
    "label": "Thursday 1 October 2026: JACC, JAMA Cardiology, The Lancet",
+   "format": 1,
    "n_papers": 7,
    "n_interventional": 0,
    "n_general": 7,
@@ -275,6 +302,7 @@
   {
    "date": "2026-09-29",
    "label": "Tuesday 29 September 2026: EuroIntervention, JACC: Cardiovascular Interventions, Circulation, Circulation: Cardiovascular Interventions, JAMA Cardiology, The Lancet",
+   "format": 1,
    "n_papers": 26,
    "n_interventional": 14,
    "n_general": 12,

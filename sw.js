@@ -6,11 +6,11 @@
  *   (other origins, other repos on the same github.io origin, non-GET) passes straight through untouched,
  *   and only successful, non-redirected same-origin ('basic') responses are ever written to the cache.
  */
-const VERSION = 'cb-v3';
+const VERSION = 'cb-v4';
 const SHELL = VERSION + '-shell';
 const DATA = VERSION + '-data';
 const SHELL_FILES = [
-  './', 'index.html', 'app.js', 'style.css', 'manifest.json',
+  './', 'index.html', 'app.js', 'playlist.html', 'playlist.js', 'style.css', 'manifest.json',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png',
 ];
 
@@ -48,7 +48,9 @@ async function networkFirst(req) {
 
 async function staleWhileRevalidate(event, req) {
   const cache = await caches.open(SHELL);
-  const key = req.mode === 'navigate' ? 'index.html' : req;
+  // Navigations to the app root share the cached index.html; other pages (playlist.html) are cached as themselves.
+  const p = new URL(req.url).pathname;
+  const key = req.mode === 'navigate' && (p === SCOPE_PATH || p.endsWith('/index.html')) ? 'index.html' : req;
   const hit = await cache.match(key, { ignoreSearch: true });
   const update = fetch(req, { cache: 'no-cache' }).then((res) => {
     if (cacheable(res)) cache.put(key, res.clone());

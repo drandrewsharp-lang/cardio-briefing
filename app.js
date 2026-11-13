@@ -1,7 +1,7 @@
 /* Cardio Briefing - static PWA. No framework, no build step. */
 'use strict';
 
-const SPEEDS = [1, 1.25, 1.5, 1.75, 2];
+const SPEEDS = [1, 1.1, 1.2, 1.3, 1.4, 1.5];
 const DEFAULT_SPEED = 1.5;
 const LS_SPEED = 'cb.speed';
 const posKey = (d) => 'cb.pos.' + d;
@@ -86,12 +86,14 @@ async function getJSON(url) {
   if (!r.ok) throw new Error(`${url}: HTTP ${r.status}`);
   return r.json();
 }
-function speedLabel(v) { return String(v).replace(/^(\d)$/, '$1') + '×'; }
+function speedLabel(v) { return Number(v).toFixed(1) + '×'; }
 
 /* ---------- speed ---------- */
 function getSpeed() {
   const v = parseFloat(localStorage.getItem(LS_SPEED));
-  return SPEEDS.includes(v) ? v : DEFAULT_SPEED;
+  if (!isFinite(v)) return DEFAULT_SPEED;
+  // Snap any older stored choice (1.25, 1.75, 2...) onto the 1.0-1.5 steps.
+  return SPEEDS.reduce((best, s) => (Math.abs(s - v) < Math.abs(best - v) ? s : best), SPEEDS[0]);
 }
 function applySpeed() {
   const r = getSpeed();
@@ -203,7 +205,7 @@ function setMediaMetadata() {
   if (!('mediaSession' in navigator) || !current || typeof MediaMetadata === 'undefined') return;
   const abs = (p) => new URL(p, location.href).href;
   navigator.mediaSession.metadata = new MediaMetadata({
-    title: current.ed.label || current.meta.label,
+    title: splitLabel(current.ed.label || current.meta.label)[0],
     artist: 'Cardio Briefing',
     album: `${current.meta.n_papers} papers`,
     artwork: [
@@ -245,7 +247,16 @@ function bindPlayer() {
   });
   audio.addEventListener('seeked', updatePositionState);
   audio.addEventListener('ended', () => {
-    if (current) localStorage.removeItem(posKey(current.meta.date));
+    if (current) {
+      localStorage.removeItem(posKey(current.meta.date));
+      try {   // shared with the playlist page ("Heard" badge, "Not yet heard" helper)
+        const heard = JSON.parse(localStorage.getItem('cb.heard') || '[]');
+        if (Array.isArray(heard) && !heard.includes(current.meta.date)) {
+          heard.push(current.meta.date);
+          localStorage.setItem('cb.heard', JSON.stringify(heard.sort().slice(-400)));
+        }
+      } catch { /* storage unavailable */ }
+    }
     setPlayingUI(false);
   });
   audio.addEventListener('error', () => {
@@ -273,7 +284,7 @@ function bindPlayer() {
 
 /* ---------- rendering ---------- */
 function renderHeader(meta, ed) {
-  const [d, j] = splitLabel(ed.label || meta.label);
+  const [d] = splitLabel(ed.label || meta.label);
   const isLatest = index && index.editions[0] && index.editions[0].date === meta.date;
   const nI = ed.n_interventional ?? ed.papers.filter((p) => p.category === 'interventional').length;
   const nG = ed.n_general ?? ed.papers.filter((p) => p.category === 'general').length;
@@ -281,7 +292,7 @@ function renderHeader(meta, ed) {
   const w = ed.window || {};
   $('edition').replaceChildren(h('div', { class: 'ed-head' },
     h('p', { class: 'ed-kicker' }, isLatest ? 'Latest edition' : 'Past edition'),
-    h('h1', { class: 'ed-title' }, d, j ? h('span', { class: 'journals' }, j) : null),
+    h('h1', { class: 'ed-title' }, d),
     h('p', { class: 'ed-meta' },
       `${n} paper${n === 1 ? '' : 's'} · ${nI} interventional · ${nG} general`,
       w.start && w.end ? ` · window ${fmtDate(w.start)} to ${fmtDate(w.end)}` : ''),
@@ -298,6 +309,21 @@ function paperLinks(p) {
   return links.length ? h('div', { class: 'links' }, links) : null;
 }
 
+/* Critique (format 2): text plus attributed, https-only source links. Everything goes through h(). */
+const KIND = { related: 'related coverage, not about this paper', full_text: 'paper full text' };
+function critiqueBlock(p) {
+  const srcs = (Array.isArray(p.critique_sources) ? p.critique_sources : []).filter((x) => x && typeof x === 'object');
+  const items = srcs.map((x) => {
+    const label = `${x.outlet || 'Source'}${x.title ? ': ' + x.title : ''}`;
+    const link = extLink(x.url, label);
+    return link ? h('li', {}, link, KIND[x.kind] ? h('span', { class: 'kind' }, ` (${KIND[x.kind]})`) : null) : null;
+  }).filter(Boolean);
+  return h('div', { class: 'crit' },
+    h('p', { class: 'crit-h' }, 'Critique'),
+    h('p', { class: 'crit-t' }, String(p.critique)),
+    items.length ? h('ul', { class: 'crit-src' }, items) : null);
+}
+
 function renderDigest(ed) {
   const byRank = (a, b) => (a.rank ?? 99) - (b.rank ?? 99);
   const interv = ed.papers.filter((p) => p.category === 'interventional').sort(byRank);
@@ -308,12 +334,14 @@ function renderDigest(ed) {
   if (!interv.length) out.push(h('p', { class: 'card gsum' }, 'No new interventional papers in this edition.'));
   interv.forEach((p, i) => {
     out.push(h('article', { class: 'card paper' },
+      h('p', { class: 'jrnl' }, String(p.journal || '')),
       h('h3', {}, h('span', { class: 'num' }, `${i + 1}.`), extLink(p.link, p.title) || p.title),
-      h('p', { class: 'src' }, h('b', {}, p.journal), ' · ', fmtDate(p.date),
+      h('p', { class: 'src' }, fmtDate(p.date),
         p.study_type ? h('span', { class: 'type' }, p.study_type) : null),
       p.summary
-        ? h('p', { class: 'sum' }, p.summary)
+        ? h('p', { class: 'sum' }, String(p.summary))
         : h('p', { class: 'sum na' }, 'Abstract not available; title only.'),
+      p.critique ? critiqueBlock(p) : null,
       paperLinks(p),
     ));
   });
@@ -328,14 +356,16 @@ function renderDigest(ed) {
     out.push(h('ul', { class: 'card glist' }, gen.map((p, i) => {
       const noAbs = p.abstract_available === false;
       return h('li', {}, h('div', { class: 'g' },
+        h('p', { class: 'jrnl' }, String(p.journal || '')),
         h('div', { class: 'gt' }, h('span', { class: 'num' }, `${i + 1}.`),
           extLink(p.link, p.title, 't') || h('span', { class: 't' }, p.title)),
-        h('div', { class: 'src' }, h('b', {}, p.journal), ' · ', fmtDate(p.date),
+        h('div', { class: 'src' }, fmtDate(p.date),
           noAbs ? ' · abstract not available' : '',
           Array.isArray(p.also_in) && p.also_in.length ? h('span', { class: 'also' }, ' · also in ' + p.also_in.map((a) => a && a.journal).join(', ')) : null),
         p.summary
           ? h('p', { class: 'gs' }, String(p.summary))
           : (ed.general_summary ? null : h('p', { class: 'gs na' }, noAbs ? 'Abstract not available; title only.' : 'No summary.')),
+        p.relevance ? h('p', { class: 'rel' }, h('b', {}, 'Why it matters: '), String(p.relevance)) : null,
         paperLinks(p),
       ));
     })));
@@ -347,11 +377,11 @@ function renderPast() {
   const list = $('past-list');
   if (!index || !index.editions.length) { list.replaceChildren(h('li', {}, 'No editions yet.')); return; }
   list.replaceChildren(...index.editions.map((e) => {
-    const [d, j] = splitLabel(e.label);
+    const [d] = splitLabel(e.label);
     return h('li', {}, h('a', {
       href: '#' + e.date, 'aria-current': String(!!current && current.meta.date === e.date),
-      'aria-label': e.label,
-    }, h('span', { class: 'd' }, d), j ? h('span', { class: 'j' }, j) : null,
+      'aria-label': d,
+    }, h('span', { class: 'd' }, d),
       h('span', { class: 'n' }, `${e.n_papers} papers` + (e.duration_s ? ` · ${Math.round(e.duration_s / 60)} min audio` : ''))));
   }));
 }

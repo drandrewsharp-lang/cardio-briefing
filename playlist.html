@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en-IE">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; media-src 'self'; connect-src 'self'; manifest-src 'self'; worker-src 'self'; font-src 'self'; base-uri 'none'; form-action 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Play several days · Cardio Briefing</title>
+  <meta name="theme-color" content="#f6f4f1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#15161a" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Cardio">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="pl-page">
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Back to the latest edition">
+      <img src="icons/favicon-32.png" alt="" width="22" height="22"> Cardio Briefing
+    </a>
+    <a class="topbar-link back-link" href="./">‹ Latest edition</a>
+  </header>
+
+  <main id="main">
+    <div class="ed-head">
+      <p class="ed-kicker">Archive</p>
+      <h1 class="ed-title">Play several days</h1>
+      <p class="ed-meta">Tick the days you missed, then press Play. They play back to back, oldest first.</p>
+    </div>
+
+    <section class="card player pl-player" id="pl-player" hidden aria-label="Playlist player">
+      <p class="pl-now-k" id="pl-now-k">Now playing</p>
+      <p class="pl-now" id="pl-now">–</p>
+      <div class="times"><span id="cur">0:00</span><span id="left">-0:00</span></div>
+      <input id="scrub" type="range" min="0" max="1000" step="1" value="0" aria-label="Seek">
+      <div class="controls pl-controls">
+        <button id="prev" class="round" aria-label="Previous day">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h2v14H6zM19 5.8v12.4a.8.8 0 0 1-1.24.67L9.5 13.2a1.4 1.4 0 0 1 0-2.4l8.26-5.67A.8.8 0 0 1 19 5.8z"/></svg>
+        </button>
+        <button id="back" class="round" aria-label="Back 15 seconds">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5V2L7 6l5 4V7a6 6 0 1 1-6 6H4a8 8 0 1 0 8-8z"/><text x="12" y="16.3" text-anchor="middle">15</text></svg>
+        </button>
+        <button id="play" class="round big" aria-label="Play">
+          <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>
+          <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1.2"/><rect x="14" y="5" width="4" height="14" rx="1.2"/></svg>
+        </button>
+        <button id="fwd" class="round" aria-label="Forward 30 seconds">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5V2l5 4-5 4V7a6 6 0 1 0 6 6h2a8 8 0 1 1-8-8z"/><text x="12" y="16.3" text-anchor="middle">30</text></svg>
+        </button>
+        <button id="next" class="round" aria-label="Next day">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 5h2v14h-2zM5 5.8v12.4a.8.8 0 0 0 1.24.67l8.26-5.67a1.4 1.4 0 0 0 0-2.4L6.24 5.13A.8.8 0 0 0 5 5.8z"/></svg>
+        </button>
+      </div>
+      <div class="speed" role="radiogroup" aria-label="Playback speed" id="speed"></div>
+      <p class="audio-note" id="audio-note"></p>
+      <audio id="audio" preload="auto"></audio>
+    </section>
+
+    <div class="pl-helpers" role="group" aria-label="Quick select">
+      <button type="button" id="sel-7">Last 7 days</button>
+      <button type="button" id="sel-unheard">Not yet heard</button>
+      <button type="button" id="sel-all">Select all</button>
+      <button type="button" id="sel-none">Clear</button>
+    </div>
+
+    <ul id="pl-list" class="pl-list" aria-label="Editions"><li class="skeleton">Loading editions…</li></ul>
+
+    <footer class="foot">Audio is generated on a private computer with an offline voice. Summaries are drawn from abstracts; always check the full paper before changing practice.</footer>
+  </main>
+
+  <div class="pl-bar" id="pl-bar">
+    <p class="pl-sel" id="pl-sel">No days selected</p>
+    <button type="button" class="pl-go" id="pl-go" disabled>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>
+      <span id="pl-go-t">Play</span>
+    </button>
+  </div>
+
+  <script src="playlist.js" defer></script>
+</body>
+</html>

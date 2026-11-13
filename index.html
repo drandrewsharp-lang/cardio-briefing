@@ -25,7 +25,10 @@
     <a class="brand" href="./" aria-label="Latest edition">
       <img src="icons/favicon-32.png" alt="" width="22" height="22"> Cardio Briefing
     </a>
-    <a class="topbar-link" href="#past">Past editions</a>
+    <nav class="topnav">
+      <a class="topbar-play" href="playlist.html">Play several days</a>
+      <a class="topbar-link" href="#past">Past</a>
+    </nav>
   </header>
 
   <main id="main">
@@ -53,10 +56,16 @@
       <audio id="audio" preload="metadata"></audio>
     </section>
 
+    <a class="card playlist-cta" href="playlist.html">
+      <span class="cta-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg></span>
+      <span class="cta-text"><b>Missed a few days?</b><span>Tick the days and play them back to back</span></span>
+    </a>
+
     <section id="digest"></section>
 
     <section id="past" class="past">
       <h2>Past editions</h2>
+      <p class="past-cta"><a href="playlist.html">Play several past editions back to back →</a></p>
       <ol id="past-list" class="past-list"></ol>
     </section>
 

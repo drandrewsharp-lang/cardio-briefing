@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-13",
+ "label": "Friday 13 November 2026",
+ "format": 2,
+ "journals": [
+  "JACC"
+ ],
+ "window": {
+  "start": "2026-11-12",
+  "end": "2026-11-13",
+  "basis": "PubMed entry date 12–13 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-13T08:59",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 23,
+   "included": 5
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 16,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 14,
+   "included": 0
+  }
+ },
+ "n_papers": 5,
+ "n_interventional": 5,
+ "n_general": 0,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Left Atrial Appendage Closure in Patients Considered Unsuitable for Oral Anticoagulation: Randomized Outcomes Through 5 Years in ASAP-TOO.",
+   "journal": "JACC",
+   "date": "2026-10-31",
+   "pmid": "43018511",
+   "doi": "10.1016/j.jacc.2026.10.007",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.007",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43018511/",
+   "short_title": "five-year results of the ASAP-TOO trial",
+   "summary": "ASAP-TOO was a randomised trial of Watchman left atrial appendage closure in patients with atrial fibrillation, a CHA2DS2-VASc score of 2 or more, judged unsuitable for oral anticoagulation. Patients were assigned 2:1 to closure, then dual antiplatelet therapy for 3 months and aspirin through 12 months, or to single antiplatelet therapy or no therapy. Enrolment stopped early for slow accrual, worsened by COVID-19: 481 of a planned 888 patients were randomised, and withdrawal was 7.8% with closure versus 24.2% with control. Mean age was 75, mean CHA2DS2-VASc 4.6, and 34% had prior intracranial or subdural haemorrhage. Implant success was 97.8%, and the 7-day safety endpoint occurred in 1.0%, meeting its performance goal. At up to 5 years, ischaemic stroke or systemic embolism occurred in 7.8% versus 11.4% (HR 0.73, 95% CI 0.35 to 1.52). Major bleeding was 22.1% versus 15.7% (HR 1.64, 95% CI 0.96 to 2.81), concentrated in the first 3 months. The authors call the findings exploratory.",
+   "abstract_available": true,
+   "study_type": "Randomised trial (terminated early)",
+   "also_in": [],
+   "critique": "Best: it is the largest randomised trial in the patients for whom closure is most often used, those who cannot take anticoagulation, with a third having prior intracranial bleeding. Weakest: it is underpowered, with 31 of 101 planned primary events, and withdrawal was three times higher in the control arm, so the hazard ratio is imprecise. The mandated dual antiplatelet regimen drove early bleeding, and enrolment ran from 2017 to 2020, so devices and regimens have moved on. In an accompanying editorial reported by ACC.org, Davide Capodanno, Shubhadarshini Pawar and Behnood Bikdeli call it a valuable effort that clarifies why this evidence gap has been so hard to close.",
+   "critique_sources": [
+    {
+     "outlet": "ACC.org",
+     "title": "JACC LAAC Special Issue: ASAP-TOO Five-Year Results, LAAC Evidence Review, More",
+     "url": "https://www.acc.org/latest-in-cardiology/articles/2026/11/10/15/21/jacc-laac-special-issue",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "ClinicalTrials.gov",
+     "title": "ASAP-TOO (NCT02928497) record",
+     "url": "https://clinicaltrials.gov/study/NCT02928497",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Left Atrial Appendage Closure in Atrial Fibrillation Patients With High Risk of Stroke and Bleeding: An Individual Participant Data Meta-Analysis of Randomized Trials.",
+   "journal": "JACC",
+   "date": "2026-10-29",
+   "pmid": "43018508",
+   "doi": "10.1016/j.jacc.2026.09.033",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.033",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43018508/",
+   "short_title": "pooled CLOSURE-AF and PRAGUE-17 patient-level data",
+   "summary": "This individual participant data meta-analysis pooled the two randomised trials of left atrial appendage closure against contemporary medical therapy in patients at high risk of both stroke and bleeding, CLOSURE-AF and PRAGUE-17. It included 1,290 participants, 647 assigned to closure and 643 to control; median age was 77 and 62.7% were men. One-stage Cox models were stratified by trial and adjusted for age, sex, CHA2DS2-VASc and HAS-BLED scores. The primary efficacy outcome, stroke, systemic embolism or cardiovascular or unexplained death, occurred in 21.9% with closure versus 20.7% with control (adjusted HR 0.98, 95% CI 0.77 to 1.24). Major bleeding occurred in 13.3% versus 12.4% (adjusted HR 1.03, 95% CI 0.75 to 1.39). The bleeding effect varied over time: cumulative major bleeding at 1 year was 9.4% versus 6.0%, an absolute excess of 3.4 percentage points, narrowing to 13.2% versus 12.1% at 3 years. The authors found no significant difference in either outcome and call for longer randomised follow-up.",
+   "abstract_available": true,
+   "study_type": "Individual participant data meta-analysis",
+   "also_in": [],
+   "critique": "Best: pooling participant-level data allows harmonised definitions, adjustment for baseline risk and a time-varying look at bleeding, which a study-level meta-analysis cannot do, in exactly the high-risk patients now referred for closure. Weakest: only two trials and 1,290 patients contribute, so confidence intervals remain wide, and CLOSURE-AF and PRAGUE-17 differed in devices, comparators and endpoint definitions. A composite that includes unexplained death dilutes any stroke signal. The issue's Editor's Page notes that the two accompanying editorials draw different lessons: one on what harmonised participant data can still extract from completed trials, the other on the need for more randomised data.",
+   "critique_sources": [
+    {
+     "outlet": "JACC (Editor's Page)",
+     "title": "Left Atrial Appendage Closure for Stroke Prevention in Atrial Fibrillation: Where Does It Fit?",
+     "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.10.009",
+     "kind": "about_paper"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Comparison of Outcomes Between Men and Women Treated With Left Atrial Appendage Closure or Oral Anticoagulation After Catheter Ablation for Atrial Fibrillation: An OPTION Subanalysis.",
+   "journal": "JACC",
+   "date": "2026-10-06",
+   "pmid": "43018504",
+   "doi": "10.1016/j.jacc.2026.09.011",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.011",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43018504/",
+   "short_title": "OPTION trial outcomes in men and women",
+   "summary": "This prespecified subanalysis of the OPTION trial compared left atrial appendage closure with oral anticoagulation after catheter ablation, by sex. Patients with atrial fibrillation and a CHA2DS2-VASc score of 2 or more in men, or 3 or more in women, were randomised 1:1 to ablation plus closure or ablation plus anticoagulation. The primary efficacy endpoint was death, stroke or systemic embolism at 36 months, and the primary safety endpoint non-procedural major or clinically relevant nonmajor bleeding. The analysis included 1,053 men and 546 women. Efficacy was similar with closure and anticoagulation in men (HR 0.96, 95% CI 0.56 to 1.65) and women (HR 0.81, 95% CI 0.41 to 1.62), with no interaction by sex. Procedural complications occurred in 2.3% of men and 3.7% of women. Closure significantly reduced bleeding in men (HR 0.34, 95% CI 0.23 to 0.50), whereas in women the reduction was not significant (HR 0.68, 95% CI 0.42 to 1.09), with a significant sex interaction (P=0.02).",
+   "abstract_available": true,
+   "study_type": "Prespecified subanalysis of a randomised trial",
+   "also_in": [],
+   "critique": "Best: a prespecified sex analysis from a large, contemporary randomised trial with adjudicated outcomes and three-year follow-up, in a group often under-represented in device trials. Weakest: women made up only about a third of participants, so the trial was not powered for sex-specific effects, and the wider confidence interval in women may reflect small numbers rather than a true lack of benefit. The interaction is hypothesis-generating, and the results apply only to post-ablation patients at moderate risk. In an accompanying editorial, described in the issue's Editor's Page, Doma and Goldsweig note that women were only a third of participants in the major closure trials and 2% of site investigators.",
+   "critique_sources": [
+    {
+     "outlet": "JACC (Editor's Page)",
+     "title": "Left Atrial Appendage Closure for Stroke Prevention in Atrial Fibrillation: Where Does It Fit?",
+     "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.10.009",
+     "kind": "about_paper"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation: Navigating Heterogeneity in Clinical Evidence: JACC Evidence Review.",
+   "journal": "JACC",
+   "date": "2026-11-12",
+   "pmid": "43018506",
+   "doi": "10.1016/j.jacc.2026.09.018",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.018",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43018506/",
+   "short_title": "an evidence review of closure versus anticoagulation",
+   "summary": "This JACC Evidence Review argues that the randomised trials of left atrial appendage closure versus anticoagulation, which together enrolled more than 7,000 participants, are distinct experiments rather than one evidence base. The newest trials, OPTION, CLOSURE-AF and CHAMPION-AF, differ in patient phenotype, comparator, device generation, post-implant antithrombotic regimen, endpoint construction and follow-up, so a single pooled estimate maps to no real patient group. The authors highlight methodological concerns: bleeding events counted within composite endpoints tested for noninferiority, varying noninferiority margins, and exclusion of periprocedural bleeding from some safety endpoints. Comparators have shifted from warfarin to direct oral anticoagulants, and current practice drops concomitant aspirin, lowering bleeding compared with trial control arms. They conclude that anticoagulation remains first-line for most eligible patients, and that closure is reasonable when long-term anticoagulation is unsafe or unsustainable, after weighing procedural risk, antithrombotic feasibility, surveillance needs and competing mortality, through shared decision-making.",
+   "abstract_available": true,
+   "study_type": "Narrative evidence review",
+   "also_in": [],
+   "critique": "Best: a careful, trial-by-trial appraisal that explains why the trials seem to disagree and offers a practical, phenotype-based framework. The full text notes, for example, that observed event rates in OPTION were about half those predicted, which made its fixed 5-point noninferiority margin permissive. Weakest: it is a narrative expert review rather than a systematic analysis, and it is written by the journal's own editors, including Behnood Bikdeli and Harlan Krumholz, who also curated the issue. Its research priorities, summarised by ACC.org, call for phenotype-specific trials with contemporary comparators. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "JACC",
+     "title": "Full text of the Evidence Review",
+     "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.09.018",
+     "kind": "full_text"
+    },
+    {
+     "outlet": "ACC.org",
+     "title": "JACC LAAC Special Issue: ASAP-TOO Five-Year Results, LAAC Evidence Review, More",
+     "url": "https://www.acc.org/latest-in-cardiology/articles/2026/11/10/15/21/jacc-laac-special-issue",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Antithrombotic Therapy Management After Left Atrial Appendage Closure: Current Regimens, Evolving Evidence, and the Control Group Dilemma.",
+   "journal": "JACC",
+   "date": "2026-10-01",
+   "pmid": "43018502",
+   "doi": "10.1016/j.jacc.2026.09.009",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.009",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43018502/",
+   "short_title": "antithrombotic therapy after appendage closure",
+   "summary": "This review appraises antithrombotic therapy after percutaneous left atrial appendage closure, which is needed to prevent device-related thrombosis but adds bleeding and erodes the benefit of avoiding long-term anticoagulation. Randomised evidence is small and heterogeneous. Direct oral anticoagulant monotherapy and dual antiplatelet therapy are the two common early strategies. In ANDES, device-related thrombosis was numerically less frequent with a direct oral anticoagulant than with dual antiplatelet therapy, 1.5% versus 4.1%. In ADALA, which stopped early, low-dose apixaban gave greater net benefit than dual antiplatelet therapy (HR 0.19). A meta-analysis of randomised trials found lower device-related thrombosis with direct oral anticoagulants (risk ratio 0.17). The authors recommend tailoring early therapy to risk, concomitant indications, patient preference and imaging feasibility, then reassessing at 45 to 90 days to de-escalate once healing is confirmed, with no fixed stop date. Definite or probable device thrombus generally warrants anticoagulation, but a peridevice leak alone should not drive treatment.",
+   "abstract_available": true,
+   "study_type": "Narrative review",
+   "also_in": [],
+   "critique": "Best: a practical framework for a question every closure operator faces, built around reassessment at 45 to 90 days rather than fixed stop dates, and candid that current guideline regimens rest largely on device-specific trial protocols or low-certainty evidence. Weakest: it is a narrative review, and the trials it leans on, ANDES and ADALA, are small, with ADALA stopped early, so most recommendations remain expert opinion and imaging-based follow-up may not be feasible everywhere. The issue's Editor's Page highlights the paper's central point that the apparent benefit of a regimen can depend on the control group chosen. No independent news coverage has been found yet.",
+   "critique_sources": [
+    {
+     "outlet": "JACC (Editor's Page)",
+     "title": "Left Atrial Appendage Closure for Stroke Prevention in Atrial Fibrillation: Where Does It Fit?",
+     "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.10.009",
+     "kind": "about_paper"
+    }
+   ],
+   "commentary_found": true
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Treatment of Acute Ischemic Stroke: A Review.",
+   "journal": "JAMA",
+   "pmid": "43018963",
+   "doi": "10.1001/jama.2026.19482",
+   "reason": "not cardiology (acute ischaemic stroke treatment review, neurology); excluded (strict)"
+  },
+  {
+   "title": "The Regulatory History of the Watchman Left Atrial Appendage Closure Device: A Long and Winding Road.",
+   "journal": "JACC",
+   "pmid": "43018501",
+   "doi": "10.1016/j.jacc.2026.08.044",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "Who Should Really Get Left Atrial Appendage Closure?",
+   "journal": "JACC",
+   "pmid": "43018498",
+   "doi": "10.1016/j.jacc.2026.07.043",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "When and How to Consider Left Atrial Appendage Closure as a Management Option for Patients With Atrial Fibrillation: A European Perspective.",
+   "journal": "JACC",
+   "pmid": "43018497",
+   "doi": "10.1016/j.jacc.2026.07.041",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "Percutaneous Left Atrial Appendage Closure Device Utilization Among Medicare Beneficiaries.",
+   "journal": "JACC",
+   "pmid": "43018496",
+   "doi": "10.1016/j.jacc.2026.07.040",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "Insurer Coverage of Percutaneous Left Atrial Appendage Occlusion: Where is the Alignment?",
+   "journal": "JACC",
+   "pmid": "43018495",
+   "doi": "10.1016/j.jacc.2026.07.038",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "Statistical Perfection vs Clinical Pragmatism: The Case for Left Atrial Appendage Closure.",
+   "journal": "JACC",
+   "pmid": "43018493",
+   "doi": "10.1016/j.jacc.2026.05.027",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "To Close or Not to Close, That Is the Question: A Neurological Perspective on Left Atrial Appendage Exclusion in High-Risk Atrial Fibrillation Patients.",
+   "journal": "JACC",
+   "pmid": "43018513",
+   "doi": "10.1016/j.jacc.2026.07.037",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "What Counts in a Stroke-Prevention Strategy?: A Patient-Centered Framework for Cardiovascular Care in Atrial Fibrillation.",
+   "journal": "JACC",
+   "pmid": "43018503",
+   "doi": "10.1016/j.jacc.2026.09.010",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "The Appendage Is Closed, But the Question Remains Open: What to Do With CHAMPION-AF?",
+   "journal": "JACC",
+   "pmid": "43018499",
+   "doi": "10.1016/j.jacc.2026.07.044",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "Safer Stroke Prevention in Atrial Fibrillation: Factor XI/XIa Inhibitors, Left Atrial Appendage Closure, or Both?",
+   "journal": "JACC",
+   "pmid": "43018494",
+   "doi": "10.1016/j.jacc.2026.07.030",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  },
+  {
+   "title": "LAAC for Atrial Fibrillation: Overhyped Device or Reasonable Alternative to Oral Anticoagulants?",
+   "journal": "JACC",
+   "pmid": "43018491",
+   "doi": "10.1016/j.jacc.2026.05.017",
+   "reason": "Viewpoint/editorial-style article (no abstract); excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

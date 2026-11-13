@@ -1,13 +1,13 @@
 {
  "date": "2026-11-06",
- "label": "Friday 6 November 2026: Circulation",
+ "label": "Friday 6 November 2026",
  "journals": [
   "Circulation"
  ],
  "window": {
   "start": "2026-11-05",
   "end": "2026-11-06",
-  "basis": "PubMed entry date 5\u20136 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+  "basis": "PubMed entry date 5–6 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
  },
  "generated_at": "2026-11-06T09:02",
  "counts": {

@@ -321,7 +321,4 @@ async function init() {
   renderList(); updateBar();
 }
 
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
-}
-init();
+init();   // service worker registration and app updates: appupdate.js

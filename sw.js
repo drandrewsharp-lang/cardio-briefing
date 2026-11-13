@@ -6,11 +6,11 @@
  *   (other origins, other repos on the same github.io origin, non-GET) passes straight through untouched,
  *   and only successful, non-redirected same-origin ('basic') responses are ever written to the cache.
  */
-const VERSION = 'cb-v5';
+const VERSION = 'cb-v6';
 const SHELL = VERSION + '-shell';
 const DATA = VERSION + '-data';
 const SHELL_FILES = [
-  './', 'index.html', 'app.js', 'playlist.html', 'playlist.js', 'style.css', 'manifest.json',
+  './', 'index.html', 'app.js', 'appupdate.js', 'playlist.html', 'playlist.js', 'style.css', 'manifest.json',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png',
 ];
 
@@ -19,11 +19,31 @@ self.addEventListener('install', (e) => {
   self.skipWaiting();
 });
 
+function answers(client) {
+  return new Promise((resolve) => {
+    const ch = new MessageChannel();
+    const t = setTimeout(resolve, 1500, false);
+    ch.port1.onmessage = () => { clearTimeout(t); resolve(true); };
+    client.postMessage({ type: 'cb-activated', version: VERSION }, [ch.port2]);
+  });
+}
+
 self.addEventListener('activate', (e) => {
   e.waitUntil((async () => {
     // Cache Storage is shared by every site on this github.io origin: only delete our own old 'cb-' caches.
     for (const k of await caches.keys()) if (k.startsWith('cb-') && !k.startsWith(VERSION + '-')) await caches.delete(k);
     await self.clients.claim();
+    // Pages still running older app code (e.g. an iPhone home-screen app kept in memory, or a page served from an
+    // older worker's cache) are reloaded so the new shell appears without a second launch. Current pages answer the
+    // 'cb-activated' message themselves (appupdate.js reloads them when nothing is playing), so they are not touched.
+    // Same-origin pages inside this app's scope only; each is sent to its own current URL.
+    try {
+      for (const c of await self.clients.matchAll({ type: 'window' })) {
+        const u = new URL(c.url);
+        if (u.origin !== location.origin || !u.pathname.startsWith(SCOPE_PATH) || !('navigate' in c)) continue;
+        if (!(await answers(c))) c.navigate(c.url).catch(() => {});
+      }
+    } catch { /* not supported: the next open picks up the new version */ }
   })());
 });
 

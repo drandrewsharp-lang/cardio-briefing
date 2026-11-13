@@ -251,3 +251,4 @@ h2 { font-size: 20px; margin: 26px 4px 12px; letter-spacing: -.005em; }
 .pl-go.playing svg { display: none; }
 .pl-go:disabled { opacity: .45; }
 .pl-go:active { transform: scale(.97); }
+.foot .ver { display: block; margin-top: 6px; font-size: 11px; opacity: .7; }

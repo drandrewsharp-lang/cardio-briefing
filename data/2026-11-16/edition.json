@@ -1,0 +1,175 @@
+{
+ "date": "2026-11-16",
+ "label": "Monday 16 November 2026",
+ "format": 2,
+ "journals": [
+  "JACC",
+  "Circulation: Cardiovascular Interventions"
+ ],
+ "window": {
+  "start": "2026-11-13",
+  "end": "2026-11-16",
+  "basis": "PubMed entry date 13–16 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-16T09:03",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 4,
+   "included": 2
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 3,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 19,
+   "included": 0
+  }
+ },
+ "n_papers": 3,
+ "n_interventional": 3,
+ "n_general": 0,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Angiography-Derived vs Wire-Based Fractional Flow Reserve to Guide Revascularization: The Randomized LIPSIA-STRATEGY Trial.",
+   "journal": "JACC",
+   "date": "2026-11-01",
+   "pmid": "43033171",
+   "doi": "10.1016/j.jacc.2026.10.064",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.064",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43033171/",
+   "short_title": "the LIPSIA-STRATEGY trial of angiography-derived versus wire-based FFR",
+   "summary": "This investigator-initiated trial at 8 German centres tested angiography-derived vessel fractional flow reserve, or vFFR, against the pressure wire to guide revascularisation of intermediate stenoses. Patients with acute or chronic coronary syndromes were randomised 1:1 to vFFR-guided or wire FFR-guided management; 1,053 were enrolled, median age 69. The primary outcome was cardiac death, non-fatal myocardial infarction or unplanned clinically driven revascularisation at 1 year, with a noninferiority margin of 3.5 percentage points. Events occurred in 3.0% with vFFR versus 4.1% with FFR, a risk difference of minus 1.01 percentage points with an upper confidence limit of 1.29 (relative risk 0.75, 95% CI 0.39 to 1.45), meeting noninferiority. Because events were fewer than expected, a post hoc analysis using the implied relative margin of 1.44 did not show noninferiority in the modified intention-to-treat population, though it did per protocol. vFFR more often gave values of 0.80 or less, 43.1% versus 35.9%, and more study lesions were revascularised, 41.2% versus 35.5%.",
+   "abstract_available": true,
+   "study_type": "Randomised noninferiority trial",
+   "also_in": [],
+   "critique": "Best: an industry-independent randomised comparison against systematic wire-based FFR using clinical outcomes, consistent with FAST III, which tested the same vFFR platform. Weakest: the PCR Journal Club review points out that the sample size was cut from 1,926 to 1,054 after a blinded event-rate reassessment while the absolute margin was kept, so 3.5 points became an 85% relative increase over the observed control rate, and the relative-margin analysis narrowly failed. It also flags about six extra revascularisations per 100 patients of unproven value, and the exclusion of calcified or tortuous vessels. TCTMD hosted a TCT commentary by Joo Myung Lee, and JACC an editorial by Neel Butala.",
+   "critique_sources": [
+    {
+     "outlet": "PCRonline (PCR Journal Club)",
+     "title": "LIPSIA-STRATEGY: angiography-derived vs wire-based FFR to guide revascularisation",
+     "url": "https://www.pcronline.com/PCR-Publications/PCR-Journal-Club/2026/LIPSIA-STRATEGY-angiography-derived-vs-wire-based-FFR-to-guide-revascularisation",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "ACC.org",
+     "title": "LIPSIA-STRATEGY: Angiography-Derived vs. Wire-Based FFR to Guide Revascularization",
+     "url": "https://www.acc.org/latest-in-cardiology/articles/2026/11/01/00/11/mon-609pm-lipsia-tct-2026",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "TCTMD",
+     "title": "TCT 2026 commentary (Joo Myung Lee), slides; free registration required",
+     "url": "https://www.tctmd.com/slide/commentary-28",
+     "kind": "about_paper"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Nonculprit Lesion Complexity and Timing of Complete Revascularization in Patients Presenting With Acute Coronary Syndrome and Multivessel Disease: Insights From the BIOVASC Trial.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-13",
+   "pmid": "43023216",
+   "doi": "10.1161/circinterventions.126.017520",
+   "link": "https://doi.org/10.1161/circinterventions.126.017520",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43023216/",
+   "short_title": "nonculprit lesion complexity and timing of complete revascularisation in BIOVASC",
+   "summary": "This exploratory post hoc analysis of the BIOVASC trial asked whether nonculprit lesion complexity changes the best timing of complete revascularisation in acute coronary syndrome with multivessel disease. BIOVASC randomised 1,525 patients to immediate complete revascularisation or staged complete revascularisation. A nonculprit lesion was classed as complex if it was a true bifurcation, severely calcified, longer than 20 mm, aorto-ostial or left main. The primary endpoint was all-cause death, myocardial infarction, unplanned ischaemia-driven revascularisation or cerebrovascular events at 2 years. Overall, 550 patients, 36.1%, had at least one complex nonculprit lesion. These patients had more primary endpoint events than those without (adjusted HR 1.49, 95% CI 1.11 to 2.02), including more spontaneous myocardial infarction (adjusted HR 1.86, 95% CI 1.12 to 3.09). Among patients with complex lesions, the primary endpoint occurred in 15.7% with immediate and 17.5% with staged revascularisation (HR 0.86, 95% CI 0.57 to 1.31; P=0.49), with no significant interaction between complexity and strategy (P for interaction=0.40).",
+   "abstract_available": true,
+   "study_type": "Post hoc analysis of a randomised trial",
+   "also_in": [],
+   "critique": "Best: it keeps randomised allocation within a large, contemporary trial with 2-year outcomes, and tests a real worry, that complex nonculprit PCI done immediately, often out of hours, might be done less well. Weakest: it is post hoc and exploratory, with 550 patients in the key subgroup, so it was not powered to detect a modest difference, and the wide confidence interval cannot exclude meaningful benefit or harm. The complexity definition is a pragmatic composite whose anatomical features may not carry equal risk, and the abstract does not report how completely complex lesions were treated in each arm. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "JACC: Cardiovascular Interventions",
+     "title": "Timing of Complete Multivessel Revascularization in Acute Coronary Syndrome: 2-Year Results of the BIOVASC Study",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2024.09.058",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Impact of Coronary Sinus Reducer on the Extent of Ischemia in Functional Stress Tests.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-13",
+   "pmid": "43023215",
+   "doi": "10.1161/circinterventions.126.017002",
+   "link": "https://doi.org/10.1161/circinterventions.126.017002",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43023215/",
+   "short_title": "the coronary sinus reducer and inducible ischaemia",
+   "summary": "The coronary sinus reducer is an established therapy for refractory angina in patients with obstructive coronary artery disease who are not candidates for further revascularisation. Its effect on objective ischaemia is unclear. This study retrospectively analysed a prospectively maintained registry of consecutive patients who received a reducer between 2011 and 2024. Stress echocardiography and dipyridamole SPECT imaging were performed at baseline and 6 months. Coprimary outcomes were the change in stress wall motion score index and in the proportion of patients with moderate or severe ischaemia on SPECT. Of 153 treated patients, 118 had complete imaging data. Median stress wall motion score index improved from 1.38 to 1.23 (P<0.001) and stress left ventricular ejection fraction rose from 55% to 60% (P=0.019). Moderate or severe SPECT ischaemia fell from 52% to 24% (P<0.001), but the summed difference score, available in 45 patients, did not change significantly. At 6 months, 86% had improved by at least one angina class.",
+   "abstract_available": true,
+   "study_type": "Retrospective analysis of a prospective registry",
+   "also_in": [],
+   "critique": "Best: it adds objective imaging, both stress echocardiography and SPECT, to a therapy whose evidence rests largely on symptoms, in consecutive patients with repeat testing at a fixed 6-month point. Weakest: there is no control group, so placebo effect, regression to the mean and changes in medication cannot be excluded, and the abstract does not say whether imaging readers were blinded. Nearly a quarter of treated patients lacked complete imaging, the summed difference score was available in only 45 and did not improve, and recruitment spanned 13 years. Randomised, sham-controlled imaging data are still needed. No independent commentary on this paper was found yet.",
+   "critique_sources": [],
+   "commentary_found": false
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Cangrelor for myocardial infarction-related cardiogenic shock.",
+   "journal": "The Lancet",
+   "pmid": "43025429",
+   "doi": "10.1016/s0140-6736(26)01152-9",
+   "reason": "Lancet Comment (editorial-style, no abstract); excluded"
+  },
+  {
+   "title": "ACOG Releases Guidance on GLP-1 Use in Pregnancy and Lactation.",
+   "journal": "JAMA",
+   "pmid": "43024259",
+   "doi": "10.1001/jama.2026.22659",
+   "reason": "JAMA Medical News; not a research paper and not cardiology; excluded"
+  },
+  {
+   "title": "Nicotine Vaping Linked to Reduced Vascular Function in Young Adults.",
+   "journal": "JAMA",
+   "pmid": "43024253",
+   "doi": "10.1001/jama.2026.22661",
+   "reason": "JAMA Medical News; not a research paper; excluded"
+  },
+  {
+   "title": "In an Effort to Reduce Hypertension, Salt Substitutes Come to the Table.",
+   "journal": "JAMA",
+   "pmid": "43024245",
+   "doi": "10.1001/jama.2026.23873",
+   "reason": "JAMA Medical News; not a research paper; excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

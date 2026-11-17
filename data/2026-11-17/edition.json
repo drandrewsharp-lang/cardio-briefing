@@ -1,0 +1,211 @@
+{
+ "date": "2026-11-17",
+ "label": "Tuesday 17 November 2026",
+ "format": 2,
+ "journals": [
+  "Circulation"
+ ],
+ "window": {
+  "start": "2026-11-16",
+  "end": "2026-11-17",
+  "basis": "PubMed entry date 16–17 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-17T09:10",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 14,
+   "included": 6
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 5,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 2,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 11,
+   "included": 0
+  }
+ },
+ "n_papers": 6,
+ "n_interventional": 2,
+ "n_general": 4,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Peripheral Artery Disease in Acute Care Settings: Diagnosis and Management of Common Presentations and Emergencies: A Scientific Statement From the American Heart Association.",
+   "journal": "Circulation",
+   "date": "2026-11-16",
+   "pmid": "43036895",
+   "doi": "10.1161/cir.0000000000001479",
+   "link": "https://doi.org/10.1161/cir.0000000000001479",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43036895/",
+   "short_title": "an AHA scientific statement on peripheral artery disease in acute care",
+   "summary": "This American Heart Association scientific statement, written by Rymer, Secemsky and colleagues on behalf of several councils including Cardiovascular Radiology and Intervention, addresses patients with peripheral artery disease who are in hospital, often for something else. The authors note that peripheral artery disease is frequently missed or diagnosed late and, even once recognised, is undertreated with both drugs and invasive therapies. It carries higher risks of death, myocardial infarction, stroke, other vascular disease, limb loss and poorer quality of life, and these risks are magnified when it is a comorbidity in patients admitted with other cardiovascular or medical conditions. The statement highlights that vascular access for treating acute myocardial infarction, cardiogenic shock or valve disease, and procedures on the arteries themselves, need special consideration in these patients. It stresses familiarity with placing mechanical circulatory support in diseased arteries and with managing recent endovascular or surgical repairs. The abstract reports no new data.",
+   "abstract_available": true,
+   "study_type": "AHA scientific statement",
+   "also_in": [],
+   "critique": "Best: it fills a real gap, since access and limb complications of large-bore devices have had little guideline attention. The AHA's own summary cites limb ischaemia in about 1 in 10 patients on a percutaneous ventricular assist device and bleeding or limb ischaemia in up to 40% on ECMO, and urges protocol-driven, ultrasound-guided access. Weakest: it is an expert consensus document with no new data and no graded recommendations, so much of it rests on observational evidence and opinion, and its US framing of vascular teams and follow-up may not map onto Irish services. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "American Heart Association, Professional Heart Daily",
+     "title": "Top Things to Know: Peripheral Artery Disease in Acute Care Settings (publisher summary, not independent commentary)",
+     "url": "https://professional.heart.org/en/science-news/peripheral-artery-disease-in-acute-care-settings/top-things-to-know",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Degenerative Mitral Regurgitation: From Prolapse to Precision Therapy.",
+   "journal": "Circulation",
+   "date": "2026-11-16",
+   "pmid": "43038428",
+   "doi": "10.1161/circulationaha.126.081203",
+   "link": "https://doi.org/10.1161/circulationaha.126.081203",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43038428/",
+   "short_title": "a review of degenerative mitral regurgitation",
+   "summary": "This review by cardiac surgeon Joanna Chikwe of Cedars-Sinai, with Francesca Delling of UCSF and Annetine Gelijns of Mount Sinai, covers degenerative mitral regurgitation due to mitral valve prolapse. The authors note that it affects about 15 million people worldwide and is the commonest reason for mitral intervention in high-income countries, yet its biology, natural history and lifetime management remain poorly defined. The review summarises current knowledge of epidemiology, pathophysiology, diagnosis, risk stratification and lifelong management, focusing on areas of uncertainty, recent advances and research directions. These include translational work on the genetic and cellular drivers of progression, and mechanistic studies aimed at earlier detection and prevention of myocardial dysfunction, particularly in high-risk groups such as arrhythmic mitral prolapse. It also discusses randomised trials and large registries comparing contemporary surgical and transcatheter treatment, and strategies to widen access and improve outcomes across all risk profiles. Being a narrative review, it reports no new results in the abstract.",
+   "abstract_available": true,
+   "study_type": "Narrative review",
+   "also_in": [],
+   "critique": "Best: it comes from a mixed team, a mitral surgeon, a cardiologist and a population health scientist, and it frames prolapse as a lifelong disease rather than a single operation, flagging arrhythmic prolapse and early myocardial damage as priorities. Weakest: it is a narrative rather than systematic review, so how evidence was selected is not stated, and its lead author's surgical perspective may shape how the comparison of repair with transcatheter edge-to-edge therapy is framed. The abstract gives no new numbers. No independent commentary on this paper was found yet.",
+   "critique_sources": [],
+   "commentary_found": false
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Biatrial Versus Left Atrial Maze Ablation During Cardiac Valve Surgery for Persistent Atrial Fibrillation: The ABLATION Trial.",
+   "journal": "Circulation",
+   "date": "2026-11-16",
+   "pmid": "43038430",
+   "doi": "10.1161/circulationaha.126.083005",
+   "link": "https://doi.org/10.1161/circulationaha.126.083005",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43038430/",
+   "short_title": "the ABLATION trial of biatrial versus left atrial maze",
+   "summary": "In this multicentre, single-blind trial, 323 patients with persistent atrial fibrillation having rheumatic mitral valve surgery were randomised to a full biatrial Cox-Maze IV or a left atrial lesion set; mean age was 56.5 and 72.1% were women. At 12 months, 78.7% after biatrial and 68.6% after left atrial ablation were free of atrial tachyarrhythmias off antiarrhythmics (adjusted difference 10.7%; P=0.01). Freedom from permanent pacemaker was 97.0% versus 98.1%, meeting noninferiority.",
+   "abstract_available": true,
+   "study_type": "Randomised controlled trial",
+   "also_in": [],
+   "relevance": "Settles a long surgical debate in favour of the full biatrial lesion set, but in a young, rheumatic population that differs from most Irish surgical AF patients."
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Transapical Beating-Heart Septal Myectomy for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy: Initial Clinical Experience.",
+   "journal": "Circulation",
+   "date": "2026-11-16",
+   "pmid": "43038431",
+   "doi": "10.1161/circulationaha.126.082486",
+   "link": "https://doi.org/10.1161/circulationaha.126.082486",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43038431/",
+   "short_title": "transapical beating-heart myectomy for nonobstructive HCM",
+   "summary": "At Tongji Hospital, 97 consecutive patients with symptomatic, drug-refractory nonobstructive hypertrophic cardiomyopathy had transapical beating-heart septal myectomy through a left minithoracotomy. At 6 to 12 months, 87.6% met the composite success endpoint. Median KCCQ score rose from 64 to 87 and stroke volume from 53.5 to 70.8 mL, and 93.8% reached NYHA class I. Peak oxygen uptake rose by 1.1 mL/kg/min. Adverse events included one mitral valve injury and one ventricular septal perforation, which caused one postoperative death.",
+   "abstract_available": true,
+   "study_type": "Prospective single-centre cohort",
+   "also_in": [],
+   "relevance": "Intriguing for a group with few options, but single-centre and uncontrolled; mainly of interest to HCM and surgical teams."
+  },
+  {
+   "category": "general",
+   "rank": 5,
+   "title": "Transapical Beating-Heart Septal Myectomy for Obstructive Hypertrophic Cardiomyopathy.",
+   "journal": "Circulation",
+   "date": "2026-11-16",
+   "pmid": "43038427",
+   "doi": "10.1161/circulationaha.126.080166",
+   "link": "https://doi.org/10.1161/circulationaha.126.080166",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43038427/",
+   "short_title": "a review of transapical beating-heart myectomy for obstructive HCM",
+   "summary": "This review describes transapical beating-heart septal myectomy for obstructive hypertrophic cardiomyopathy, a newer technique that avoids sternotomy, cardiopulmonary bypass and aortotomy and relies on real-time echocardiographic guidance. The authors argue it is safer, more precise, cost-effective and reproducible, with less surgical trauma, shorter operations and faster recovery, and suits long-segment obstruction, a small aortic annulus or prior surgery. Systolic anterior motion often resolves without mitral intervention. The abstract reports no new results.",
+   "abstract_available": true,
+   "study_type": "Narrative review",
+   "also_in": [],
+   "relevance": "Mainly of interest to HCM surgeons; the claimed advantages over conventional myectomy and alcohol septal ablation still need comparative data."
+  },
+  {
+   "category": "general",
+   "rank": 6,
+   "title": "Surgical Treatment of Atrial Fibrillation.",
+   "journal": "Circulation",
+   "date": "2026-11-16",
+   "pmid": "43038425",
+   "doi": "10.1161/circulationaha.126.083715",
+   "link": "https://doi.org/10.1161/circulationaha.126.083715",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43038425/",
+   "short_title": "a review of surgical treatment of atrial fibrillation",
+   "summary": "This review covers surgical options for atrial fibrillation where catheter ablation works less well, in non-paroxysmal disease and large atria: minimally invasive ablation, hybrid epicardial-endocardial strategies and left atrial appendage exclusion. It reports five-year arrhythmia-free survival of 85% to 95% after Cox-Maze IV in experienced centres, 60% to 70% after hybrid ablation, 35% to 45% after thoracoscopic ablation and 30% to 35% after a single catheter ablation alone, and calls for careful patient selection.",
+   "abstract_available": true,
+   "study_type": "Narrative review",
+   "also_in": [],
+   "relevance": "Useful context for heart team referrals in persistent AF, though the success figures come from pooled, largely non-randomised series."
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Immersive Reality in Cardiothoracic Surgical Education.",
+   "journal": "Circulation",
+   "pmid": "43038436",
+   "doi": "10.1161/circulationaha.126.081803",
+   "reason": "Cardiothoracic surgical education review (immersive reality); not clinical cardiology; excluded"
+  },
+  {
+   "title": "Ischemic Mitral Regurgitation: A Changing Paradigm.",
+   "journal": "Circulation",
+   "pmid": "43038435",
+   "doi": "10.1161/circulationaha.126.080945",
+   "reason": "Short perspective-style article (no abstract); excluded"
+  },
+  {
+   "title": "Mitral Valve Surgery in the Developing World.",
+   "journal": "Circulation",
+   "pmid": "43038432",
+   "doi": "10.1161/circulationaha.126.080891",
+   "reason": "Short perspective-style article (no abstract); excluded"
+  },
+  {
+   "title": "Minimally Invasive Mitral Valve Repair: Preference Versus Evidence.",
+   "journal": "Circulation",
+   "pmid": "43038429",
+   "doi": "10.1161/circulationaha.126.080895",
+   "reason": "Short perspective-style article (no abstract); excluded"
+  },
+  {
+   "title": "Thrombosed Left Ventricular Outflow Tract Pseudoaneurysm After Neonatal Ross-Konno Repair.",
+   "journal": "Circulation",
+   "pmid": "43038434",
+   "doi": "10.1161/circulationaha.126.082928",
+   "reason": "One-page image/case article (no abstract); excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

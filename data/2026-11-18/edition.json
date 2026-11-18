@@ -1,0 +1,400 @@
+{
+ "date": "2026-11-18",
+ "label": "Wednesday 18 November 2026",
+ "format": 2,
+ "journals": [
+  "EuroIntervention",
+  "JACC",
+  "Circulation",
+  "Circulation: Cardiovascular Interventions"
+ ],
+ "window": {
+  "start": "2026-11-17",
+  "end": "2026-11-18",
+  "basis": "PubMed entry date 17–18 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-18T09:10",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 13,
+   "included": 9
+  },
+  "JACC": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 2,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 3,
+   "included": 0
+  }
+ },
+ "n_papers": 12,
+ "n_interventional": 11,
+ "n_general": 1,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Intravascular Lithotripsy vs Super-High-Pressure Noncompliant Balloons for Treatment of Calcified Coronary Lesions",
+   "journal": "JACC",
+   "date": "2026-11-17",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.016",
+   "link": "https://doi.org/10.1016/j.jacc.2026.09.016",
+   "pubmed_link": null,
+   "short_title": "the VICTORY trial of super-high-pressure balloons versus lithotripsy",
+   "summary": "VICTORY was an open-label randomised noninferiority trial with blinded outcome assessment, comparing super-high-pressure noncompliant balloons with intravascular lithotripsy for preparing calcified coronary lesions before drug-eluting stenting. Every patient had optical coherence tomography, and the primary endpoint was final stent expansion on OCT. Between December 2022 and August 2025, 278 patients had the assigned procedure; 68% had severe calcium, with an OCT Fujino score of 4 or more. Median inflation pressure was 40 atmospheres with the balloon versus 6 with lithotripsy, and lithotripsy procedures tended to be longer and to need more auxiliary devices. The balloon was noninferior for stent expansion, 85% versus 84% (P for noninferiority below 0.0001), consistently across subgroups including calcium severity. Procedural and strategy success and coronary perforation rates were similar. At 30 days, target vessel failure occurred in 2.8% versus 5.7% (HR 0.50, 95% CI 0.15 to 1.66). The authors conclude the balloon is a noninferior, similarly safe option in experienced, imaging-guided hands.",
+   "abstract_available": true,
+   "study_type": "Randomised controlled noninferiority trial (abstract from publisher page; not yet in PubMed)",
+   "also_in": [],
+   "critique": "Best: the first head-to-head randomised comparison of these two calcium tools, with mandatory OCT and a core-lab imaging endpoint, and a cheaper balloon matching lithotripsy. Weakest: stent expansion is a surrogate and the trial was not powered for clinical events; the authors also note that most patients came from one highly experienced centre, and OCT-ineligible, ostial and in-stent restenosis lesions were excluded. At TCT 2026, TCTMD reported one-year target vessel failure of 3.6% versus 6.5%, and quoted Sanjit Jolly saying a main criticism was that patients lacked severely calcified disease. An accompanying JACC editorial by Malhotra, Collet and Spratt was published alongside, but its text was not accessible.",
+   "critique_sources": [
+    {
+     "outlet": "TCTMD",
+     "title": "Many Strategies on the Table for Treatment of Calcified Coronary Lesions: TCT Session",
+     "url": "https://www.tctmd.com/news/many-strategies-table-treatment-calcified-coronary-lesions-tct-session",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "CRF",
+     "title": "Super-High-Pressure Non-Compliant Balloons for Treatment of Calcified Coronary Lesions Noninferior to Intravascular Lithotripsy",
+     "url": "https://www.crf.org/crf/news-and-events/news/news/3978-super-high-pressure-non-compliant-balloons-for-treatment-of-calcified-coronary-lesions-noninferior-to-intravascular-lithotripsy",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "JACC (accompanying editorial, title only)",
+     "title": "Keeping Up Appearances—Or Measuring What Matters? (Malhotra, Collet, Spratt)",
+     "url": "https://doi.org/10.1016/j.jacc.2026.09.1833",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "JACC",
+     "title": "VICTORY trial full text (open access; study limitations)",
+     "url": "https://www.jacc.org/doi/10.1016/j.jacc.2026.09.016",
+     "kind": "full_text"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Three-year outcomes of balloon-expandable valve-in-valve aortic valve implantation for failed transcatheter versus surgical valves.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043443",
+   "doi": "10.4244/eij-d-26-00691",
+   "link": "https://doi.org/10.4244/eij-d-26-00691",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043443/",
+   "short_title": "three-year valve-in-valve TAVI in failed transcatheter versus surgical valves",
+   "summary": "This single-centre study compared midterm outcomes of balloon-expandable valve-in-valve TAVI inside a failed transcatheter valve, TAV-in-TAV, with valve-in-valve inside a failed surgical bioprosthesis, TAV-in-SAV. From June 2015 to June 2024, 543 consecutive valve-in-valve procedures were identified; after exclusions, 109 TAV-in-TAV and 349 TAV-in-SAV patients were included, and propensity matching produced 214 patients, 107 per group. Three-year all-cause mortality did not differ between groups (HR 1.06, 95% CI 0.56 to 1.98; P=0.867), and no secondary outcomes differed significantly. Over three years, the mean gradient was consistently lower and the valve area consistently larger after TAV-in-TAV. Concomitant PCI (22.4% versus 8.4%; P=0.006) and coronary obstruction (10.3% versus 0.9%; P=0.018) were more frequent with TAV-in-SAV. On post-procedure CT, the waist was the least expanded segment in both groups, but expanded significantly more in TAV-in-TAV. The authors conclude three-year mortality was similar, while TAV-in-SAV carried more coronary problems and less valve expansion.",
+   "abstract_available": true,
+   "study_type": "Retrospective single-centre propensity-matched cohort",
+   "also_in": [],
+   "critique": "Best: three-year follow-up, longer than most series, with serial haemodynamics and CT expansion analysis from a high-volume centre. Weakest: it is retrospective and single-centre, and propensity matching shrank the surgical group from 349 to 107, so residual confounding, including different mechanisms and timing of failure, remains. A mortality hazard ratio interval of 0.56 to 1.98 cannot exclude meaningful differences. In an accompanying EuroIntervention editorial, Giuseppe Tarantini notes that few series follow these patients beyond one year, and that choosing the index valve for a 68-year-old rests on assumptions about a reintervention ten years away.",
+   "critique_sources": [
+    {
+     "outlet": "EuroIntervention (accompanying editorial, Tarantini)",
+     "title": "Valve-in-valve transcatheter aortic valve implantation at three years: reassuring, provided you get there",
+     "url": "https://eurointervention.pcronline.com/article/valve-in-valve-transcatheter-aortic-valve-implantation-at-three-years-reassuring-provided-you-get-there",
+     "kind": "about_paper"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Temporal and Vessel-Specific Relationship Between Post-PCI Fractional Flow Reserve and Long-Term Clinical Outcomes.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-17",
+   "pmid": "43042474",
+   "doi": "10.1161/circinterventions.126.016840",
+   "link": "https://doi.org/10.1161/circinterventions.126.016840",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43042474/",
+   "short_title": "vessel-specific post-PCI FFR and five-year outcomes",
+   "summary": "Using the international Post-PCI FFR Extended registry, investigators analysed 2128 patients after successful drug-eluting stent implantation to explore vessel-specific thresholds for post-PCI fractional flow reserve and whether its prognostic value holds over five years. Patients were split into left anterior descending and non-LAD target vessels. The primary endpoint was five-year target vessel failure, a composite of cardiac death, target vessel myocardial infarction or target vessel revascularisation. Restricted cubic splines explored the continuous relationship, with three-year landmark analysis and time-dependent ROC curves. Target vessel failure occurred in 176 LAD patients and 74 non-LAD patients, 11.7% in each group. Lower post-PCI FFR was independently associated with higher risk in both territories. Exploratory cut points were 0.83 for the LAD and 0.94 for non-LAD vessels. The excess hazard with suboptimal FFR was concentrated in the first three years, though discrimination remained modest but stable through five years. The authors call for vessel-specific interpretation of post-PCI physiology, with external validation of the cut points.",
+   "abstract_available": true,
+   "study_type": "International registry cohort",
+   "also_in": [],
+   "critique": "Best: a large international registry with five-year follow-up and appropriate methods, splines, landmark analysis and time-dependent discrimination, rather than a single arbitrary cut-off. Weakest: it is observational, includes only patients in whom post-PCI FFR was measured, and the cut points were derived and tested in the same data, as the authors acknowledge. The abstract describes discrimination only as modest, without giving values, and it does not show that acting on a low post-PCI FFR improves outcomes. The very different thresholds, 0.83 versus 0.94, may partly reflect the longer vessel and larger myocardial territory of the LAD. No independent commentary on this paper was found yet.",
+   "critique_sources": [],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Early outcomes of tricuspid valve replacement in patients with tricuspid regurgitation: the Trisol Early Feasibility Study.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043451",
+   "doi": "10.4244/eij-d-26-00541",
+   "link": "https://doi.org/10.4244/eij-d-26-00541",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043451/",
+   "short_title": "the Trisol early feasibility study of tricuspid valve replacement",
+   "summary": "The Trisol Early Feasibility Study is a single-arm, multicentre study of transcatheter tricuspid valve replacement with the Trisol system via transjugular access, in patients with symptomatic severe or worse tricuspid regurgitation despite optimal medical therapy. The primary safety endpoint was device-related serious adverse events, including death, stroke, life-threatening bleeding and need for surgery; primary performance endpoints were technical and procedural success. Nineteen patients treated with the latest-generation 12-anchor valve were enrolled between August 2023 and September 2025. Mean age was 75.8 years, 78.9% were women and 78.9% were in NYHA class III or IV. Regurgitation fell to mild or less in 87.5% and to moderate or less in all. The 30-day composite major adverse event rate was 10.5%, two of 19, one cardiovascular death and one pacemaker implantation, with no other complications. 87.5% reached NYHA class I or II, and the KCCQ score rose by a mean of 13.6 points. The authors report feasibility, safety and functional benefit.",
+   "abstract_available": true,
+   "study_type": "Prospective single-arm early feasibility study",
+   "also_in": [],
+   "critique": "Best: a prospective multicentre US feasibility study with prespecified safety and performance endpoints, and a jugular-access device that may suit anatomies other valves struggle with; regurgitation reduction was strong. Weakest: just 19 patients and 30-day follow-up, with no control group. The KCCQ gain of 13.6 points carries a standard deviation of 34.6, so individual responses varied widely, and the full text shows only 16 patients completed 30-day follow-up. One cardiovascular death in 19 patients is not trivial. Durability, thrombosis and right ventricular response remain unknown, and the study is industry-sponsored. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "EuroIntervention",
+     "title": "Trisol Early Feasibility Study full text (30-day follow-up)",
+     "url": "https://eurointervention.pcronline.com/article/early-outcomes-of-tricuspid-valve-replacement-in-patients-with-tricuspid-regurgitation-the-trisol-early-feasibility-study",
+     "kind": "full_text"
+    },
+    {
+     "outlet": "ClinicalTrials.gov",
+     "title": "Trisol System EFS Study (NCT04905017)",
+     "url": "https://clinicaltrials.gov/study/NCT04905017",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Transcatheter tricuspid valve replacement after failed edge-to-edge repair.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043445",
+   "doi": "10.4244/eij-d-26-00514",
+   "link": "https://doi.org/10.4244/eij-d-26-00514",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043445/",
+   "short_title": "tricuspid valve replacement after failed edge-to-edge repair",
+   "summary": "This multicentre retrospective cohort examined transcatheter tricuspid valve replacement for residual or recurrent severe tricuspid regurgitation after edge-to-edge repair. Clinical, echocardiographic and CT findings were evaluated, and the primary outcome was clinical success at 30 days. Of 28 patients, mean age 78.5 years and 61% women, 72% had residual and 28% recurrent regurgitation, diagnosed a median of 182 days after repair. Ninety-seven percent were in NYHA class III or IV, and 64% had massive or torrential regurgitation. Three strategies were used: in 21%, a commissural clip allowed direct implantation, the neocommissure strategy; in 43%, clips with single leaflet device attachment were engaged; and in 36%, electrosurgical laceration and stabilisation was performed first. Clinical success at 30 days was 93%. NYHA class improved in 93%, with 85% in class I or II at one month. Two patients died of non-cardiac causes, and four had a heart failure hospitalisation over a median 69 days despite procedural success.",
+   "abstract_available": true,
+   "study_type": "Multicentre retrospective cohort",
+   "also_in": [],
+   "critique": "Best: it addresses a real and growing clinical dilemma, maps three practical strategies to clip position and attachment, and reports a high early success rate in very sick patients, most with massive or torrential regurgitation. Weakest: 28 patients, retrospective selection with no denominator of those screened or turned down, and a median follow-up of only 69 days. Four heart failure admissions in that short window are a warning sign. Device types, operator experience and pacing outcomes are not detailed in the abstract, and success depends on highly specialised electrosurgical skills available in few centres. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "EuroIntervention",
+     "title": "Electrosurgical laceration and stabilisation of tricuspid edge-to-edge repair: the ELASTA-T technique (technique paper)",
+     "url": "https://eurointervention.pcronline.com/article/electrosurgical-laceration-and-stabilisation-of-tricuspid-edge-to-edge-repair-the-elasta-t-technique",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Acute right ventricular response to transcatheter tricuspid valve replacement.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043439",
+   "doi": "10.4244/eij-d-26-00272",
+   "link": "https://doi.org/10.4244/eij-d-26-00272",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043439/",
+   "short_title": "the acute right ventricular response to tricuspid valve replacement",
+   "summary": "This multicentre study characterised acute right ventricular functional changes after transcatheter tricuspid valve replacement and their prognostic impact. Consecutive patients treated between 2019 and 2025 with complete imaging had echocardiography at baseline, during the procedure and before discharge, with RV elastance and RV-pulmonary artery coupling derived from non-invasive single-beat pressure-volume analysis. Sixty-seven patients were included, median age 78 and 72% women; 49 received EVOQUE and 18 LuX-Valve Plus. By discharge, RV free-wall strain fell by 10.4% with both devices, and fractional area change fell by 18.0% with EVOQUE and 13.5% with LuX-Valve. Overall, 58% met criteria for severe RV dysfunction after replacement. Over a median 19 months, 15 patients died. Device type, acute RV changes, elastance and coupling were not associated with mortality. In contrast, CT-derived RV coupling (HR 0.02, 95% CI 0.01 to 0.89) and combined baseline longitudinal and circumferential RV dysfunction (HR 3.93, 95% CI 1.10 to 14.47) were. Early RV decline was common but not prognostic.",
+   "abstract_available": true,
+   "study_type": "Multicentre cohort",
+   "also_in": [],
+   "critique": "Best: serial, intraprocedural RV assessment with pressure-volume-derived coupling across two devices, addressing a question clinicians face daily. Weakest: 67 patients and 15 deaths give little power, as the very wide hazard ratio intervals show, and requiring complete imaging may bias selection. Single-beat coupling is non-invasive and assumption-laden. An accompanying EuroIntervention editorial by Rebecca Hahn and Robin Le Ruz argues that after tricuspid intervention, falls in preload-dependent indices such as TAPSE and fractional area change are expected as RV end-diastolic volume shrinks while end-systolic volume stays unchanged, and that the opposite would suggest inadequate regurgitation reduction.",
+   "critique_sources": [
+    {
+     "outlet": "EuroIntervention (accompanying editorial, Hahn and Le Ruz)",
+     "title": "Losing \"function\" but gaining flow: reframing right ventricular assessment in transcatheter tricuspid valve replacement",
+     "url": "https://eurointervention.pcronline.com/article/losing-ldquofunctionrdquo-but-gaining-flow-reframing-right-ventricular-assessment-in-transcatheter-tricuspid-valve-replacement",
+     "kind": "about_paper"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "Anterior mitral leaflet modification to prevent left ventricular outflow tract obstruction during transcatheter mitral valve replacement: the PROTECT-LVOT registry.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043448",
+   "doi": "10.4244/eij-d-26-00822",
+   "link": "https://doi.org/10.4244/eij-d-26-00822",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043448/",
+   "short_title": "the PROTECT-LVOT registry of leaflet modification in mitral replacement",
+   "summary": "Outflow tract obstruction remains the major limitation of transcatheter mitral valve replacement. This multicentre retrospective registry assessed consecutive patients having replacement with anterior mitral leaflet modification between 2017 and 2025, in mitral annular calcification, ring and valve-in-valve substrates. The co-primary in-hospital safety endpoint combined cardiovascular death, stroke or TIA, and major bleeding. Fifty-five patients were included, 67% women, median age 78, median STS predicted mortality 6.7%. LAMPOON laceration was used in 65.5% and BATMAN balloon translocation in 34.5%; modification succeeded in 96.4%. Even so, haemodynamically significant outflow obstruction occurred in 12.7%. The safety endpoint occurred in 20.0%, driven by cardiovascular death in 14.5%, and overall in-hospital mortality was 16.4%. Valve-in-MAC had the highest obstruction rate, 20.7% versus 0% for ring and 8.3% for valve-in-valve (OR 4.72, 95% CI 0.89 to 47.86; P=0.070). The aortomitral angle showed a borderline association (OR 1.22 per degree, 95% CI 0.99 to 1.48). Modification enables replacement but does not eliminate obstruction.",
+   "abstract_available": true,
+   "study_type": "Multicentre retrospective registry",
+   "also_in": [],
+   "critique": "Best: an honest real-world report across three substrates over eight years, showing that technically successful leaflet modification still leaves one in eight patients with obstruction and one in six dying in hospital. Weakest: 55 patients spread over many centres and years, mixing two techniques and evolving practice, with no comparator, so the borderline odds ratios are underpowered and the confidence interval for MAC reaches 47.86. Neo-outflow tract predictions and selection criteria are not given in the abstract. TCTMD's coverage of the separate BATMAN registry noted that such techniques are not standardised across centres or operators. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "TCTMD",
+     "title": "Registry Results Validate Transseptal BATMAN in High-risk TMVR Patients",
+     "url": "https://www.tctmd.com/news/registry-results-validate-transseptal-batman-high-risk-tmvr-patients",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 8,
+   "title": "Bioprosthetic valve performance of transcatheter aortic valves.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043446",
+   "doi": "10.4244/eij-d-26-00422",
+   "link": "https://doi.org/10.4244/eij-d-26-00422",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043446/",
+   "short_title": "a review of transcatheter valve haemodynamic performance",
+   "summary": "This state-of-the-art review in EuroIntervention addresses the bioprosthetic performance of transcatheter aortic valves at a time when TAVI is increasingly offered to younger patients with longer life expectancy, making long-term effectiveness essential. The authors note that randomised trials have shown haemodynamic performance comparable or superior to surgical aortic valve replacement over midterm follow-up, and that within a lifetime management framework haemodynamic performance and durability are central to choosing an aortic valve replacement for severe aortic stenosis. The review gives an overview of transcatheter heart valve design and function and the contemporary clinical evidence. It focuses on current approaches to haemodynamic assessment, the challenges of interpreting valve performance across different platforms, and the limitations of randomised comparative evidence. It also discusses future directions in how transcatheter valve performance should be evaluated. As a narrative review, its abstract reports no new data, numbers or pooled estimates, and no specific recommendations.",
+   "abstract_available": true,
+   "study_type": "State-of-the-art review",
+   "also_in": [],
+   "critique": "Best: timely, because valve choice in younger patients increasingly hinges on haemodynamics and durability, and it explicitly tackles the difficulty of comparing valve performance across platforms with different designs, and the limits of the randomised evidence. Weakest: it is a narrative review, so the selection of evidence is not systematic, and its conclusions depend on the authors' reading of trials that were mostly not designed for head-to-head valve comparisons. The abstract offers no figures or recommendations, so its practical value depends on the full text. No independent commentary on this paper was found yet.",
+   "critique_sources": [],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 9,
+   "title": "Case volume and hospital mortality in patients undergoing transcatheter aortic valve implantation.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043447",
+   "doi": "10.4244/eij-d-26-00369",
+   "link": "https://doi.org/10.4244/eij-d-26-00369",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043447/",
+   "short_title": "TAVI hospital volume and in-hospital mortality in Germany",
+   "summary": "No abstract is available for this research correspondence, so no results are reported here. Using quality assurance data from the German IQTIG, the authors, led by Jonathan Curio and Tim Friede, examined whether annual hospital volume of elective transvascular TAVI is related to all-cause in-hospital mortality among all legally insured patients treated in Germany from 2018 to 2022, using generalised linear mixed models. Earlier German analyses had given inconsistent answers. See the full letter for findings.",
+   "abstract_available": false,
+   "study_type": "Research correspondence (no abstract)",
+   "also_in": [],
+   "critique": "Without an abstract, only the design can be judged. Best: near-complete national data over five years, inclusion of alternative transvascular access routes that an earlier German analysis of about 40,000 transfemoral cases left out, and modern mixed-model statistics from experienced biostatisticians. Weakest: administrative quality data offer limited risk adjustment, the outcome stops at hospital discharge, and the analysis covers elective, planned procedures only. Any volume threshold derived from the German system may not transfer to Ireland's much smaller, centralised TAVI network. No independent commentary on this paper was found yet.",
+   "critique_sources": [],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 10,
+   "title": "Bicuspid aortic valve phenotypes and transcatheter aortic valve implantation feasibility in an all-comers population with severe aortic stenosis.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043440",
+   "doi": "10.4244/eij-d-26-00722",
+   "link": "https://doi.org/10.4244/eij-d-26-00722",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043440/",
+   "short_title": "bicuspid valve phenotypes and TAVI feasibility",
+   "summary": "No abstract is available for this research correspondence, so no results are reported here. From Rigshospitalet in Copenhagen, it examines anatomical suitability for TAVI among patients aged 50 or over with bicuspid aortic stenosis discussed by the Heart Team in 2023 and 2024, across three age groups, using cardiac CT. TAVI was deemed unsuitable for a unicuspid valve, an annular perimeter above 95 mm or an ascending aorta above 50 mm.",
+   "abstract_available": false,
+   "study_type": "Research correspondence (no abstract)",
+   "also_in": [],
+   "critique": "Without an abstract, only the design can be judged. Best: an all-comers Heart Team population with CT in every patient and consideration of every access route and every valve platform available in Denmark, which avoids the selection bias of TAVI-only series. Weakest: a single-centre, two-year cohort, and the three unsuitability rules are pragmatic anatomical cut-offs rather than outcome-validated criteria; it says nothing on durability or clinical results in bicuspid patients who are judged suitable. The age-related differences in phenotype may matter for younger Irish patients. No independent commentary on this paper was found yet.",
+   "critique_sources": [],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 11,
+   "title": "Simultaneous leaflet laceration and valve fracture or remodelling in valve-in-valve transcatheter aortic valve interventions: the \"crack-LLAMACORN\" technique.",
+   "journal": "EuroIntervention",
+   "date": "2026-11-17",
+   "pmid": "43043442",
+   "doi": "10.4244/eij-d-26-00463",
+   "link": "https://doi.org/10.4244/eij-d-26-00463",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043442/",
+   "short_title": "the crack-LLAMACORN technique in valve-in-valve TAVI",
+   "summary": "No abstract is available for this research correspondence, so no results are reported here. Teams from Barcelona and Madrid describe crack-LLAMACORN, an adaptation of LLAMACORN leaflet laceration in which the valvuloplasty balloon is oversized by at least 3 mm relative to the true internal diameter, to annihilate the leaflets and fracture or remodel a failed surgical bioprosthesis at once, in high-risk valve-in-valve patients at risk of coronary obstruction.",
+   "abstract_available": false,
+   "study_type": "Research correspondence, retrospective case series (no abstract)",
+   "also_in": [],
+   "critique": "Without an abstract, only the design can be judged. Best: it tackles the two main valve-in-valve problems, coronary obstruction and incomplete expansion, with a single balloon step under transoesophageal guidance, and reports consecutive patients from two centres. Weakest: it is a small retrospective first series from expert operators, with no comparator and early outcomes only; deliberate frame fracture with an oversized balloon carries risks of annular injury and leaflet debris that only larger cohorts can quantify, and suitability depends on the specific surgical valve. No independent commentary on this paper was found yet.",
+   "critique_sources": [],
+   "commentary_found": false
+  },
+  {
+   "category": "general",
+   "rank": 12,
+   "title": "Hedgehog Signaling-Dependent Heterochronic Control of Cardiomyocyte Differentiation Establishes Distinct Cardiac Progenitor Fields.",
+   "journal": "Circulation",
+   "date": "2026-11-17",
+   "pmid": "43043419",
+   "doi": "10.1161/circulationaha.126.080498",
+   "link": "https://doi.org/10.1161/circulationaha.126.080498",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43043419/",
+   "short_title": "Hedgehog signalling and the origin of the heart fields",
+   "summary": "Using a single-cell cardio-mesodermal atlas, confocal imaging of gastrulating mouse embryos and two Hedgehog loss-of-function mouse models, the authors show that Hedgehog signalling controls the timing of differentiation that separates the second heart field and juxta-cardiac field from the first heart field. All three arise from a common progenitor state; the first heart field escapes Hedgehog activity and differentiates rapidly. Partial loss caused premature differentiation, and complete loss prevented formation of both fields.",
+   "abstract_available": true,
+   "study_type": "Basic science (mouse developmental biology)",
+   "also_in": [],
+   "relevance": "Basic developmental biology relevant to congenital heart disease mechanisms; no direct clinical or interventional implications."
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Valve-in-valve transcatheter aortic valve implantation at three years: reassuring, provided you get there.",
+   "journal": "EuroIntervention",
+   "pmid": "43043450",
+   "doi": "10.4244/eij-d-26-01207",
+   "reason": "Editorial (Tarantini) accompanying the ViV-TAVI three-year study; editorials excluded (cited in that paper's critique)"
+  },
+  {
+   "title": "Losing \"function\" but gaining flow: reframing right ventricular assessment in transcatheter tricuspid valve replacement.",
+   "journal": "EuroIntervention",
+   "pmid": "43043441",
+   "doi": "10.4244/eij-d-26-00946",
+   "reason": "Editorial (Hahn, Le Ruz) accompanying the acute RV response to TTVR study; editorials excluded (cited in that paper's critique)"
+  },
+  {
+   "title": "Beyond drug-trial logic: designing interpretable procedural trials in interventional cardiology.",
+   "journal": "EuroIntervention",
+   "pmid": "43043444",
+   "doi": "10.4244/eij-d-26-00629",
+   "reason": "Viewpoint (single author, no abstract) on procedural trial design; opinion pieces excluded"
+  },
+  {
+   "title": "Simultaneous biventricular pressure-volume loop analysis during transcatheter tricuspid valve replacement.",
+   "journal": "EuroIntervention",
+   "pmid": "43043449",
+   "doi": "10.4244/eij-d-26-00588",
+   "reason": "Flashlight image/case article (two patients, pressure-volume loops during TTVR); case reports/images excluded"
+  },
+  {
+   "title": "Are We Ever Satisfied?",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.005",
+   "reason": "Editor-in-Chief's page (Krumholz) on professional satisfaction; editorial, not research"
+  },
+  {
+   "title": "Keeping Up Appearances—Or Measuring What Matters?",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.1833",
+   "reason": "Editorial comment (Malhotra, Collet, Spratt) accompanying the VICTORY trial; editorials excluded (named in that paper's critique)"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

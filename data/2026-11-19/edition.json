@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-19",
+ "label": "Thursday 19 November 2026",
+ "format": 2,
+ "journals": [
+  "Circulation: Cardiovascular Interventions",
+  "JAMA Cardiology"
+ ],
+ "window": {
+  "start": "2026-11-18",
+  "end": "2026-11-19",
+  "basis": "PubMed entry date 18–19 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-19T09:06",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 4,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 5,
+   "included": 2
+  },
+  "NEJM": {
+   "pubmed_in_window": 12,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 7,
+   "included": 0
+  }
+ },
+ "n_papers": 3,
+ "n_interventional": 1,
+ "n_general": 2,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Residual Peridevice Leak at 45-Day Transesophageal Echocardiogram After Left Atrial Appendage Occlusion.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-18",
+   "pmid": "43050228",
+   "doi": "10.1001/jamacardio.2026.5088",
+   "link": "https://doi.org/10.1001/jamacardio.2026.5088",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43050228/",
+   "short_title": "residual peridevice leak after left atrial appendage occlusion",
+   "summary": "No abstract is available for this paper, so no results are reported here. From the Mayo Clinic in Arizona and Minnesota, this cohort study, with Cecilia Villa Etchegoyen and Reza Arsanjani as corresponding authors, evaluates whether the severity of peridevice leak seen on the routine 45-day transoesophageal echo after left atrial appendage occlusion is associated with long-term thromboembolic outcomes. See the full paper for findings.",
+   "abstract_available": false,
+   "study_type": "Cohort study (no abstract available)",
+   "also_in": [],
+   "critique": "Without an abstract, only the design can be judged. Best: a practical question, because nearly every patient has this 45-day echo, and grading leak severity rather than simply present or absent could guide antithrombotic therapy and decisions on leak closure; long-term follow-up adds value. Weakest: as an observational cohort from one health system, it is open to confounding, event numbers may be small, device generations are likely mixed, and echo misses leaks that CT detects. For context, a related European Heart Journal meta-analysis of 48 studies found a graded association between echo leak size and thromboembolism. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "European Heart Journal (related meta-analysis)",
+     "title": "Residual leaks following percutaneous left atrial appendage occlusion and outcomes: a meta-analysis",
+     "url": "https://doi.org/10.1093/eurheartj/ehad828",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Ventricular Morphology and Atrioventricular Valve Regurgitation in Adults Post-Fontan: Associations With Exercise Hemodynamics.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-18",
+   "pmid": "43046954",
+   "doi": "10.1161/circinterventions.126.017083",
+   "link": "https://doi.org/10.1161/circinterventions.126.017083",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43046954/",
+   "short_title": "exercise haemodynamics in adults after Fontan",
+   "summary": "In this cross-sectional study of adults after Fontan palliation, exercise haemodynamics were measured invasively, by supine exercise catheterisation, in 108 patients and semi-invasively in another 108. In the invasive cohort, median age 32, 41 had right ventricular dominance and 19 moderate or severe atrioventricular valve regurgitation. Pulmonary and wedge pressures were similar across groups, but RV dominance meant a weaker systemic flow response, 67% versus 86% predicted, and steeper pressure-flow slopes; regurgitation showed a similar pattern.",
+   "abstract_available": true,
+   "study_type": "Cross-sectional cohort study",
+   "also_in": [],
+   "relevance": "Mainly of adult congenital interest, but a reminder that resting catheter pressures can hide limited flow reserve in Fontan patients."
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Anemia and Iron Status in Pregnant and Postpartum Women With Acute Heart Failure.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-18",
+   "pmid": "43050201",
+   "doi": "10.1001/jamacardio.2026.4972",
+   "link": "https://doi.org/10.1001/jamacardio.2026.4972",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43050201/",
+   "short_title": "anaemia, iron and acute heart failure in pregnancy",
+   "summary": "In this prospective case-control study from 10 hospitals in four Indian states, 532 pregnant or postpartum women with acute heart failure were compared with 1091 postpartum controls. After adjustment, including for hypertensive disorders of pregnancy, severe anaemia carried five-fold higher odds of heart failure (adjusted odds ratio 5.06, 95% CI 3.02 to 8.48) and moderate anaemia 1.5-fold. Markers of iron deficiency were independently associated too. Adding anaemia to established risk factors raised the AUC from 78% to 83%.",
+   "abstract_available": true,
+   "study_type": "Multicentre prospective case-control study",
+   "also_in": [],
+   "relevance": "Of limited relevance to interventional practice in Ireland, but it supports checking iron status in pregnant women with heart failure or peripartum cardiomyopathy."
+  }
+ ],
+ "excluded": [],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

@@ -1,7 +1,18 @@
 {
  "app": "Cardio Briefing",
- "latest": "2026-11-18",
+ "latest": "2026-11-19",
  "editions": [
+  {
+   "date": "2026-11-19",
+   "label": "Thursday 19 November 2026",
+   "format": 2,
+   "n_papers": 3,
+   "n_interventional": 1,
+   "n_general": 2,
+   "audio": true,
+   "duration_s": 226.1,
+   "audio_bytes": 2261393
+  },
   {
    "date": "2026-11-18",
    "label": "Wednesday 18 November 2026",

@@ -1,0 +1,318 @@
+{
+ "date": "2026-11-20",
+ "label": "Friday 20 November 2026",
+ "format": 2,
+ "journals": [
+  "JACC",
+  "JACC: Cardiovascular Interventions",
+  "The Lancet"
+ ],
+ "window": {
+  "start": "2026-11-19",
+  "end": "2026-11-20",
+  "basis": "PubMed entry date 19–20 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-20T09:10",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 1
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 2
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 2,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 23,
+   "included": 1
+  },
+  "JAMA": {
+   "pubmed_in_window": 11,
+   "included": 0
+  }
+ },
+ "n_papers": 4,
+ "n_interventional": 2,
+ "n_general": 2,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Sex-Related Differences in Patients Undergoing Transcatheter Edge-to-Edge Repair for Primary Mitral Regurgitation",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-19",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.08.038",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.038",
+   "pubmed_link": null,
+   "short_title": "sex differences after edge-to-edge repair for primary mitral regurgitation",
+   "summary": "No abstract is available for this paper yet, so no results are reported here. Written by Pezzola, Serafini, Ludwig, Patel, Stolz, Tanaka, Trenkwalder and colleagues, it compares women and men undergoing mitral transcatheter edge-to-edge repair for primary, degenerative mitral regurgitation, looking at baseline characteristics, procedural results and clinical outcomes by sex. Its author list overlaps with the international PRIME-MR registry group. See the full paper for findings.",
+   "abstract_available": false,
+   "study_type": "Observational study (no abstract available)",
+   "also_in": [],
+   "critique": "Without an abstract, only the question and likely design can be judged. Best: sex-specific data after edge-to-edge repair for primary regurgitation are scarce, and women have historically done worse after surgical mitral repair, so a large multicentre analysis is welcome. Weakest: it is likely observational, so confounding and selection, such as surgery being withheld for age or frailty, limit causal conclusions. For context, a related PRIME-MR conference abstract at the 2026 German Cardiac Society meeting reported 2078 patients, higher gradients and more residual regurgitation in women, yet lower two-year all-cause mortality, hazard ratio 0.67; the published figures may differ. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "German Cardiac Society 2026 congress abstract (related, Clin Res Cardiol)",
+     "title": "Sex-Related Differences in Baseline Characteristics and Clinical Outcomes of Patients Undergoing Transcatheter Edge-to-Edge Repair for Primary Mitral Regurgitation: Insights from the PRIME-MR Registry",
+     "url": "https://herzmedizin.de/fuer-aerzte-und-fachpersonal/dgk/kongresse/dgk-jahrestagung-2026/programm/25724_interventionelle_therapie_der_mitralklappe___prognostische/v319",
+     "kind": "related"
+    },
+    {
+     "outlet": "JACC: Cardiovascular Imaging (related meta-analysis)",
+     "title": "Sex-Related Differences in Outcomes and Thresholds for Intervention in Primary Mitral Regurgitation: A Systematic Review and Meta-Analysis",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcmg.2026.05.013",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Right-Ventricular Damage and Clinical Outcomes in Patients With Severe Tricuspid Regurgitation",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-19",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.09.024",
+   "link": "https://doi.org/10.1016/j.jcin.2026.09.024",
+   "pubmed_link": null,
+   "short_title": "right ventricular damage in severe tricuspid regurgitation",
+   "summary": "No abstract is available for this paper yet, so no results are reported here. From Brunner, Kalbacher, Wild, Kessler, Rudolph, Lurz, Thiele, Hausleiter and colleagues, a group behind the European tricuspid registries, it examines how the degree of right ventricular damage relates to clinical outcomes in patients with severe tricuspid regurgitation, a central question when deciding whether and when to offer transcatheter tricuspid therapy. See the full paper for findings.",
+   "abstract_available": false,
+   "study_type": "Observational study (no abstract available)",
+   "also_in": [],
+   "critique": "Without an abstract, only the question can be judged. Best: right ventricular function is the key unknown in timing tricuspid intervention, and this group has large multicentre datasets; their 2025 EuroTR analysis in this journal, of 2191 patients after tricuspid edge-to-edge repair, found that lower TAPSE, a larger right ventricle and residual regurgitation each predicted mortality, with the worst outcomes when dysfunction and dilation coexisted. Weakest: echo measures of the right ventricle are load dependent and vary between readers, observational data cannot show that earlier treatment reverses damage, and treatment choice may confound outcomes. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "JACC: Cardiovascular Interventions 2025 (related, same group)",
+     "title": "The Relevance of Right Ventricular Function and Dimension in Patients Undergoing Transcatheter Tricuspid Edge-to-Edge Repair",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2025.05.037",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Spontaneous coronary artery dissection: implications for women's health, clinical care, and future research.",
+   "journal": "The Lancet",
+   "date": "2026-11-19",
+   "pmid": "43057279",
+   "doi": "10.1016/s0140-6736(26)01485-6",
+   "link": "https://doi.org/10.1016/s0140-6736(26)01485-6",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43057279/",
+   "short_title": "a review of spontaneous coronary artery dissection",
+   "summary": "This Lancet Review by Bay, Magnussen, Adlam and colleagues summarises evidence on spontaneous coronary artery dissection, an increasingly recognised cause of acute coronary syndromes that mainly affects younger women and is more common than once thought. Early adverse-event risk is substantial, particularly in the first weeks. Because dissections often heal spontaneously, conservative management is preferred, with revascularisation reserved for ongoing ischaemia or haemodynamic compromise. It also covers genetics, diagnosis, reproductive health and research priorities.",
+   "abstract_available": true,
+   "study_type": "Review",
+   "also_in": [],
+   "relevance": "Directly relevant to the cath lab: a useful update on recognising SCAD at angiography and on when to resist stenting."
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Lipid-Lowering Strategies in the Era of Early Atherosclerosis Detection: 2026 ACC Scientific Statement",
+   "journal": "JACC",
+   "date": "2026-11-19",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.067",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.067",
+   "pubmed_link": null,
+   "short_title": "the 2026 ACC statement on earlier lipid lowering",
+   "summary": "This 2026 American College of Cardiology Scientific Statement, chaired by Philip Greenland, reviews the case for earlier and more sustained lipid lowering, since atherosclerosis begins early and is driven by cumulative LDL exposure. It covers lifetime lipid burden, risk enhancers and imaging of subclinical atherosclerosis, which may reveal risk underestimated by calculators. Direct trial evidence in young, low-risk people is limited, so it advises individualised, shared decisions integrating short- and long-term risk.",
+   "abstract_available": true,
+   "study_type": "ACC scientific statement (abstract from publisher page)",
+   "also_in": [],
+   "relevance": "Useful background when advising relatives of young coronary patients or acting on plaque seen incidentally on CT, though it reflects American rather than ESC practice."
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Title Page",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/s0735-1097(26)10149-1",
+   "reason": "JACC 'Title Page' front matter; not a paper"
+  },
+  {
+   "title": "Transcatheter Edge-to-Edge Repair for Primary Mitral Regurgitation",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.09.017",
+   "reason": "Two-author piece (Franzone, Angellotti) with a generic title, apparently the editorial comment on the sex-differences TEER paper; editorials excluded (when in doubt, leave out)"
+  },
+  {
+   "title": "When “Moderate” Multiplies",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.08.030",
+   "reason": "Short four-author piece with no abstract and an editorial-style title; likely editorial comment; excluded (when in doubt, leave out)"
+  },
+  {
+   "title": "Neointimal Dissection and Large Hematoma Inside Covered Stent",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.09.025",
+   "reason": "Images in Intervention-style single-case image article (covered stent dissection/haematoma); case reports/images excluded"
+  },
+  {
+   "title": "AS-0092 Three-Year Outcomes of Excimer Laser Coronary Angioplasty Combined with Drug-Coated Balloon for In-Stent Restenosis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.039",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0244 Bone marrow mesenchymal stem cell attenuates hypertension and associated cardiovascular remodeling",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.11.122",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0139 Inflammatory Burden Index and Adverse Cardiovascular Outcomes in Community-Based and Hospital Cohorts with Coronary Heart Disease: A Dual-Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.037",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0071 Aldosterone Transcriptionally Upregulates Syk Expression to Enhance Arterial Thrombosis in Primary Aldosteronism via Mineralocorticoid Receptor Activation",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.041",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0084 Development and Large-Animal Evaluation of a Siloxane Polyurethane Urea Surgical Heart Valve for Mitral Valve Replacement",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.040",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0153 An Unrecognized Perimenopausal-Age Window of Genitourinary Bleeding in Anticoagulated Women With Atrial Fibrillation",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.035",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0048 Effect of Physiology-Guided Coronary Artery Bypass Grafting Across Valve Disease Subtypes: A Pre-specified Subgroup Analysis of the FAVOR IV-QVAS Trial",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.029",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0095 Isoliensinine Ameliorates Pathological Cardiac Hypertrophy by Regulating Mitochondrial Function through the Nrf1–COX6A2 Axis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.038",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0186 DDX39BK63-linked ubiquitination by TRIM28 alleviates myocardial ischemia/reperfusion injury in mice by enhancing FGF12 mRNA stability",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.032",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0018 A Focus on Women’s Health: Long-Term Maintenance of Muscle Function and Health Outcomes",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.044",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0157 Development and External Validation of Interpretable Machine Learning Models for Predicting Short- and Intermediate-Term Mortality in Sepsis-Associated Atrial Fibrillation",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.034",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0011 NIR-II Photoacoustic Imaging of Vulnerable Plaques with a Myeloperoxidase-Targeted Nanoprobe",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.045",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0174 Long-term thromboembolic prevention in patients with left atrial appendage thrombus",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.033",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0049 The Efficacy of Early Rapid Exercise Rehabilitation During Perioperative Period in Patients Undergoing Robot-Assisted Coronary Artery Bypass Grafting(RACABG): A Retrospective Cohort Study",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.043",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0243 Non-invasive liver fibrosis markers and their correlation with carotid plaque and plaque vulnerability in MASLD patients",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.030",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0232 Impact of TAVR on Cardiac Reverse Remodeling Across Aortic Valve Disease Phenotypes: Findings from the NTCVR",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.031",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0059 Disturbed Flow-Dependent PTGS2 Activation via Nanodisk Delivery Attenuates Atherosclerosis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.042",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0002 Dynamic Metabolic Biomarker Trajectories and Long-term Stroke Incidence in Cardiovascular-Kidney-Metabolic Syndrome Stages 0-2: Insights from A Nationwide Cohort Analysis",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.028",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  },
+  {
+   "title": "AS-0140 Spp1 promotes atrial fibrosis and increases atrial fibrillation susceptibility after myocardial infarction",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.10.036",
+   "reason": "Conference abstract (JACC meeting abstract supplement, 'AS-' series, no abstract text); conference abstracts excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

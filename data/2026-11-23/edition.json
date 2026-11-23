@@ -1,0 +1,129 @@
+{
+ "date": "2026-11-23",
+ "label": "Monday 23 November 2026",
+ "format": 2,
+ "journals": [
+  "JACC: Cardiovascular Interventions"
+ ],
+ "window": {
+  "start": "2026-11-20",
+  "end": "2026-11-23",
+  "basis": "PubMed entry date 20–23 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-23T09:07",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 3,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 5,
+   "included": 2
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 1,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 9,
+   "included": 0
+  }
+ },
+ "n_papers": 2,
+ "n_interventional": 2,
+ "n_general": 0,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Transcatheter Tricuspid Edge-To-Edge Repair Versus Transcatheter Tricuspid Valve Replacement for Severe Symptomatic Tricuspid Regurgitation",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-22",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.08.013",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.013",
+   "pubmed_link": null,
+   "short_title": "tricuspid edge-to-edge repair versus valve replacement",
+   "summary": "This study by Puri, Taramasso and colleagues offers the first large comparison of tricuspid edge-to-edge repair and transcatheter tricuspid valve replacement, both approved for severe symptomatic tricuspid regurgitation but never compared head to head. The investigators harmonised two international registries, TRIVALVE, with 384 edge-to-edge repair patients, and TRIPLACE, with 398 valve replacement patients, giving 782 in total. Using inverse probability weighting balanced on 14 clinical and echocardiographic variables, they estimated treatment effects on time to death, heart failure hospitalisation, valve reintervention, bleeding and their composite of major adverse cardiovascular events. Median follow-up was 276 days. Replacement nearly abolished regurgitation, median residual grade 0 versus 2, with mild to moderate regurgitation persisting after repair. However, replacement carried an early mortality penalty: death occurred on average about 81 days earlier, P equals 0.002, and major adverse events about 71 days earlier, P equals 0.001. The authors call the analysis hypothesis-generating and urge work to define which patients suit each device.",
+   "abstract_available": true,
+   "study_type": "Observational registry comparison (inverse probability weighting; abstract from publisher page)",
+   "also_in": [],
+   "critique": "Best: this is the largest head-to-head comparison so far, from experienced international centres, and it uses formal causal-inference methods rather than crude comparison, expressing results in an intuitive unit, days of life lost. Weakest: two separate registries with different eras, devices and selection were merged, and only 14 covariates were balanced, so residual confounding, for example by right ventricular function or frailty, is likely. Median follow-up is under a year, too short to judge whether an early penalty persists or reverses. For contrast, a related TriNetX analysis presented at AHA 2026 found similar heart failure hospitalisation with both approaches. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "Circulation (AHA 2026 abstract, related)",
+     "title": "Abstract 10298: Comparative Outcomes of Transcatheter Tricuspid Edge-to-Edge Repair versus Transcatheter Tricuspid Valve Replacement: A Propensity-Matched Real-World Analysis",
+     "url": "https://www.ahajournals.org/doi/10.1161/circ.154.suppl_1.10298",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "One-Year Outcomes of Transcatheter Tricuspid Valve Replacement",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-22",
+   "pmid": null,
+   "doi": "10.1016/j.jcin.2026.11.005",
+   "link": "https://doi.org/10.1016/j.jcin.2026.11.005",
+   "pubmed_link": null,
+   "short_title": "one-year real-world results of EVOQUE tricuspid valve replacement",
+   "summary": "From Angellotti, Praz and colleagues at 11 European centres, this retrospective single-arm study reports one-year results of commercial transcatheter tricuspid valve replacement with the EVOQUE system, implanted between October 2023 and July 2025. Of 237 consecutive patients, median age 80, two thirds women, median TRI-SCORE 5, one-year vital status was known in 95.4 percent. Paravalvular leak of mild or more was present in 15.4 percent, and moderate or more in 2.0 percent. A new permanent pacemaker was needed in 19.8 percent of pacemaker-naive patients. At one year, regurgitation was mild or less in 98.6 percent, and NYHA class three or four fell from 83.1 to 18.9 percent. Right ventricular basal diameter shrank by 4 millimetres, while left ventricular and left atrial volumes rose, with unchanged ejection fraction. Mortality was 12.8 percent. Paravalvular leak was linked to higher mortality, and each TRI-SCORE point raised the hazard of death or heart failure hospitalisation, hazard ratio 1.26, 95 percent CI 1.06 to 1.50.",
+   "abstract_available": true,
+   "study_type": "Retrospective multicentre single-arm registry (abstract from publisher page)",
+   "also_in": [],
+   "critique": "Best: these are consecutive, multicentre, real-world data with near-complete vital status, extending the same group's 2025 thirty-day report in this journal, and they show the near-elimination of regurgitation seen in trials carried into routine practice. Weakest: the design is retrospective and single arm with no comparator, so symptom gains cannot be separated from placebo effect or medical optimisation; one-year echo data exist for only 138 patients, risking survivor bias; and a pacemaker rate near one in five remains a real cost. The rise in left-sided volumes needs longer follow-up. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "JACC: Cardiovascular Interventions 2025 (related, same group's 30-day report)",
+     "title": "Early Outcomes of Real-World Transcatheter Tricuspid Valve Replacement",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2025.06.002",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Lp(a) Lowering, a GLP-1 Drug for Sleep Apnea, Stopping Statins in Older Age, and More From AHA 2026.",
+   "journal": "JAMA",
+   "pmid": "43062826",
+   "doi": "10.1001/jama.2026.22534",
+   "reason": "JAMA Medical News interview (AHA 2026 roundup); news excluded"
+  },
+  {
+   "title": "\"Bikini Medicine\" No More-Major Medical Societies Propose New Framework for Female Heart Health.",
+   "journal": "JAMA",
+   "pmid": "43062808",
+   "doi": "10.1001/jama.2026.24772",
+   "reason": "JAMA Medical News article on a women's cardiovascular health framework; news excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

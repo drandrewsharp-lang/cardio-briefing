@@ -1,0 +1,413 @@
+{
+ "date": "2026-11-24",
+ "label": "Tuesday 24 November 2026",
+ "format": 2,
+ "journals": [
+  "JACC: Cardiovascular Interventions",
+  "Circulation",
+  "Circulation: Cardiovascular Interventions",
+  "JAMA"
+ ],
+ "window": {
+  "start": "2026-11-23",
+  "end": "2026-11-24",
+  "basis": "PubMed entry date 23–24 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-24T09:12",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 18,
+   "included": 6
+  },
+  "Circulation": {
+   "pubmed_in_window": 7,
+   "included": 4
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 2,
+   "included": 1
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 4,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 13,
+   "included": 1
+  }
+ },
+ "n_papers": 12,
+ "n_interventional": 8,
+ "n_general": 4,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Transcatheter Edge-to-Edge Repair for Severe Isolated Tricuspid Regurgitation After Extended Follow-Up: The TRI-FR Randomized Clinical Trial",
+   "journal": "Circulation",
+   "date": "2026-11-24",
+   "pmid": null,
+   "doi": "10.1161/circulationaha.126.080397",
+   "link": "https://doi.org/10.1161/circulationaha.126.080397",
+   "pubmed_link": null,
+   "short_title": "extended follow-up of the TRI-FR tricuspid edge-to-edge repair trial",
+   "summary": "From Donal and colleagues, this secondary analysis reports extended follow-up of the French multicentre randomised trial of tricuspid edge-to-edge repair plus optimised medical therapy versus medical therapy alone in severe symptomatic tricuspid regurgitation. Of 300 patients, 152 had repair and 148 medical therapy only. Over a median follow-up of 30.8 months there were 101 heart failure hospitalisations, 17 of them fatal, 5 further cardiovascular deaths and 11 tricuspid operations. Repair reduced the first composite of heart failure hospitalisation, tricuspid surgery or cardiovascular death, hazard ratio 0.56, 95 percent CI 0.36 to 0.88, P equals 0.011. Cardiovascular death or tricuspid surgery did not differ significantly, hazard ratio 0.75. Recurrent heart failure hospitalisations fell, rate ratio 0.52, 95 percent CI 0.32 to 0.84. In a 12-month landmark analysis of 276 patients, the composite benefit persisted, hazard ratio 0.40. Severe or worse regurgitation at the last core laboratory assessment was present in 6.8 percent after repair versus 53.5 percent with medical therapy alone.",
+   "abstract_available": true,
+   "study_type": "Randomised controlled trial, extended follow-up (secondary analysis)",
+   "also_in": [],
+   "critique": "Best: this is randomised, multicentre evidence with no crossover from the control arm, which, as ACC.org noted when the data were presented at ACC.26, allows long-term outcomes to be compared cleanly, and recurrent-event methods capture the repeated admissions typical of right heart failure. Weakest: the trial was open label, a limitation ACC.org also flagged, and heart failure hospitalisation is a decision-dependent endpoint without blinding. Cardiovascular death or surgery did not differ, so a survival benefit is unproven, and landmark analyses select survivors. Abbott provided the devices and a grant. ACC.org reports 91 percent had extremely severe regurgitation, and follow-up will continue to five years.",
+   "critique_sources": [
+    {
+     "outlet": "ACC.org (Latest in Cardiology, ACC.26 late-breaking presentation)",
+     "title": "TRI-FR: T-TEER Reduces HF Hospitalization, More in Patients With Severe TR",
+     "url": "https://www.acc.org/latest-in-cardiology/articles/2026/03/25/21/27/sun-4pm-trifr-acc-2026",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "Circulation (paper page: funding and disclosures)",
+     "title": "Transcatheter Edge-to-Edge Repair for Severe Isolated Tricuspid Regurgitation After Extended Follow-Up: The TRI-FR Randomized Clinical Trial",
+     "url": "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.080397",
+     "kind": "full_text"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Optical Coherence Tomography-Guided or Intravascular Ultrasound-Guided PCI for In-Stent Restenosis Lesions: Insights From the OCTIVUS Trial.",
+   "journal": "Circulation: Cardiovascular Interventions",
+   "date": "2026-11-23",
+   "pmid": "43070184",
+   "doi": "10.1161/circinterventions.126.017174",
+   "link": "https://doi.org/10.1161/circinterventions.126.017174",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43070184/",
+   "short_title": "OCT versus IVUS guidance for in-stent restenosis in OCTIVUS",
+   "summary": "From Seo, Kang, Duk-Woo Park and the OCTIVUS investigators in Korea, this prespecified analysis looks at in-stent restenosis lesions within OCTIVUS, a randomised trial comparing optical coherence tomography with intravascular ultrasound guidance for PCI, because direct comparisons of the two imaging methods in restenosis have been lacking. Of 2008 trial patients, 164, or 8.2 percent, had imaging-guided PCI for in-stent restenosis: 86 guided by OCT and 78 by IVUS. The primary outcome was target-vessel failure, a composite of cardiac death, target-vessel myocardial infarction or ischaemia-driven target-vessel revascularisation. At a median of 1.8 years, target-vessel failure occurred in 10.5 percent with OCT versus 29.5 percent with IVUS, hazard ratio 0.34, 95 percent CI 0.16 to 0.74, P equals 0.007. Results held with inverse probability of treatment weighting, hazard ratio 0.31, 95 percent CI 0.14 to 0.69, and with overlap propensity weighting, hazard ratio 0.31. The authors call the analysis exploratory and say it should not be considered clinically directive.",
+   "abstract_available": true,
+   "study_type": "Prespecified subgroup analysis of a randomised trial",
+   "also_in": [],
+   "critique": "Best: patients come from a randomised trial with adjudicated endpoints, and both adjusted analyses agree with the crude result, giving a large, consistent effect in a lesion type where OCT's resolution of neointima, underexpansion and neoatherosclerosis is plausibly helpful. Weakest: the subgroup is small, 164 patients with only 32 events according to the TCT 2025 abstract of this analysis, and the confidence interval is wide; a near threefold difference exceeds any plausible imaging effect and may partly reflect chance or imbalance. How lesions were treated, balloon or stent, is not given in the abstract. Abbott and Medtronic co-funded the trial. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "JACC (TCT 2025 abstract of the same analysis, related)",
+     "title": "TCT-191 Optical Coherence Tomography-Guided or Intravascular Ultrasound-Guided PCI for In-Stent Restenosis Lesions in the OCTIVUS Trial",
+     "url": "https://www.jacc.org/doi/10.1016/j.jacc.2025.09.276",
+     "kind": "related"
+    },
+    {
+     "outlet": "Circulation: Cardiovascular Interventions (paper page: funding)",
+     "title": "Optical Coherence Tomography-Guided or Intravascular Ultrasound-Guided PCI for In-Stent Restenosis Lesions: Insights From the OCTIVUS Trial",
+     "url": "https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.126.017174",
+     "kind": "full_text"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 3,
+   "title": "Pharmacodynamic Effects of Different Ticagrelor Dosing Regimens With and Without Aspirin in Patients With Diabetes.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-23",
+   "pmid": "43072901",
+   "doi": "10.1016/j.jcin.2026.08.023",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.023",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43072901/",
+   "short_title": "low-dose ticagrelor with or without aspirin in diabetes, OPTIMUS-7",
+   "summary": "From Franchi, Angiolillo and colleagues in Florida, OPTIMUS-7 is a randomised pharmacodynamic study in 81 patients with coronary disease and diabetes. After a 7-day run-in on aspirin 81 milligrams plus ticagrelor 90 milligrams twice daily, then 10 days of ticagrelor 90 alone, patients were randomised to ticagrelor 60 milligrams alone, aspirin plus ticagrelor 60, or aspirin plus clopidogrel 75. The primary endpoint was noninferiority of ticagrelor 60 alone versus aspirin plus ticagrelor 60 on trough VerifyNow P2Y12 reaction units after 10 days, with a margin of 45 units. Monotherapy gave similar values, 47 versus 40 units, mean difference 7, 95 percent CI minus 23 to 38, meeting noninferiority. Clopidogrel-based dual therapy gave higher reaction units than either ticagrelor regimen, with parallel findings on light transmittance aggregometry and VASP. However, thromboxane-mediated platelet reactivity and global thrombogenicity were higher with ticagrelor alone than with dual therapy. The authors conclude low-dose ticagrelor alone gives P2Y12 inhibition similar to aspirin plus ticagrelor.",
+   "abstract_available": true,
+   "study_type": "Randomised pharmacodynamic study",
+   "also_in": [],
+   "critique": "Best: a randomised design with three platelet assays, a prespecified noninferiority margin and a practical question, since 60 milligrams is the long-term ticagrelor dose and aspirin-free strategies are spreading. Weakest: it is a small, open-label, 10-day surrogate study; reaction units say nothing about clinical events, and the 45-unit margin is wide relative to the values measured. Higher thromboxane-mediated reactivity without aspirin is a signal of unknown clinical meaning. AstraZeneca is listed as a collaborator on ClinicalTrials.gov. An accompanying editorial by Dirk Sibbing is titled Low-Dose Ticagrelor Without Aspirin in Diabetes: Reassuring Pharmacodynamics, Open Clinical Questions; its text was not accessible.",
+   "critique_sources": [
+    {
+     "outlet": "JACC: Cardiovascular Interventions (accompanying editorial, Sibbing; title only)",
+     "title": "Low-Dose Ticagrelor Without Aspirin in Diabetes: Reassuring Pharmacodynamics, Open Clinical Questions",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.10.008",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "ClinicalTrials.gov (NCT04484259: design, masking, collaborator)",
+     "title": "Ticagrelor With and Without Aspirin in Patients With Diabetes Mellitus (OPTIMUS-7)",
+     "url": "https://clinicaltrials.gov/study/NCT04484259",
+     "kind": "full_text"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 4,
+   "title": "Impact of Targeted Bleeding Source Treatment on Recurrent Bleeding Following Percutaneous Coronary Intervention.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-23",
+   "pmid": "43072899",
+   "doi": "10.1016/j.jcin.2026.08.026",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.026",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43072899/",
+   "short_title": "treating the bleeding source before PCI",
+   "summary": "From Bär, Räber, Windecker and colleagues in Bern, this registry study asks whether treating the source of a previous bleed before PCI prevents recurrent bleeding. Among 19,352 patients in the Cardiobase Bern PCI registry, 847, or 4.4 percent, had a BARC type 2 to 4 bleed before their index PCI; 358 received targeted treatment, defined as surgical, interventional or medical therapy aimed at curing the bleeding cause, and 489 did not. Results were adjusted by inverse probability weighting for high bleeding risk variables, antithrombotic treatment and bleeding location. Over about one year, recurrent BARC 2 to 5 bleeding at the same site occurred in 8.9 percent with targeted treatment versus 5.1 percent without, hazard ratio 1.88, 95 percent CI 1.10 to 3.19. Any recurrent bleeding, 14.5 versus 10.6 percent, hazard ratio 1.41, and mortality, 14.0 versus 12.3 percent, hazard ratio 1.16, did not differ significantly. The authors conclude that targeted treatment did not reduce recurrent bleeding or death after PCI.",
+   "abstract_available": true,
+   "study_type": "Observational registry study (inverse probability weighting)",
+   "also_in": [],
+   "critique": "Best: a large, prospectively collected all-comers registry with standard BARC definitions, tackling a question interventionalists face when a patient with a recent bleed needs PCI. Weakest: treatment was not randomised, and patients who had targeted treatment probably had more severe or more obviously treatable lesions, so confounding by indication may explain the higher same-site rebleeding; weighting covered limited variables. Events are few, 57 same-site bleeds, and enrolment spanned 2009 to 2019, per the group's ESC 2024 abstract, as antithrombotic practice changed. An accompanying editorial by Felice Gragnano and Paolo Calabrò is titled Treating the Bleeding Source Before PCI Does Not Reset Bleeding Risk; its text was not accessible.",
+   "critique_sources": [
+    {
+     "outlet": "JACC: Cardiovascular Interventions (accompanying editorial, Gragnano and Calabrò; title only)",
+     "title": "Treating the Bleeding Source Before PCI Does Not Reset Bleeding Risk",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.10.003",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "European Heart Journal (ESC 2024 abstract of earlier analysis, related)",
+     "title": "The impact of targeted bleeding source treatment on the risk of recurrent bleeding after percutaneous coronary intervention among patients with a history of prior bleeding",
+     "url": "https://doi.org/10.1093/eurheartj/ehae666.2392",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 5,
+   "title": "Predicting Ischemic and Bleeding Risk in Patients on DAPT After PCI: A Machine Learning Model.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-23",
+   "pmid": "43072897",
+   "doi": "10.1016/j.jcin.2026.07.056",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.056",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43072897/",
+   "short_title": "a machine learning model for ischaemic and bleeding risk on DAPT",
+   "summary": "From Cao, Mehran, Valgimigli and colleagues, this study developed machine learning models to predict ischaemic and bleeding risk in the year after PCI, to support antiplatelet decisions. Data from 11 clinical trials, 19,106 patients treated with everolimus-eluting stents, were split 3 to 1 for training and internal validation. Separate models predicted ischaemic events, meaning cardiovascular death, myocardial infarction, stroke or stent thrombosis, and BARC type 3 or 5 bleeding. The Boruta algorithm selected the 11 most informative variables. External validation used 10,696 patients treated at Mount Sinai Hospital in New York. The training set had 594 ischaemic events, 4.1 percent, and 448 bleeding events, 3.1 percent. A random survival forest performed best, with time-dependent areas under the curve of 0.76 for ischaemia and 0.81 for bleeding. On internal and external validation these were 0.72 and 0.70 for ischaemic events, and 0.72 and 0.71 for bleeding, meeting the prespecified performance goal. The authors call for prospective evaluation in antithrombotic decisions.",
+   "abstract_available": true,
+   "study_type": "Prediction model development and validation (pooled trials plus external registry)",
+   "also_in": [],
+   "critique": "Best: a large training set of adjudicated trial data, a parsimonious 11-variable model, and genuine external validation in an independent real-world cohort, with discrimination holding at about 0.70. Weakest: an area under the curve of 0.70 is modest, the abstract does not compare it with established scores such as PRECISE-DAPT or report calibration, trial patients are healthier than routine practice, and only everolimus-eluting stents were included. Two co-authors are from Abbott Vascular, which makes those stents. No study yet shows that using the tool improves outcomes. An accompanying editorial by Francesco Costa, A Journey of Risk Scores for Dual Antiplatelet Therapy Guidance, was published; its text was not accessible.",
+   "critique_sources": [
+    {
+     "outlet": "JACC: Cardiovascular Interventions (accompanying editorial, Costa; title only)",
+     "title": "A Journey of Risk Scores for Dual Antiplatelet Therapy Guidance",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.10.012",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "JACC: Cardiovascular Interventions (paper page: author affiliations)",
+     "title": "Predicting Ischemic and Bleeding Risk in Patients on DAPT After PCI: A Machine Learning Model",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.07.056",
+     "kind": "full_text"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 6,
+   "title": "Transcatheter Valve Repair of Tricuspid Regurgitation: 2-Year Outcomes From the TriCLASP Study.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-23",
+   "pmid": "43072903",
+   "doi": "10.1016/j.jcin.2026.07.054",
+   "link": "https://doi.org/10.1016/j.jcin.2026.07.054",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43072903/",
+   "short_title": "two-year results of PASCAL tricuspid repair in TriCLASP",
+   "summary": "From Geisler, Baldus and colleagues, TriCLASP is a European single-arm postmarket study of tricuspid edge-to-edge repair with the PASCAL system, here reporting 2-year outcomes, including by baseline regurgitation severity. The 300 patients had a mean age of 80.1 years, 52 percent were women, and 75.8 percent had severe or worse regurgitation. Regurgitation reduction was sustained, with moderate or less achieved in 81.3 percent at 2 years. Kaplan-Meier survival was 77.5 percent and freedom from heart failure hospitalisation 71.9 percent, with a 71.4 percent fall in the annualised hospitalisation rate. At 2 years, 73.2 percent were in NYHA class one or two, 6-minute walk distance had risen by 26.6 metres and the KCCQ overall summary score by 7.3 points, all P below 0.001. Outcomes were similar whether baseline regurgitation was moderate or less, or severe or worse. The authors conclude that the results confirm durable safety and effectiveness of the PASCAL system at 2 years in a postmarket setting.",
+   "abstract_available": true,
+   "study_type": "Prospective single-arm postmarket study",
+   "also_in": [],
+   "critique": "Best: a prospective multicentre study with an echo core laboratory and independently adjudicated events, as described in its 1-year EuroIntervention report, showing durable regurgitation reduction at two years. Weakest: there is no control group, so symptom gains and the fall in hospitalisation, measured against the year before treatment, are open to regression to the mean and placebo effects, as the authors cautioned at one year; survival fell from 88.3 percent at one year to 77.5 percent at two; medical therapy was not systematically recorded; and Edwards, the device maker, sponsors the study. An accompanying editorial by Firas Zahr and Scott Chadderdon was published; its text was not accessible.",
+   "critique_sources": [
+    {
+     "outlet": "JACC: Cardiovascular Interventions (accompanying editorial, Zahr and Chadderdon; title only)",
+     "title": "Avenging Tricuspid Regurgitation Outcomes: Redefining the Endgame",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.08.033",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "EuroIntervention (1-year TriCLASP report: methods, limitations, funding)",
+     "title": "Transcatheter valve repair of tricuspid regurgitation: 1-year outcomes from the TriCLASP study",
+     "url": "https://eurointervention.pcronline.com/article/transcatheter-valve-repair-of-tricuspid-regurgitation-1-year-outcomes-from-the-triclasp-study",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": true
+  },
+  {
+   "category": "interventional",
+   "rank": 7,
+   "title": "Excimer Laser Coronary Atherectomy in Contemporary Percutaneous Coronary Intervention: A Position Statement.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-23",
+   "pmid": "43072896",
+   "doi": "10.1016/j.jcin.2026.05.042",
+   "link": "https://doi.org/10.1016/j.jcin.2026.05.042",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43072896/",
+   "short_title": "a position statement on excimer laser coronary atherectomy",
+   "summary": "This position statement, led by Mohaned Egred with Peter O'Kane, Emmanouil Brilakis, Alfonso Jurado-Román and other international operators, sets out the role of excimer laser coronary atherectomy in contemporary PCI. The technique was introduced more than four decades ago to modify and debulk plaque, but uptake has stayed low, which the authors attribute to misperceptions about how it works, disappointing early experience, and limited awareness of data gathered after catheter design and procedural methods improved. The arrival of rotational and orbital atherectomy and, more recently, intravascular lithotripsy has added uncertainty about where laser fits. The document offers new insights into its mechanism of action and recommends set-up, settings and protocols. Its key messages: laser is valuable for uncrossable and undilatable, thrombotic and stent-related lesions; energy and frequency should be increased stepwise; lasing in contrast is safe and effective for resistant lesions and underexpanded stents; and laser should be considered early in complex PCI. It reports no new outcome data.",
+   "abstract_available": true,
+   "study_type": "Position statement (expert consensus)",
+   "also_in": [],
+   "critique": "Best: practical, protocol-level guidance from experienced complex PCI operators, with a supplementary table of studies from the past ten years that enrolled more than 50 patients, and clear advice on settings and lasing media. Weakest: the authors acknowledge there are no randomised data for some recommendations, which rest mostly on observational data and clinical experience; the only randomised comparison they discuss, Roller COASTER-EPIC22, found similar procedural success and stent area with rotational atherectomy, lithotripsy and laser. Importantly, the full text states that funding came from Philips, which makes the laser, and that all authors received honoraria and proctorship fees from Philips. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "JACC: Cardiovascular Interventions (full text: evidence base, funding and disclosures)",
+     "title": "Excimer Laser Coronary Atherectomy in Contemporary Percutaneous Coronary Intervention: A Position Statement",
+     "url": "https://www.jacc.org/doi/10.1016/j.jcin.2026.05.042",
+     "kind": "full_text"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 8,
+   "title": "Percutaneous Septal Myocardial Ablation Is Associated With an Increase in von Willebrand Factor in Hypertrophic Cardiomyopathy.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-23",
+   "pmid": "43072906",
+   "doi": "10.1016/j.jcin.2026.08.032",
+   "link": "https://doi.org/10.1016/j.jcin.2026.08.032",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43072906/",
+   "short_title": "von Willebrand factor after alcohol septal ablation",
+   "summary": "No abstract is available for this paper yet, so no results are reported here. From Ishiguro, Kitamura, Takamisawa and colleagues, this short report examines von Willebrand factor in patients with obstructive hypertrophic cardiomyopathy undergoing percutaneous transluminal septal myocardial ablation, the catheter-based alcohol septal ablation procedure. Its keywords point to acquired von Willebrand syndrome, a bleeding tendency linked to high outflow tract shear stress, and its title states that septal ablation was associated with an increase in von Willebrand factor. See the full paper for design and findings.",
+   "abstract_available": false,
+   "study_type": "Short report (no abstract available)",
+   "also_in": [],
+   "critique": "Without an abstract, only the question can be judged. Best: acquired von Willebrand syndrome is an under-recognised contributor to bleeding in obstructive hypertrophic cardiomyopathy, and evidence that relieving obstruction with septal ablation restores von Willebrand factor would add a haematological argument for treating the gradient, relevant when such patients need antithrombotic therapy. Weakest: as a three-page short report it is likely small and observational, with laboratory rather than clinical endpoints, so it cannot show fewer bleeding events, and the timing of blood sampling relative to the procedure, and any link with residual gradient, will matter. No independent commentary on this paper was found yet.",
+   "critique_sources": [],
+   "commentary_found": false
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Hypertrophic Cardiomyopathy: A Review.",
+   "journal": "JAMA",
+   "date": "2026-11-23",
+   "pmid": "43071397",
+   "doi": "10.1001/jama.2026.21415",
+   "link": "https://doi.org/10.1001/jama.2026.21415",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43071397/",
+   "short_title": "a review of hypertrophic cardiomyopathy",
+   "summary": "This JAMA review summarises hypertrophic cardiomyopathy, defined as left ventricular wall thickness above 15 millimetres without another cause. It affects about 0.2 percent of people; 30 to 40 percent carry a pathogenic sarcomeric variant, and 60 to 70 percent have outflow tract obstruction. Annual sudden death incidence is about 0.8 percent. First-line symptomatic therapy is beta-blockers or non-dihydropyridine calcium channel blockers; alternatives include disopyramide, myosin inhibitors, alcohol septal ablation, helping 75 to 80 percent, and myectomy, 90 to 95 percent.",
+   "abstract_available": true,
+   "study_type": "Narrative review",
+   "also_in": [],
+   "relevance": "A concise update, with septal reduction success rates worth quoting when counselling patients referred for alcohol septal ablation."
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "VAD Wean Recovery Network: Long-Term Outcomes of LVAD Weaning for Myocardial Recovery",
+   "journal": "Circulation",
+   "date": "2026-11-24",
+   "pmid": null,
+   "doi": "10.1161/circulationaha.126.081028",
+   "link": "https://doi.org/10.1161/circulationaha.126.081028",
+   "pubmed_link": null,
+   "short_title": "long-term outcomes after LVAD weaning for recovery",
+   "summary": "The international VAD Wean Recovery Network studied 603 patients with chronic advanced heart failure at 60 centres whose left ventricular assist device was removed after myocardial recovery. Mean age was 42, 33 percent were women, 9.4 percent had ischaemic disease, and 88 percent were Intermacs profiles 1 to 3 at implant. Median support lasted 440 days; median ejection fraction at weaning was 50 percent. One-year survival after weaning was 91 percent; 2.3 percent needed another device, 3.7 percent transplantation.",
+   "abstract_available": true,
+   "study_type": "Multicentre international registry",
+   "also_in": [],
+   "relevance": "Mainly of advanced heart failure interest, though 41.6 percent needed temporary mechanical support at implant, linking recovery pathways to shock care."
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Right Ventricular Reverse Remodeling Without Pulmonary Vascular Unloading During Sotatercept Therapy: An Invasive Pressure-Volume Loop Study.",
+   "journal": "Circulation",
+   "date": "2026-11-23",
+   "pmid": "43071796",
+   "doi": "10.1161/circulationaha.126.080698",
+   "link": "https://doi.org/10.1161/circulationaha.126.080698",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43071796/",
+   "short_title": "right ventricular remodelling on sotatercept",
+   "summary": "In 28 consecutive patients with pulmonary arterial hypertension, the authors performed right heart catheterisation with conductance-catheter pressure-volume loops and cardiac MRI before and a median 6.1 months after starting sotatercept, with two validation cohorts. In 21 haemodynamic responders, mean pulmonary pressure fell from 52 to 39 millimetres of mercury, and right ventricular volume and mass decreased. Strikingly, the 7 non-responders also showed reduced right ventricular mass and natriuretic peptide despite persistent afterload, suggesting a direct myocardial effect.",
+   "abstract_available": true,
+   "study_type": "Registry-based invasive haemodynamic cohort study",
+   "also_in": [],
+   "relevance": "Mainly of pulmonary hypertension interest, adding invasive pressure-volume data on right ventricular biology."
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "NR6A1 Drives Cardiac Remodeling by Transcriptionally Activating the Mineralocorticoid Receptor",
+   "journal": "Circulation",
+   "date": "2026-11-24",
+   "pmid": null,
+   "doi": "10.1161/circulationaha.126.081545",
+   "link": "https://doi.org/10.1161/circulationaha.126.081545",
+   "pubmed_link": null,
+   "short_title": "NR6A1 and mineralocorticoid receptor-driven remodelling",
+   "summary": "This basic science study found the orphan nuclear receptor NR6A1 increased in failing human and mouse hearts. In mice with pressure overload from transverse aortic constriction, cardiomyocyte-specific overexpression worsened dysfunction, hypertrophy and fibrosis, while knockout protected the heart. NR6A1 bound the mineralocorticoid receptor gene promoter and boosted its transcription; silencing that receptor blunted the effects. Angiotensin II, acting through STAT1, raised NR6A1, forming a feed-forward loop that amplifies renin-angiotensin-aldosterone driven remodelling.",
+   "abstract_available": true,
+   "study_type": "Basic science (mouse models, human tissue)",
+   "also_in": [],
+   "relevance": "Mainly of basic science interest, pointing to a possible future target upstream of mineralocorticoid receptor signalling."
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Simultaneous Hydraulic Antegrade-Retrograde Passage Technique for Chronic Total Occlusion Percutaneous Coronary Intervention.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "43072910",
+   "doi": "10.1016/j.jcin.2026.08.027",
+   "reason": "Technique/images-type item (CTO 'SHARP' technique, 3 pages, no abstract); images and case-based technique reports excluded"
+  },
+  {
+   "title": "Digital Subtraction Angiography Through a Bronchial Artery Collateral Delineates the Proximal and Distal CTO Caps.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "43072909",
+   "doi": "10.1016/j.jcin.2026.08.041",
+   "reason": "Images in Intervention-style item (2 pages, 3 authors, no abstract); images excluded"
+  },
+  {
+   "title": "Double Pulmonary Artery Rail Technique for Kissing Balloon Valvuloplasty of Degenerated Bioprosthetic Tricuspid Stenosis.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "43072908",
+   "doi": "10.1016/j.jcin.2026.07.050",
+   "reason": "Case-based technique/image item (bioprosthetic tricuspid valvuloplasty, 3 pages, no abstract); case reports/images excluded"
+  },
+  {
+   "title": "Tricuspid Edge-to-Edge Repair Beyond Leaflet Approximation: The Emerging Concept of Indirect Annuloplasty.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "pmid": "43072907",
+   "doi": "10.1016/j.jcin.2026.07.026",
+   "reason": "Short viewpoint-style review with no abstract (indirect annuloplasty concept); excluded (strict, as for no-abstract review/commentary pieces on 11 Nov)"
+  },
+  {
+   "title": "Step Count and Cardiovascular Disease Prevention: A Behavioral Vital Sign.",
+   "journal": "Circulation",
+   "pmid": "43071800",
+   "doi": "10.1161/circulationaha.126.080978",
+   "reason": "Single-author perspective piece (no abstract); editorials/perspectives excluded"
+  },
+  {
+   "title": "Prinzmetal Angina.",
+   "journal": "Circulation",
+   "pmid": "43071795",
+   "doi": "10.1161/circulationaha.126.082207",
+   "reason": "One-page image/case-type item (no abstract); images and case reports excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

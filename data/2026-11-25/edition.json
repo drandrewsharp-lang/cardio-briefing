@@ -1,0 +1,116 @@
+{
+ "date": "2026-11-25",
+ "label": "Wednesday 25 November 2026",
+ "format": 2,
+ "journals": [
+  "JACC: Cardiovascular Interventions"
+ ],
+ "window": {
+  "start": "2026-11-24",
+  "end": "2026-11-25",
+  "basis": "PubMed entry date 24–25 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-25T09:06",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 1,
+   "included": 1
+  },
+  "Circulation": {
+   "pubmed_in_window": 3,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "NEJM": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "The Lancet": {
+   "pubmed_in_window": 7,
+   "included": 0
+  },
+  "JAMA": {
+   "pubmed_in_window": 6,
+   "included": 0
+  }
+ },
+ "n_papers": 1,
+ "n_interventional": 1,
+ "n_general": 0,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Transcatheter Tricuspid Valve Replacement Versus Medical Therapy for Severe Secondary Tricuspid Regurgitation: The TRIPLACE Registry.",
+   "journal": "JACC: Cardiovascular Interventions",
+   "date": "2026-11-24",
+   "pmid": "43076840",
+   "doi": "10.1016/j.jcin.2026.10.036",
+   "link": "https://doi.org/10.1016/j.jcin.2026.10.036",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43076840/",
+   "short_title": "tricuspid valve replacement versus medical therapy in the TRIPLACE registry",
+   "summary": "From Scotti and colleagues, this observational study compares transcatheter tricuspid valve replacement with medical therapy in secondary tricuspid regurgitation. It pairs 395 patients treated with valve replacement in the TRIPLACE registry, from 24 centres between 2017 and 2025, with 784 medically treated patients from the single-centre Bronx-Valve Registry, enrolled from 2017 to 2019. Propensity overlap weighting used 30 covariates. The primary endpoint was the two-year composite of all-cause death or heart failure hospitalisation. Valve replacement left mild or less regurgitation in 93.7 percent and moderate or less in 98.7 percent. In-hospital mortality was 0.8 percent; at 30 days, 14.8 percent needed a new permanent pacemaker and 6.5 percent had severe bleeding. Median follow-up was 363 days. After weighting, valve replacement was associated with a lower primary endpoint, hazard ratio 0.60, 95 percent CI 0.40 to 0.89, and lower all-cause mortality, hazard ratio 0.61, 95 percent CI 0.38 to 0.99. Heart failure hospitalisation did not differ significantly, hazard ratio 0.69.",
+   "abstract_available": true,
+   "study_type": "Observational registry comparison (propensity overlap weighting)",
+   "also_in": [],
+   "critique": "Best: a multicentre registry with near-complete abolition of regurgitation, and careful overlap weighting that balanced all 30 covariates; the authors themselves stress the nonrandomised design and procedural risks. Weakest: the controls come from a single Bronx centre treated in 2017 to 2019, a different era and setting from the valve cohort, so unmeasured differences in selection, anatomy and background therapy cannot be removed by weighting. Median follow-up of about one year limits two-year estimates, and the mortality confidence interval almost reaches one. The pacemaker rate echoes earlier TRIPLACE data that TCTMD covered in 2024. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "TCTMD (NY Valves 2024 news on earlier TRIPLACE data, related)",
+     "title": "AV Block Common After Transcatheter Tricuspid Valve Replacement for TR",
+     "url": "https://www.tctmd.com/news/av-block-common-after-transcatheter-tricuspid-valve-replacement-tr",
+     "kind": "related"
+    },
+    {
+     "outlet": "Cardiovascular Business (TRIPLACE paravalvular leak analysis, related)",
+     "title": "PVL after TTVR linked to much lower survival rate, fewer clinical benefits",
+     "url": "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/pvl-after-ttvr-linked-much-lower-survival-rate-fewer-clinical-benefits",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial.",
+   "journal": "JAMA",
+   "pmid": "43076208",
+   "doi": "10.1001/jama.2026.25614",
+   "reason": "Not cardiology (prehospital fluid resuscitation in suspected sepsis)"
+  },
+  {
+   "title": "Seeing Is Believing",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.032",
+   "reason": "Short commentary-type piece (4 pages, no abstract, 3 authors); editorials/viewpoints excluded"
+  },
+  {
+   "title": "The Residual Risk We Often Miss",
+   "journal": "JACC",
+   "pmid": null,
+   "doi": "10.1016/j.jacc.2026.09.029",
+   "reason": "Single-author 2-page perspective/editorial (Krumholz, no abstract); editorials excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}

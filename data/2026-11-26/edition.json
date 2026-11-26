@@ -1,0 +1,237 @@
+{
+ "date": "2026-11-26",
+ "label": "Thursday 26 November 2026",
+ "format": 2,
+ "journals": [
+  "JACC",
+  "JAMA Cardiology",
+  "NEJM",
+  "The Lancet"
+ ],
+ "window": {
+  "start": "2026-11-25",
+  "end": "2026-11-26",
+  "basis": "PubMed entry date 25–26 Nov 2026 inclusive; Crossref/feed online date for papers not yet in PubMed"
+ },
+ "generated_at": "2026-11-26T09:11",
+ "counts": {
+  "EuroIntervention": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JACC": {
+   "pubmed_in_window": 8,
+   "included": 3
+  },
+  "JACC: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "Circulation: Cardiovascular Interventions": {
+   "pubmed_in_window": 0,
+   "included": 0
+  },
+  "JAMA Cardiology": {
+   "pubmed_in_window": 9,
+   "included": 2
+  },
+  "NEJM": {
+   "pubmed_in_window": 20,
+   "included": 1
+  },
+  "The Lancet": {
+   "pubmed_in_window": 8,
+   "included": 1
+  },
+  "JAMA": {
+   "pubmed_in_window": 13,
+   "included": 0
+  }
+ },
+ "n_papers": 7,
+ "n_interventional": 2,
+ "n_general": 5,
+ "papers": [
+  {
+   "category": "interventional",
+   "rank": 1,
+   "title": "Myocardial injury with non-obstructive coronary arteries: diagnostic pathways and stratified treatment.",
+   "journal": "The Lancet",
+   "date": "2026-11-25",
+   "pmid": "43085372",
+   "doi": "10.1016/s0140-6736(26)01640-5",
+   "link": "https://doi.org/10.1016/s0140-6736(26)01640-5",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43085372/",
+   "short_title": "a review of MINOCA diagnostic pathways and stratified treatment",
+   "summary": "In this Lancet Review, Rocco Montone, Roxana Mehran and Filippo Crea examine myocardial injury with non-obstructive coronary arteries, or MINOCA. They argue that MINOCA challenges the long-standing assumption that myocardial infarction is synonymous with obstructive coronary disease, and that rather than a paradox it reflects the limits of angiography-centred thinking. The review treats MINOCA as a working diagnosis covering diverse mechanisms: plaque disruption, coronary vasomotor dysfunction, microvascular disease and non-coronary conditions. The authors propose a pragmatic, mechanism-oriented framework for selecting and sequencing investigations, integrating intracoronary imaging, cardiac magnetic resonance and coronary functional testing according to the clinical scenario, while balancing diagnostic yield against procedural risk and resource availability. Treatment, they argue, should be guided by the underlying pathophysiology rather than a uniform approach borrowed from obstructive infarction, and emerging evidence supports stratified therapy to improve patient-centred outcomes. They close with research priorities toward a mechanism-based taxonomy. As a narrative review, the abstract reports no numerical results.",
+   "abstract_available": true,
+   "study_type": "Narrative review",
+   "also_in": [],
+   "critique": "Strongest: a clear, clinically usable framework from leading authors that tells the cath lab team when to add optical coherence tomography, functional testing and cardiac MRI, rather than stopping at a normal-looking angiogram. Weakest: it is a narrative review whose abstract describes no systematic search or pooled data, and the authors' university press release says it synthesises the team's own earlier studies, citing their PROMISE trial as validation. TCTMD's related coverage of PROMISE reported better angina-related health status but noted early termination, only 100 patients and no blinding, so benefit on hard endpoints remains unproven. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "Newswise (Università Cattolica del Sacro Cuore press release on this review; not independent)",
+     "title": "Heart Attack Without Obstructed Arteries: A New Frontier in Precision Cardiology",
+     "url": "https://www.newswise.com/articles/heart-attack-without-obstructed-arteries-a-new-frontier-in-precision-cardiology",
+     "kind": "about_paper"
+    },
+    {
+     "outlet": "TCTMD (TCT 2025 news on the PROMISE trial, related)",
+     "title": "Tailored Testing and Care Ease Angina for MINOCA Patients: PROMISE",
+     "url": "https://www.tctmd.com/news/tailored-testing-and-care-ease-angina-minoca-patients-promise",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "interventional",
+   "rank": 2,
+   "title": "Antithrombotic Therapy After Coronary Artery Bypass Grafting.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-25",
+   "pmid": "43084322",
+   "doi": "10.1001/jamacardio.2026.5118",
+   "link": "https://doi.org/10.1001/jamacardio.2026.5118",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43084322/",
+   "short_title": "antithrombotic therapy after bypass surgery",
+   "summary": "From Galli, Angiolillo and an international group of cardiologists and cardiac surgeons, this Special Communication reviews antithrombotic therapy as secondary prevention after coronary artery bypass grafting. Bypass surgery remains the cornerstone of revascularisation in complex coronary disease, but long-term outcomes are limited by graft failure, particularly of saphenous vein grafts, and by recurrent ischaemic events. Graft attrition is time dependent: early failure is driven mainly by platelet-mediated thrombosis, and later failure by intimal hyperplasia and accelerated atherosclerosis, so antithrombotic therapy needs a time-adapted approach. Lifelong aspirin remains the foundation, whereas the intensity and duration of dual antiplatelet therapy remain controversial. Strategies have historically been extrapolated from PCI, despite differences in the pathophysiology of ischaemic recurrence and in bleeding risk. As PCI has moved toward risk-adapted and de-escalation strategies, emerging surgery-specific randomised trials are challenging routine PCI-like dual antiplatelet therapy. The review proposes a risk-adapted framework integrating graft-failure pathophysiology, clinical presentation and bleeding susceptibility. Its abstract reports no numerical results.",
+   "abstract_available": true,
+   "study_type": "Narrative review (Special Communication)",
+   "also_in": [],
+   "critique": "Strongest: a multidisciplinary author group spanning interventional cardiology, pharmacology and cardiac surgery, and a mechanistic, time-dependent view of graft failure that moves beyond simply copying PCI regimens. Weakest: it is a narrative expert review with no systematic search or pooled estimates in its abstract, so its framework rests on judgement and a small number of surgery-specific trials. TCTMD's related coverage of TACSI and TOP-CABG shows that evidence: a year of ticagrelor plus aspirin doubled major bleeding without reducing events, while three-month de-escalation kept vein graft patency, though it is unproven that fewer occlusions mean fewer hard events. No independent commentary on this paper was found yet.",
+   "critique_sources": [
+    {
+     "outlet": "TCTMD (news on the TACSI and TOP-CABG trials, related)",
+     "title": "DAPT's Role After CABG Questioned: TACSI and TOP-CABG",
+     "url": "https://www.tctmd.com/news/dapts-role-after-cabg-questioned-tacsi-and-top-cabg",
+     "kind": "related"
+    }
+   ],
+   "commentary_found": false
+  },
+  {
+   "category": "general",
+   "rank": 1,
+   "title": "Blood-Pressure-Lowering Treatment across the Cardiovascular Risk Spectrum.",
+   "journal": "NEJM",
+   "date": "2026-11-25",
+   "pmid": "43084787",
+   "doi": "10.1056/nejmoa2607848",
+   "link": "https://doi.org/10.1056/nejmoa2607848",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43084787/",
+   "short_title": "blood-pressure lowering across the cardiovascular risk spectrum",
+   "summary": "This individual-participant meta-analysis pooled 51 randomised trials with 357,440 participants followed for a median 4.2 years. Each 5 mm Hg systolic reduction lowered major cardiovascular events, hazard ratio 0.90, 95% CI 0.88 to 0.92, with no variation across ten predicted-risk deciles, including five-year risk below 4%. Absolute five-year benefit was 2.6 versus 0.4 percentage points in the highest versus lowest decile, numbers needed to treat 38 versus 255. Hypotension-type, renal and fall-related adverse events rose modestly.",
+   "abstract_available": true,
+   "study_type": "Individual participant data meta-analysis of randomised trials",
+   "also_in": [],
+   "relevance": "Supports treating blood pressure in lower-risk as well as post-PCI patients, with the absolute gain scaling with baseline risk."
+  },
+  {
+   "category": "general",
+   "rank": 2,
+   "title": "Computed Tomography Imaging Markers Associated With Prognosis at 10 Years: A Post Hoc Analysis of the SCOT-HEART Randomized Clinical Trial.",
+   "journal": "JAMA Cardiology",
+   "date": "2026-11-25",
+   "pmid": "43084315",
+   "doi": "10.1001/jamacardio.2026.5350",
+   "link": "https://doi.org/10.1001/jamacardio.2026.5350",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43084315/",
+   "short_title": "ten-year prognosis from CT plaque markers in SCOT-HEART",
+   "summary": "This post hoc analysis of the SCOT-HEART trial studied 1,769 patients with stable chest pain who had coronary CT angiography at three Scottish centres. Over 10 years, 117, or 6.6%, had myocardial infarction or coronary death. After adjustment for risk score and scanner, total, calcified, noncalcified and low-attenuation plaque burdens each predicted events; per doubling of low-attenuation plaque the hazard ratio was 1.51, 95% CI 1.28 to 1.78. Low-attenuation plaque burden above 4% carried an adjusted hazard ratio of 2.66.",
+   "abstract_available": true,
+   "study_type": "Post hoc analysis of a randomised trial",
+   "also_in": [],
+   "relevance": "Relevant to CT-first chest pain pathways in Ireland and the UK, where quantitative plaque metrics may sharpen who needs invasive assessment or intensive prevention."
+  },
+  {
+   "category": "general",
+   "rank": 3,
+   "title": "Aortic Sclerosis and Aortic Stenosis: Two Entities or a Continuum?",
+   "journal": "JACC",
+   "date": "2026-11-17",
+   "pmid": "43083523",
+   "doi": "10.1016/j.jacc.2026.10.072",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.072",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43083523/",
+   "short_title": "aortic sclerosis and stenosis as one continuum",
+   "summary": "This retrospective study analysed 181,167 adults with morphologically abnormal aortic valves and peak transvalvular velocity of 1.0 to 3.9 m/s on echocardiography between 2010 and 2022, excluding severe stenosis. Over a median 3.2 years, 4,112 underwent valve replacement and 61,654 died. Replacement risk rose gradually across the velocity range with no threshold separating sclerosis from stenosis; five-year incidence rose from 0.1% at 1.0 to 1.4 m/s to 31.2% at 3.0 to 3.9 m/s. Associations with mortality persisted after adjustment.",
+   "abstract_available": true,
+   "study_type": "Retrospective echocardiographic cohort",
+   "also_in": [],
+   "relevance": "Argues for surveillance of valves labelled merely sclerotic, since they feed the future TAVI pipeline."
+  },
+  {
+   "category": "general",
+   "rank": 4,
+   "title": "Center Performance Assessment in Congenital Heart Surgery Is Method Dependent.",
+   "journal": "JACC",
+   "date": "2026-11-05",
+   "pmid": "43083522",
+   "doi": "10.1016/j.jacc.2026.10.006",
+   "link": "https://doi.org/10.1016/j.jacc.2026.10.006",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43083522/",
+   "short_title": "method-dependent centre ratings in congenital heart surgery",
+   "summary": "Using 42,579 benchmark operations at 115 centres in the Society of Thoracic Surgeons Congenital Heart Surgery Database from 2016 to 2022, this study compared conventional regression with three causal weighting methods for estimating observed-to-expected operative mortality. Unadjusted mortality was 2.37%. Weighting estimates were higher and more variable, classifying 13.9% to 20% of centres as having higher than expected mortality, versus 7.8% with regression. The same centre could receive different ratings purely because of the statistical method.",
+   "abstract_available": true,
+   "study_type": "Registry-based methodological comparison",
+   "also_in": [],
+   "relevance": "Limited direct relevance, but a caution for any centre-level outcome league tables, including PCI and TAVI registries."
+  },
+  {
+   "category": "general",
+   "rank": 5,
+   "title": "Process, Heterogeneity, and Modifiable Risk Factors of Postoperative Recovery After Cardiac Surgery.",
+   "journal": "JACC",
+   "date": "2026-11-25",
+   "pmid": "43083520",
+   "doi": "10.1016/j.jacc.2026.07.057",
+   "link": "https://doi.org/10.1016/j.jacc.2026.07.057",
+   "pubmed_link": "https://pubmed.ncbi.nlm.nih.gov/43083520/",
+   "short_title": "patient-reported recovery after cardiac surgery",
+   "summary": "This prospective cohort enrolled 2,993 patients having non-emergent cardiac surgery at eight Chinese centres in 2023 and 2024, tracking the nine-item Fuwai-Cardiac Recovery Scale from baseline to three months. A total score of 30 or less was reached by 77.4% at discharge and 97.7% at three months. Thirst, toileting dependency and poor mobility dominated early symptom burden. Three poor-recovery patterns emerged, linked to modifiable factors such as smoking, obesity and anaemia; anaemia and poor appetite, odds ratio 1.47.",
+   "abstract_available": true,
+   "study_type": "Multicentre prospective cohort",
+   "also_in": [],
+   "relevance": "Mainly of cardiac surgical interest, though useful when counselling patients weighing surgery against transcatheter options."
+  }
+ ],
+ "excluded": [
+  {
+   "title": "Betting on Science: Prediction Markets and the Integrity of the Clinical Trial.",
+   "journal": "JACC",
+   "pmid": "43083519",
+   "doi": "10.1016/j.jacc.2026.10.074",
+   "reason": "Two-author perspective on prediction markets and trial integrity (no abstract); viewpoints/editorials excluded"
+  },
+  {
+   "title": "The Language of Inflammation in Cardiovascular Medicine.",
+   "journal": "JACC",
+   "pmid": "43083518",
+   "doi": "10.1016/j.jacc.2026.10.076",
+   "reason": "Two-author perspective on inflammation terminology (no abstract); viewpoints/editorials excluded"
+  },
+  {
+   "title": "What Comes Next for CCTA a Decade After the SCOT-HEART Trial.",
+   "journal": "JAMA Cardiology",
+   "pmid": "43084276",
+   "doi": "10.1001/jamacardio.2026.5497",
+   "reason": "Two-author editorial accompanying the SCOT-HEART 10-year CT analysis (no abstract); editorials excluded"
+  },
+  {
+   "title": "Dapagliflozin and Acute Kidney Injury After Cardiac Surgery.",
+   "journal": "JAMA",
+   "pmid": "43084279",
+   "doi": "10.1001/jama.2026.21855",
+   "reason": "Single-author correspondence (no abstract) with a same-title reply (10.1001/jama.2026.21858); letters excluded"
+  }
+ ],
+ "files": {
+  "spoken_script": "spoken_script.txt",
+  "written_digest": "written_digest.md"
+ }
+}
